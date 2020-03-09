@@ -34,4 +34,17 @@ class JobPost(Base):
     source = Column(String(50), nullable=False)
 
 
+class CompReview(Base):
+    __tablename__ = 'comp_review'
+    id = Column(Integer, primary_key=True)
+    title = Column(String(500), nullable=False)
+	# rating = Column(String(5), nullable=False)
+	# author = Column(String(100), nullable=False)
+	# status = Column(String(100), nullable=False)
+	# location = Column(String(150), nullable=False)
+	# date = Column(String(50), nullable=False)
+	# description = Column(Text, nullable=False)
+	# helpful_yes = Column(String(5), nullable=False)
+	# helpful_no = Column(String(5), nullable=False)
+	# source = Column(String(50), nullable=False)
 

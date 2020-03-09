@@ -3,3 +3,6 @@ create_schema:
 
 crawl_jobs:
 	cd collectors; scrapy crawl indeed-job-list	
+
+crawl_reviews:
+	cd collectors; scrapy crawl indeed-comp-review

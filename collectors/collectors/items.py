@@ -22,3 +22,19 @@ class IndeedJobItem(scrapy.Item):
 	location = scrapy.Field()
 	description = scrapy.Field()
 	source = scrapy.Field()
+
+
+class IndeedReviewItem(scrapy.Item):
+    
+	# the fields for the item are defined here like:
+	# review
+	title = scrapy.Field()
+	rating = scrapy.Field()
+	author = scrapy.Field()
+	status = scrapy.Field()
+	location = scrapy.Field()
+	date = scrapy.Field()
+	description = scrapy.Field()
+	helpful_yes = scrapy.Field()
+	helpful_no = scrapy.Field()
+	source = scrapy.Field()

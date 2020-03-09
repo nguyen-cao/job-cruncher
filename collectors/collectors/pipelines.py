@@ -6,11 +6,12 @@
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-from .models.job import JobPost, create_session, close_session
+from .models.job import JobPost, create_session, close_session, CompReview
 from datetime import datetime
 
 PIPELINE_SPIDERS = {
     'IndeedJobListCollectorPipeline': ['indeed-job-list'],
+    'IndeedCompReviewCollectorPipeline': ['indeed-comp-review'],
 } 
 
 class IndeedJobListCollectorPipeline(object):
@@ -36,5 +37,34 @@ class IndeedJobListCollectorPipeline(object):
             source=item['source'])
         
         self.session.add(jobPost)
+        self.session.commit()
+        return item
+
+
+class IndeedCompReviewCollectorPipeline(object):
+    def __init__(self):
+        self.session = create_session()
+
+    def open_spider(self, spider):
+        print('Start spider...'+spider.name)
+
+    def close_spider(self, spider):
+        print('Stop spider... '+spider.name)
+        close_session(self.session)
+
+    def process_item(self, item, spider):
+        spider_name = spider.name
+        if spider_name not in PIPELINE_SPIDERS[self.__class__.__name__]:
+            return item
+
+        # jobPost = JobPost(title=item['title'], \
+        #     company=item['company'], \
+        #     location=item['location'], \
+        #     description=item['description'], \
+        #     source=item['source'])
+
+        compReview = CompReview(title=item['title'])
+        
+        self.session.add(compReview)
         self.session.commit()
         return item
