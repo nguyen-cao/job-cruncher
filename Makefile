@@ -6,3 +6,6 @@ crawl_jobs:
 
 crawl_reviews:
 	cd collectors; scrapy crawl indeed-comp-review
+
+crawl_jobs_glassdoor:
+	cd collectors; scrapy crawl glassdoor-job-list

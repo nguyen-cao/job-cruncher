@@ -33,6 +33,15 @@ class JobPost(Base):
     description = Column(Text, nullable=False)
     source = Column(String(50), nullable=False)
 
+# class JobPost_glassdoor(Base):
+#     __tablename__ = 'job_post_glassdoor'
+#     id = Column(Integer, primary_key=True)
+#     title = Column(String(500), nullable=False)
+#     company = Column(String(100), nullable=False)
+#     location = Column(String(150), nullable=False)
+#     description = Column(Text, nullable=False)
+#     source = Column(String(50), nullable=False)
+
 
 class CompReview(Base):
     __tablename__ = 'comp_review'
