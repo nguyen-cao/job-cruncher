@@ -43,7 +43,7 @@ class GlassdoorJobListSpider(scrapy.Spider):
             #driver.execute_script('chrome.settingsPrivate.setDefaultZoom(0.70);')
             driver.get(url)
             
-            job_containers = driver.find_elements_by_css_selector('.jlGrid.hover')
+            job_containers = driver.find_elements_by_css_selector('.jobContainer')
             for job_element in job_containers:
                 self.jobs_scraped += 1
                 if (self.jobs_scraped > MAX_JOBS):
@@ -51,14 +51,13 @@ class GlassdoorJobListSpider(scrapy.Spider):
 
                 
                 job_title = job_element.find_element_by_css_selector('.jobLink.jobInfoItem.jobTitle').text    
-                job_company = job_element.find_element_by_css_selector('.jobInfoItem.jobEmployerName').text
-                
-                
+                job_company = job_element.find_element_by_css_selector('.jobInfoItem.jobEmpolyerName').text
+                job_location = job_element.find_element_by_css_selector('.loc').text
 
-                job_link = job_element.find_element_by_css_selector('li.jl')
+                job_link = job_element.find_element_by_css_selector('.jobLink.jobInfoItem.jobTitle')
                 job_link.click()
                 time.sleep(2)
-                job_location = job_element.find_element_by_css_selector('.location').text
+                
                 job_description = driver.find_element_by_css_selector('.jobDescriptionContent.desc').text
 
                 job_item = GlassdoorJobItem()
@@ -72,7 +71,7 @@ class GlassdoorJobListSpider(scrapy.Spider):
             
             # move to the next page of job list
             #next_page = driver.find_elements_by_css_selector('.pagingControls.cell.middle li')[-1]
-            next_page = driver.find_elements_by_css_selector('li.page a')[-1]
+            next_page = driver.find_element_by_css_selector('.next a')
             print('NEXT PAGE: %s' %next_page)
             if next_page:
                 yield scrapy.Request(next_page.get_attribute('href'), callback=self.parse)
