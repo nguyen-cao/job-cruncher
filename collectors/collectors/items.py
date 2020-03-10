@@ -22,3 +22,13 @@ class IndeedJobItem(scrapy.Item):
 	location = scrapy.Field()
 	description = scrapy.Field()
 	source = scrapy.Field()
+
+class GlassdoorJobItem(scrapy.Item):
+    
+	# the fields for the item are defined here like:
+	# job
+	title = scrapy.Field()
+	company = scrapy.Field()
+	location = scrapy.Field()
+	description = scrapy.Field()
+	source = scrapy.Field()
