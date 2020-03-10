@@ -15,7 +15,7 @@ from selenium.webdriver.chrome.options import Options
 from ..models.job import create_session
 from ..items import IndeedReviewItem
 
-MAX_REVIEWS = 2
+MAX_REVIEWS = 25
 
 class IndeedCompReviewSpider(scrapy.Spider):
     name = 'indeed-comp-review'
@@ -28,7 +28,6 @@ class IndeedCompReviewSpider(scrapy.Spider):
 
     def start_requests(self):
         urls = self.start_urls
-        # q = "q=data+scientist&l=Vancouver%2C+BC"
         q = "Air-Canada/reviews?fcountry=CA&lang=en"
         for url in urls:
             yield scrapy.Request(url="{0}/{1}".format(url,q), callback=self.parse)
@@ -48,23 +47,29 @@ class IndeedCompReviewSpider(scrapy.Spider):
                 if (self.reviews_scraped > MAX_REVIEWS):
                     return
 
+                review_company = "Air Canada" # To be generalized
                 review_title = review_element.find_element_by_css_selector('.cmp-Review-title').text
-                print("*****************************")
-                print(review_title)
-                # job_company = job_element.find_element_by_css_selector('.company').text
-                # job_location = job_element.find_element_by_css_selector('.location').text
-
-                # job_link = job_element.find_element_by_css_selector('.jobtitle')
-                # job_link.click()
+                review_rating = review_element.find_element_by_css_selector('.cmp-ReviewRating-text').text
+                review_author = review_element.find_element_by_css_selector('.cmp-ReviewAuthor-link').text
+                details = review_element.find_element_by_css_selector('.cmp-ReviewAuthor').text
+                # Manipulating the data to get relevant information
+                review_author, details = details.split("(")
+                review_author_status, details = details.split(")")
+                review_location, review_date = details.split("-", 2)[1:]
+                review_author_status = review_author_status.replace(")", "")
+                review_description = review_element.find_element_by_css_selector('.cmp-Review-text').text
                 time.sleep(2)
-                # job_description = driver.find_element_by_css_selector('#vjs-desc').text
-
+    
                 review_item = IndeedReviewItem()
+                review_item['company'] = review_company
                 review_item['title'] = review_title
-                # job_item['company'] = job_company
-                # job_item['location'] = job_location
-                # job_item['description'] = job_description
-                # job_item['source'] = 'indeed.com'
+                review_item['rating'] = review_rating
+                review_item['author'] = review_author
+                review_item['author_status'] = review_author_status
+                review_item['location'] = review_location
+                review_item['date'] = review_date
+                review_item['description'] = review_description
+                review_item['source'] = 'indeed.com'
                 
                 yield review_item
             

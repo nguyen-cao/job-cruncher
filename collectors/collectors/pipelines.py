@@ -57,13 +57,15 @@ class IndeedCompReviewCollectorPipeline(object):
         if spider_name not in PIPELINE_SPIDERS[self.__class__.__name__]:
             return item
 
-        # jobPost = JobPost(title=item['title'], \
-        #     company=item['company'], \
-        #     location=item['location'], \
-        #     description=item['description'], \
-        #     source=item['source'])
-
-        compReview = CompReview(title=item['title'])
+        compReview = CompReview(company = item['company'], \
+                title = item['title'], \
+                rating = item['rating'], \
+	            author = item['author'], \
+	            author_status = item['author_status'], \
+                location = item['location'], \
+                date = item['date'], \
+                description = item['description'], \
+                source = item['source'])
         
         self.session.add(compReview)
         self.session.commit()
