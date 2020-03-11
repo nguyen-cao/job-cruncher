@@ -67,7 +67,8 @@ ROBOTSTXT_OBEY = True
 ITEM_PIPELINES = {
    'collectors.pipelines.IndeedJobListCollectorPipeline': 300,
    'collectors.pipelines.IndeedCompReviewCollectorPipeline': 300,
-   'collectors.pipelines.GlassdoorJobListCollectorPipeline': 800,
+   'collectors.pipelines.GlassdoorJobListCollectorPipeline': 300,
+   'collectors.pipelines.GlassdoorInterviewCollectorPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

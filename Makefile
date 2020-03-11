@@ -5,7 +5,10 @@ crawl_jobs:
 	cd collectors; scrapy crawl indeed-job-list	
 
 crawl_reviews:
-	cd collectors; scrapy crawl indeed-comp-review
+	cd collectors; scrapy crawl indeed-company-review
 
 crawl_jobs_glassdoor:
 	cd collectors; scrapy crawl glassdoor-job-list
+
+crawl_interviews:
+	cd collectors; scrapy crawl glassdoor-job-interview

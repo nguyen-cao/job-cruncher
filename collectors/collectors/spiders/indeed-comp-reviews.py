@@ -18,7 +18,7 @@ from ..items import IndeedReviewItem
 MAX_REVIEWS = 25
 
 class IndeedCompReviewSpider(scrapy.Spider):
-    name = 'indeed-comp-review'
+    name = 'indeed-company-review'
     allowed_domains = ['indeed.com']
     start_urls = ['https://ca.indeed.com/cmp']
 
