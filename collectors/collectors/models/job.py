@@ -46,3 +46,14 @@ class CompReview(Base):
     date = Column(String(50), nullable=False)
     description = Column(Text, nullable=False)
     source = Column(String(50), nullable=False)
+
+
+
+class TitleInterview(Base):
+    __tablename__ = 'title_interview'
+    id = Column(Integer, primary_key=True)
+    company = Column(String(500), nullable=False)
+    title = Column(String(500), nullable=False)
+    question = Column(String(500), nullable=False)
+    date = Column(String(50), nullable=False)
+    source = Column(String(50), nullable=False)
