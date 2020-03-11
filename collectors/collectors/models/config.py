@@ -2,7 +2,7 @@ import os
 
 from sqlalchemy import create_engine
 
-DATABASE_URL = 'sqlite:///db.sqlite3'
+DATABASE_URL = 'sqlite:///data.sqlite3'
 engine = create_engine(DATABASE_URL, echo=True)  
 
 # SQLALCHEMY_DATABASE_URI = 'postgresql://[username]:[password]@localhost/[dbName]'
