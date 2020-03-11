@@ -35,6 +35,8 @@ class IndeedReviewItem(scrapy.Item):
 	author_status = scrapy.Field()
 	location = scrapy.Field()
 	date = scrapy.Field()
+	description = scrapy.Field()
+	source = scrapy.Field()
 class GlassdoorJobItem(scrapy.Item):
     
 	# the fields for the item are defined here like:
