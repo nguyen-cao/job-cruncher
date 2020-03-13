@@ -34,9 +34,7 @@ class GlassdoorInterviewSpider(scrapy.Spider):
             yield scrapy.Request(url="{0}/{1}".format(url,q), callback=self.parse)
 
     def parse(self, response):
-        print("Inside PArse............!!!!!!")
         url = response.url
-        print("url=====",url)
         # start the webdriver to crawl reviews
         chrome_options = Options()  
         driver = webdriver.Chrome(chrome_options=chrome_options)
@@ -67,22 +65,11 @@ class GlassdoorInterviewSpider(scrapy.Spider):
             
             # move to the next page of interview list
             next_page = driver.find_elements_by_css_selector('.next a')[0]
-            # print("SSsssssssssssssssssssss",next_page)
-            # print("*******************************************")
+            
             print('NEXT PAGE: %s' %next_page)
             if next_page:
-            #     # yield scrapy.Request(next_page.get_attribute('href'), callback=self.parse)
-            #     print("YIELD= ",scrapy.Request(next_page.get_attribute('href'), callback=self.parse))
                 yield scrapy.Request(next_page.get_attribute('href'), callback=self.parse)
-
-            # self.num_pages += 1
-            # temp = 'https://www.glassdoor.ca/Interview/'
-            # q = "data-scientist-interview-questions-SRCH_KO0,14"
-            # print("*******************************************")
-            # print(temp+q+"_IP"+str(self.num_pages)+".htm")
-            # yield scrapy.Request(temp+q+"_IP"+str(self.num_pages)+".htm", callback=self.parse)
-
-                            
+                           
         except Exception as e:
             print(e)
 
