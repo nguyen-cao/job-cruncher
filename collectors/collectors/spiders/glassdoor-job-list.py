@@ -15,7 +15,7 @@ from selenium.webdriver.chrome.options import Options
 from ..models.job import create_session
 from ..items import GlassdoorJobItem, IndeedJobItem
 
-MAX_JOBS = 2
+MAX_JOBS = 20
 
 class GlassdoorJobListSpider(scrapy.Spider):
     name = 'glassdoor-job-list'
@@ -77,8 +77,6 @@ class GlassdoorJobListSpider(scrapy.Spider):
                 job_item['location'] = job_location
                 job_item['description'] = job_description
                 job_item['source'] = 'glassdoor.com'
-                print("*********************************")
-                print(job_item)
                 
                 yield job_item
             
