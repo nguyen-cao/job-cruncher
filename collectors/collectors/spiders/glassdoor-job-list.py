@@ -13,13 +13,13 @@ from selenium.common.exceptions import NoSuchElementException, ElementClickInter
 from selenium.webdriver.chrome.options import Options
 
 from ..models.job import create_session
-from ..items import GlassdoorJobItem
+from ..items import GlassdoorJobItem, IndeedJobItem
 
-MAX_JOBS = 100
+MAX_JOBS = 2
 
 class GlassdoorJobListSpider(scrapy.Spider):
     name = 'glassdoor-job-list'
-    allowed_domains = ['glassdoor.com']
+    allowed_domains = ['glassdoor.ca']
     start_urls = ['https://www.glassdoor.ca/Job']
     
 
@@ -71,19 +71,22 @@ class GlassdoorJobListSpider(scrapy.Spider):
                 job_description = driver.find_element_by_css_selector('.jobDescriptionContent.desc').text
 
                 job_item = GlassdoorJobItem()
+                # job_item = IndeedJobItem()
                 job_item['title'] = job_title
                 job_item['company'] = job_company
                 job_item['location'] = job_location
                 job_item['description'] = job_description
                 job_item['source'] = 'glassdoor.com'
+                print("*********************************")
+                print(job_item)
                 
                 yield job_item
             
             # move to the next page of job list
             #next_page = driver.find_elements_by_css_selector('.pagingControls.cell.middle li')[-1]
             # next_page = driver.find_element_by_css_selector('.next a')
-            next_page = driver.find_elements_by_css_selector('.pagingControls.cell.middle a')[-1]
-            print('NEXT PAGE: %s' %next_page.get_attribute('href'))
+            next_page = driver.find_elements_by_css_selector('.next a')[0]
+            print('NEXT PAGE: %s' %next_page)
             if next_page:
                 yield scrapy.Request(next_page.get_attribute('href'), callback=self.parse)
                             

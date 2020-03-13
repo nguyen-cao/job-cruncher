@@ -96,6 +96,8 @@ class GlassdoorJobListCollectorPipeline(object):
             source=item['source'])
         
         self.session.add(jobPost_glassdoor)
+        self.session.commit()
+        return item
 
 class GlassdoorInterviewCollectorPipeline(object):
     def __init__(self):
