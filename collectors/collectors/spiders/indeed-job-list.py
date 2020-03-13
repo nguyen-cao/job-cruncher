@@ -15,7 +15,7 @@ from selenium.webdriver.chrome.options import Options
 from ..models.job import create_session
 from ..items import IndeedJobItem
 
-MAX_JOBS = 20
+MAX_JOBS = 5
 
 class IndeedJobListSpider(scrapy.Spider):
     name = 'indeed-job-list'
@@ -37,7 +37,10 @@ class IndeedJobListSpider(scrapy.Spider):
         # start the webdriver to crawl reviews
         chrome_options = Options()  
         driver = webdriver.Chrome(chrome_options=chrome_options)
+
         try:
+            driver.get('chrome://settings/')
+            driver.execute_script('chrome.settingsPrivate.setDefaultZoom(0.50);')
             driver.get(url)
             
             job_containers = driver.find_elements_by_css_selector('.result')
