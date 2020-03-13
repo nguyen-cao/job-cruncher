@@ -2,9 +2,26 @@ create_schema:
 	cd collectors; python -c 'from collectors.models import job; job.create_schema(True)'
 
 crawl_jobs:
-	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+scientist&l=Vancouver%2C+BC' -a max_items=25 -a search_kw='data scientist'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+scientist&l=Vancouver%2C+BC' -a max_items=5 -a search_kw='data scientist'
 	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+engineer&l=Vancouver%2C+BC' -a max_items=5 -a search_kw='data engineer'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+analyst&l=Vancouver%2C+BC' -a max_items=5 -a search_kw='data analyst'
 	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+scientist&l=Toronto%2C+ON' -a max_items=5 -a search_kw='data scientist'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+engineer&l=Toronto%2C+ON' -a max_items=5 -a search_kw='data engineer'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+analyst&l=Toronto%2C+ON' -a max_items=5 -a search_kw='data analyst'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+scientist&l=Montreal%2C+QC' -a max_items=5 -a search_kw='data scientist'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+engineer&l=Montreal%2C+QC' -a max_items=5 -a search_kw='data engineer'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+analyst&l=Montreal%2C+QC' -a max_items=5 -a search_kw='data analyst'
+
+crawl_jobs_production:
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+scientist&l=Vancouver%2C+BC' -a max_items=1000 -a search_kw='data scientist'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+engineer&l=Vancouver%2C+BC' -a max_items=1000 -a search_kw='data engineer'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+analyst&l=Vancouver%2C+BC' -a max_items=1000 -a search_kw='data analyst'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+scientist&l=Toronto%2C+ON' -a max_items=1000 -a search_kw='data scientist'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+engineer&l=Toronto%2C+ON' -a max_items=1000 -a search_kw='data engineer'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+analyst&l=Toronto%2C+ON' -a max_items=1000 -a search_kw='data analyst'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+scientist&l=Montreal%2C+QC' -a max_items=1000 -a search_kw='data scientist'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+engineer&l=Montreal%2C+QC' -a max_items=1000 -a search_kw='data engineer'
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+analyst&l=Montreal%2C+QC' -a max_items=1000 -a search_kw='data analyst'
 
 crawl_reviews:
 	cd collectors; scrapy crawl indeed-company-review -a query='Air-Canada/reviews?fcountry=CA&lang=en' -a max_items=5
