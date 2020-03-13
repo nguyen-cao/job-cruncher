@@ -29,9 +29,9 @@ class IndeedCompReviewSpider(scrapy.Spider):
 
     def start_requests(self):
         urls = self.start_urls
-        q = "Air-Canada/reviews?fcountry=CA&lang=en"
-        for url in urls:
-            yield scrapy.Request(url="{0}/{1}".format(url,q), callback=self.parse)
+        if self.query != None:
+            for url in urls:
+                yield scrapy.Request(url="{0}/{1}".format(url,self.query), callback=self.parse)
 
     def parse(self, response):
         url = response.url

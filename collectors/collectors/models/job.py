@@ -32,6 +32,7 @@ class JobPost(Base):
     location = Column(String(150), nullable=False)
     description = Column(Text, nullable=False)
     source = Column(String(50), nullable=False)
+    search_kw = Column(String(250), nullable=False)
 
 class CompanyReview(Base):
     __tablename__ = 'company_review'
@@ -54,3 +55,4 @@ class JobInterview(Base):
     question = Column(String(500), nullable=False)
     date = Column(String(50), nullable=False)
     source = Column(String(50), nullable=False)
+    search_kw = Column(String(250), nullable=False)

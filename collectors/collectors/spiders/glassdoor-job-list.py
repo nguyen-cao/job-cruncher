@@ -21,18 +21,19 @@ class GlassdoorJobListSpider(scrapy.Spider):
     start_urls = ['https://www.glassdoor.ca/Job']
     
 
-    def __init__(self, query=None, max_items=1, *args, **kwargs):
+    def __init__(self, query=None, max_items=1, search_kw=None, *args, **kwargs):
         super(GlassdoorJobListSpider, self).__init__(*args, **kwargs)
         self.query = query
+        self.search_kw = search_kw if search_kw != None else ''
         self.max_items = int(max_items)
         self.jobs_scraped = 0
         self.session = create_session()
 
     def start_requests(self):
         urls = self.start_urls
-        q = "vancouver-data-scientist-jobs-SRCH_IL.0,9_IC2278756_KO10,24.htm"
-        for url in urls:
-            yield scrapy.Request(url="{0}/{1}".format(url,q), callback=self.parse)
+        if self.query != None:
+            for url in urls:
+                yield scrapy.Request(url="{0}/{1}".format(url,self.query), callback=self.parse)
 
     def parse(self, response):
         url = response.url
@@ -45,7 +46,7 @@ class GlassdoorJobListSpider(scrapy.Spider):
             job_containers = driver.find_elements_by_css_selector('.jobContainer')
             for job_element in job_containers:
                 self.jobs_scraped += 1
-                if (self.jobs_scraped > MAX_JOBS):
+                if (self.jobs_scraped > self.max_items):
                     return
 
                 try:
@@ -78,6 +79,7 @@ class GlassdoorJobListSpider(scrapy.Spider):
                 job_item['location'] = job_location
                 job_item['description'] = job_description
                 job_item['source'] = 'glassdoor.com'
+                job_item['search_kw'] = self.search_kw
                 
                 yield job_item
             

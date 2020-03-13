@@ -20,9 +20,10 @@ class IndeedJobListSpider(scrapy.Spider):
     allowed_domains = ['indeed.com']
     start_urls = ['https://ca.indeed.com/jobs']
 
-    def __init__(self, query=None, max_items=1, *args, **kwargs):
+    def __init__(self, query=None, max_items=1, search_kw=None, *args, **kwargs):
         super(IndeedJobListSpider, self).__init__(*args, **kwargs)
         self.query = query
+        self.search_kw = search_kw if search_kw != None else ''
         self.max_items = int(max_items)
         self.jobs_scraped = 0
         self.session = create_session()
@@ -62,6 +63,7 @@ class IndeedJobListSpider(scrapy.Spider):
                 job_item['location'] = job_location
                 job_item['description'] = job_description
                 job_item['source'] = 'indeed.com'
+                job_item['search_kw'] = self.search_kw
                 
                 yield job_item
             
