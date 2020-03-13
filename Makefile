@@ -2,7 +2,9 @@ create_schema:
 	cd collectors; python -c 'from collectors.models import job; job.create_schema(True)'
 
 crawl_jobs:
-	cd collectors; scrapy crawl indeed-job-list	
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+scientist&l=Vancouver%2C+BC' -a max_items=5
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+engineer&l=Vancouver%2C+BC' -a max_items=5
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+scientist&l=Toronto%2C+ON' -a max_items=5
 
 crawl_reviews:
 	cd collectors; scrapy crawl indeed-company-review

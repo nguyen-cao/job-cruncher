@@ -15,15 +15,16 @@ from selenium.webdriver.chrome.options import Options
 from ..models.job import create_session
 from ..items import GlassdoorJobItem, IndeedJobItem
 
-MAX_JOBS = 20
-
 class GlassdoorJobListSpider(scrapy.Spider):
     name = 'glassdoor-job-list'
     allowed_domains = ['glassdoor.ca']
     start_urls = ['https://www.glassdoor.ca/Job']
     
 
-    def __init__(self):
+    def __init__(self, query=None, max_items=1, *args, **kwargs):
+        super(GlassdoorJobListSpider, self).__init__(*args, **kwargs)
+        self.query = query
+        self.max_items = int(max_items)
         self.jobs_scraped = 0
         self.session = create_session()
 

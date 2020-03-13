@@ -15,14 +15,15 @@ from selenium.webdriver.chrome.options import Options
 from ..models.job import create_session
 from ..items import IndeedReviewItem
 
-MAX_REVIEWS = 25
-
 class IndeedCompReviewSpider(scrapy.Spider):
     name = 'indeed-company-review'
     allowed_domains = ['indeed.com']
     start_urls = ['https://ca.indeed.com/cmp']
 
-    def __init__(self):
+    def __init__(self, query=None, max_items=1, *args, **kwargs):
+        super(IndeedCompReviewSpider, self).__init__(*args, **kwargs)
+        self.query = query
+        self.max_items = int(max_items)
         self.reviews_scraped = 0
         self.session = create_session()
 
@@ -44,7 +45,7 @@ class IndeedCompReviewSpider(scrapy.Spider):
             
             for review_element in review_containers:
                 self.reviews_scraped += 1
-                if (self.reviews_scraped > MAX_REVIEWS):
+                if (self.reviews_scraped > self.max_items):
                     return
 
                 review_company = "Air Canada" # To be generalized
