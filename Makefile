@@ -30,6 +30,17 @@ crawl_jobs_glassdoor:
 	cd collectors; scrapy crawl glassdoor-job-list -a query='vancouver-data-scientist-jobs-SRCH_IL.0,9_IC2278756_KO10,24.htm' -a max_items=5 -a search_kw='data scientist'
 	cd collectors; scrapy crawl glassdoor-job-list -a query='toronto-data-engineer-jobs-SRCH_IL.0,7_IC2281069_KO8,21.htm' -a max_items=5 -a search_kw='data engineer'
 
+crawl_jobs_glassdoor_production:
+	cd collectors; scrapy crawl glassdoor-job-list -a query='vancouver-data-scientist-jobs-SRCH_IL.0,9_IC2278756_KO10,24.htm' -a max_items=1000 -a search_kw='data scientist'
+	cd collectors; scrapy crawl glassdoor-job-list -a query='vancouver-data-engineer-jobs-SRCH_IL.0,9_IC2278756_KO10,23.htm' -a max_items=1000 -a search_kw='data engineer'
+	cd collectors; scrapy crawl glassdoor-job-list -a query='vancouver-data-analyst-jobs-SRCH_IL.0,9_IC2278756_KO10,22.htm' -a max_items=1000 -a search_kw='data analyst'
+	cd collectors; scrapy crawl glassdoor-job-list -a query='toronto-data-scientist-jobs-SRCH_IL.0,7_IC2281069_KO8,22.htm' -a max_items=1000 -a search_kw='data scientist'
+	cd collectors; scrapy crawl glassdoor-job-list -a query='toronto-data-engineer-jobs-SRCH_IL.0,7_IC2281069_KO8,21.htm' -a max_items=1000 -a search_kw='data engineer'
+	cd collectors; scrapy crawl glassdoor-job-list -a query='toronto-data-analyst-jobs-SRCH_IL.0,7_IC2281069_KO8,20.htm' -a max_items=1000 -a search_kw='data analyst'
+	cd collectors; scrapy crawl glassdoor-job-list -a query='montreal-data-scientist-jobs-SRCH_IL.0,8_IC2296722_KO9,23.htm' -a max_items=1000 -a search_kw='data scientist'
+	cd collectors; scrapy crawl glassdoor-job-list -a query='montreal-data-engineer-jobs-SRCH_IL.0,8_IC2296722_KO9,22.htm' -a max_items=1000 -a search_kw='data engineer'
+	cd collectors; scrapy crawl glassdoor-job-list -a query='montreal-data-analyst-jobs-SRCH_IL.0,8_IC2296722_KO9,21.htm' -a max_items=1000 -a search_kw='data analyst'
+
 crawl_interviews:
 	cd collectors; scrapy crawl glassdoor-job-interview -a query='data-scientist-interview-questions-SRCH_KO0,14.htm' -a max_items=5 -a search_kw='data scientist'
 

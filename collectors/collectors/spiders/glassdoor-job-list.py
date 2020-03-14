@@ -62,7 +62,7 @@ class GlassdoorJobListSpider(scrapy.Spider):
                 except NoSuchElementException:
                     pass
 
-                job_title = job_element.find_element_by_css_selector('.jobLink.jobInfoItem.jobTitle').text    
+                job_title = job_element.find_elements_by_css_selector('.jobInfoItem.jobTitle')[1].text    
                 job_company = job_element.find_element_by_css_selector('.jobInfoItem.jobEmpolyerName').text
                 job_location = job_element.find_element_by_css_selector('.loc').text
 
