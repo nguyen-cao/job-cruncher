@@ -22,6 +22,7 @@ class IndeedJobItem(scrapy.Item):
 	location = scrapy.Field()
 	description = scrapy.Field()
 	source = scrapy.Field()
+	search_kw = scrapy.Field()
 
 
 class IndeedReviewItem(scrapy.Item):
@@ -47,6 +48,7 @@ class GlassdoorJobItem(scrapy.Item):
 	location = scrapy.Field()
 	description = scrapy.Field()
 	source = scrapy.Field()
+	search_kw = scrapy.Field()
 
 class GlassdoorInterviewItem(scrapy.Item):
     
@@ -57,3 +59,4 @@ class GlassdoorInterviewItem(scrapy.Item):
 	question = scrapy.Field()
 	date = scrapy.Field()
 	source = scrapy.Field()
+	search_kw = scrapy.Field()

@@ -36,7 +36,8 @@ class IndeedJobListCollectorPipeline(object):
             company=item['company'], \
             location=item['location'], \
             description=item['description'], \
-            source=item['source'])
+            source=item['source'], \
+            search_kw=item['search_kw'])
         
         self.session.add(jobPost)
         self.session.commit()
@@ -93,7 +94,8 @@ class GlassdoorJobListCollectorPipeline(object):
             company=item['company'], \
             location=item['location'], \
             description=item['description'], \
-            source=item['source'])
+            source=item['source'], \
+            search_kw=item['search_kw'])
         
         self.session.add(jobPost_glassdoor)
         self.session.commit()
@@ -119,7 +121,8 @@ class GlassdoorInterviewCollectorPipeline(object):
                 title = item['title'], \
                 question = item['question'], \
                 date = item['date'], \
-                source = item['source'])
+                source = item['source'], \
+                search_kw=item['search_kw'])
         
         self.session.add(jobInterview)
         self.session.commit()

@@ -15,22 +15,24 @@ from selenium.webdriver.chrome.options import Options
 from ..models.job import create_session
 from ..items import IndeedJobItem
 
-MAX_JOBS = 20
-
 class IndeedJobListSpider(scrapy.Spider):
     name = 'indeed-job-list'
     allowed_domains = ['indeed.com']
     start_urls = ['https://ca.indeed.com/jobs']
 
-    def __init__(self):
+    def __init__(self, query=None, max_items=1, search_kw=None, *args, **kwargs):
+        super(IndeedJobListSpider, self).__init__(*args, **kwargs)
+        self.query = query
+        self.search_kw = search_kw if search_kw != None else ''
+        self.max_items = int(max_items)
         self.jobs_scraped = 0
         self.session = create_session()
 
     def start_requests(self):
         urls = self.start_urls
-        q = "q=data+scientist&l=Vancouver%2C+BC"
-        for url in urls:
-            yield scrapy.Request(url="{0}?{1}".format(url,q), callback=self.parse)
+        if self.query != None:
+            for url in urls:
+                yield scrapy.Request(url="{0}?{1}".format(url,self.query), callback=self.parse)
 
     def parse(self, response):
         url = response.url
@@ -43,7 +45,7 @@ class IndeedJobListSpider(scrapy.Spider):
             job_containers = driver.find_elements_by_css_selector('.result')
             for job_element in job_containers:
                 self.jobs_scraped += 1
-                if (self.jobs_scraped > MAX_JOBS):
+                if (self.jobs_scraped > self.max_items):
                     return
 
                 job_title = job_element.find_element_by_css_selector('.title').text
@@ -52,7 +54,7 @@ class IndeedJobListSpider(scrapy.Spider):
 
                 job_link = job_element.find_element_by_css_selector('.jobtitle')
                 job_link.click()
-                time.sleep(2)
+                time.sleep(0.5)
                 job_description = driver.find_element_by_css_selector('#vjs-desc').text
 
                 job_item = IndeedJobItem()
@@ -61,6 +63,7 @@ class IndeedJobListSpider(scrapy.Spider):
                 job_item['location'] = job_location
                 job_item['description'] = job_description
                 job_item['source'] = 'indeed.com'
+                job_item['search_kw'] = self.search_kw
                 
                 yield job_item
             

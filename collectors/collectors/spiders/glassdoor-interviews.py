@@ -15,23 +15,25 @@ from selenium.webdriver.chrome.options import Options
 from ..models.job import create_session
 from ..items import GlassdoorInterviewItem
 
-MAX_INTERVIEWS = 25
-
 class GlassdoorInterviewSpider(scrapy.Spider):
     name = 'glassdoor-job-interview'
     allowed_domains = ['glassdoor.ca']
     start_urls = ['https://www.glassdoor.ca/Interview/']
 
-    def __init__(self):
+    def __init__(self, query=None, max_items=1, search_kw=None, *args, **kwargs):
+        super(GlassdoorInterviewSpider, self).__init__(*args, **kwargs)
+        self.query = query
+        self.search_kw = search_kw if search_kw != None else ''
+        self.max_items = int(max_items)
         self.interviews_scraped = 0
         self.session = create_session()
         self.num_pages = 1
 
     def start_requests(self):
         urls = self.start_urls
-        q = "data-scientist-interview-questions-SRCH_KO0,14.htm"
-        for url in urls:
-            yield scrapy.Request(url="{0}/{1}".format(url,q), callback=self.parse)
+        if self.query != None:
+            for url in urls:
+                yield scrapy.Request(url="{0}/{1}".format(url,self.query), callback=self.parse)
 
     def parse(self, response):
         url = response.url
@@ -44,7 +46,7 @@ class GlassdoorInterviewSpider(scrapy.Spider):
             interview_containers = driver.find_elements_by_css_selector('.interviewQuestion.noPad')
             for interview_element in interview_containers:
                 self.interviews_scraped += 1
-                if (self.interviews_scraped > MAX_INTERVIEWS):
+                if (self.interviews_scraped > self.max_items):
                     return
 
                 author_info = interview_element.find_element_by_css_selector('.authorInfo').text.split(' at ')
@@ -60,6 +62,7 @@ class GlassdoorInterviewSpider(scrapy.Spider):
                 interview_item['question'] = interview_question
                 interview_item['date'] = interview_date
                 interview_item['source'] = 'glassdoor.com'
+                interview_item['search_kw'] = self.search_kw
                 
                 yield interview_item
             
