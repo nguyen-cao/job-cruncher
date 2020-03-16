@@ -23,6 +23,10 @@ crawl_jobs_production:
 	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+engineer&l=Montreal%2C+QC' -a max_items=1000 -a search_kw='data engineer'
 	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+analyst&l=Montreal%2C+QC' -a max_items=1000 -a search_kw='data analyst'
 
+crawl_jobs_posts:
+	cd collectors; scrapy crawl indeed-job-list	-a query='q=data+scientist&l=Vancouver%2C+BC' -a max_items=3 -a search_kw='data scientist'
+	cd collectors; scrapy crawl glassdoor-job-list -a query='toronto-data-engineer-jobs-SRCH_IL.0,7_IC2281069_KO8,21.htm' -a max_items=3 -a search_kw='data engineer'
+
 crawl_reviews:
 	cd collectors; scrapy crawl indeed-company-review -a query='Air-Canada/reviews?fcountry=CA&lang=en' -a max_items=5
 

@@ -68,7 +68,7 @@ class GlassdoorJobListSpider(scrapy.Spider):
 
                 job_link = job_element.find_element_by_css_selector('.jobLink.jobInfoItem.jobTitle')
                 job_link.click()
-                time.sleep(2)
+                time.sleep(0.5)
                 
                 job_description = driver.find_element_by_css_selector('.jobDescriptionContent.desc').text
 
