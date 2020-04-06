@@ -48,8 +48,5 @@ crawl_jobs_glassdoor_production:
 crawl_interviews:
 	cd collectors; scrapy crawl glassdoor-job-interview -a query='data-scientist-interview-questions-SRCH_KO0,14.htm' -a max_items=5 -a search_kw='data scientist'
 
-pull_images:
-	docker pull jupyter/scipy-notebook
-
 run_jupyter:
-	docker run --rm --name job-cruncher -e JUPYTER_ENABLE_LAB=yes -w /home/jovyan/work -u root -v ${PWD}:/home/jovyan/work -p 8888:8888 jupyter/scipy-notebook
+	jupyter lab
