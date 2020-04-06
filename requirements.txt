@@ -5,3 +5,4 @@ click
 jupyter
 jupyterlab
 git+git://github.com/data-catalysis/skills-ml.git@master
+graphviz
