@@ -54,7 +54,7 @@ class GlassdoorInterviewSpider(scrapy.Spider):
                 interview_title = author_info[0]
                 interview_date = interview_element.find_element_by_css_selector('.cell.alignRt.noWrap.minor.hideHH').text
                 interview_question = interview_element.find_element_by_css_selector('.questionText').text             
-                time.sleep(2)
+                time.sleep(0.5)
     
                 interview_item = GlassdoorInterviewItem()
                 interview_item['company'] = interview_company
