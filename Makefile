@@ -49,4 +49,4 @@ crawl_interviews:
 	cd collectors; scrapy crawl glassdoor-job-interview -a query='data-scientist-interview-questions-SRCH_KO0,14.htm' -a max_items=5 -a search_kw='data scientist'
 
 run_jupyter:
-	jupyter lab
+	jupyter notebook
