@@ -42,7 +42,7 @@ class IndeedCompReviewSpider(scrapy.Spider):
         try:
             driver.get(url)
             
-            review_containers = driver.find_elements_by_css_selector('.cmp-ReviewsList-container')
+            review_containers = driver.find_elements_by_css_selector('.cmp-Review')
             
             for review_element in review_containers:
                 self.reviews_scraped += 1
@@ -60,7 +60,7 @@ class IndeedCompReviewSpider(scrapy.Spider):
                 review_location, review_date = details.split("-", 2)[1:]
                 review_author_status = review_author_status.replace(")", "")
                 review_description = review_element.find_element_by_css_selector('.cmp-Review-text').text
-                time.sleep(2)
+                time.sleep(0.5)
     
                 review_item = IndeedReviewItem()
                 review_item['company'] = review_company
