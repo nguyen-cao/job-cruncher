@@ -8,3 +8,4 @@ git+git://github.com/data-catalysis/skills-ml.git@master
 graphviz
 textblob
 matplotlib
+spacy
