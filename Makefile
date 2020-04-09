@@ -58,10 +58,10 @@ crawl_interviews:
 
 crawl_interviews_production:
 	cd collectors; scrapy crawl glassdoor-job-interview -a query='data-scientist-interview-questions-SRCH_KO0,14.htm' -a max_items=100 -a search_kw='data scientist'
-	cd collectors; scrapy crawl glassdoor-job-interview -a query='data-engineer-interview-questions-SRCH_KO0,13.htm' -a max_items=100 -a search_kw='data-engineer'
-	cd collectors; scrapy crawl glassdoor-job-interview -a query='data-analyst-interview-questions-SRCH_KO0,12.htm' -a max_items=100 -a search_kw='data-analyst'
-	cd collectors; scrapy crawl glassdoor-job-interview -a query='software-developer-interview-questions-SRCH_KO0,18.htm' -a max_items=100 -a search_kw='software-developer'
-	cd collectors; scrapy crawl glassdoor-job-interview -a query='web-developer-interview-questions-SRCH_KO0,13.htm' -a max_items=100 -a search_kw='web-developer'
+	cd collectors; scrapy crawl glassdoor-job-interview -a query='data-engineer-interview-questions-SRCH_KO0,13.htm' -a max_items=100 -a search_kw='data engineer'
+	cd collectors; scrapy crawl glassdoor-job-interview -a query='data-analyst-interview-questions-SRCH_KO0,12.htm' -a max_items=100 -a search_kw='data analyst'
+	cd collectors; scrapy crawl glassdoor-job-interview -a query='software-developer-interview-questions-SRCH_KO0,18.htm' -a max_items=100 -a search_kw='software developer'
+	cd collectors; scrapy crawl glassdoor-job-interview -a query='web-developer-interview-questions-SRCH_KO0,13.htm' -a max_items=100 -a search_kw='web developer'
 
 run_jupyter:
 	jupyter lab
