@@ -43,7 +43,6 @@ class IndeedCompReviewSpider(scrapy.Spider):
             driver.get(url)
             
             review_containers = driver.find_elements_by_css_selector('.cmp-Review')
-            
             for review_element in review_containers:
                 self.reviews_scraped += 1
                 if (self.reviews_scraped > self.max_items):
@@ -52,27 +51,23 @@ class IndeedCompReviewSpider(scrapy.Spider):
                 review_company = self.search_kw # To be generalized
                 review_title = review_element.find_element_by_css_selector('.cmp-Review-title').text
                 review_rating = review_element.find_element_by_css_selector('.cmp-ReviewRating-text').text
-                review_author = review_element.find_element_by_css_selector('.cmp-ReviewAuthor-link').text
                 details = review_element.find_element_by_css_selector('.cmp-ReviewAuthor').text
                 # Manipulating the data to get relevant information
-                review_author, details = details.split("(")
-                review_author_status, details = details.split(")")
-                review_location, review_date = details.split("-", 2)[1:]
-                review_author_status = review_author_status.replace(")", "")
+                review_author, review_location, review_date = details.rsplit('-', 2)
                 review_description = review_element.find_element_by_css_selector('.cmp-Review-text').text
                 time.sleep(0.5)
-    
+
                 review_item = IndeedReviewItem()
                 review_item['company'] = review_company
                 review_item['title'] = review_title
                 review_item['rating'] = review_rating
                 review_item['author'] = review_author
-                review_item['author_status'] = review_author_status
+                review_item['author_status'] = 'N/A'
                 review_item['location'] = review_location
                 review_item['date'] = review_date
                 review_item['description'] = review_description
                 review_item['source'] = 'indeed.com'
-                
+
                 yield review_item
             
             # move to the next page of job list
