@@ -9,3 +9,4 @@ graphviz
 textblob
 matplotlib
 spacy
+gensim
