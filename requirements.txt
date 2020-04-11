@@ -9,3 +9,5 @@ graphviz
 textblob
 spacy
 seaborn
+matplotlib
+spacy

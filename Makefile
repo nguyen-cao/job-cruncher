@@ -65,4 +65,4 @@ crawl_interviews_production:
 	cd collectors; scrapy crawl glassdoor-job-interview -a query='big-data-interview-questions-SRCH_KO0,8.htm' -a max_items=500 -a search_kw='big data'
 
 run_jupyter:
-	jupyter lab
+	jupyter notebook
