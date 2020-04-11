@@ -568,8 +568,6 @@ Element ID	Element Name	Description
 5	Occupation-Specific Information	Occupation-Specific Information
 5.A	Tasks	Occupation-Specific Tasks
 5.A.1	Task List	List of tasks for each occupation
-5.B	Tools and Technology	Machines, equipment, tools, software, and information technology workers may use for optimal functioning in a high performance workplace.
-5.B.1	Tools and Technology List	List of Tools and Technology objects for each occupation
 5.C	Title	Primary title and code used to identify a single occupation in the O*NET-SOC taxonomy
 5.C.1	Title	O*NET-SOC occupation title and code
 5.D	Description	A statement of required or important duties performed by workers in an occupation in the O*NET-SOC taxonomy.
@@ -577,6 +575,10 @@ Element ID	Element Name	Description
 5.E	Alternate Titles	Alternate or "lay titles" include related job titles and occupational titles gathered from job incumbents, occupational experts, government agencies, professional groups, customer input, employer job postings, and other occupational classification systems.
 5.E.1	Alternate Titles List	List of alternate titles
 5.E.2	Sample of Reported Titles List	List of sample of reported titles
+5.F	Technology Skills	Information technology and software skills essential to the functions of an occupational role.
+5.F.1	Technology Skills List	List of technology skills for each occupation.
+5.G	Tools	Machines, equipment, and tools essential to the performance of an occupational role.
+5.G.1	Tools List	List of machines, equipment, and tools for each occupation.
 6	Workforce Characteristics	Workforce Characteristics
 6.A	Labor Market Information	Labor Market Information
 6.A.1	Occupational Statistics	Information related to economic conditions and labor force characteristics of occupations
