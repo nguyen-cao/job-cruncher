@@ -10,3 +10,4 @@ textblob
 seaborn
 matplotlib
 spacy
+cufflinks
