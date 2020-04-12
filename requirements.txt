@@ -10,3 +10,6 @@ textblob
 seaborn
 matplotlib
 spacy
+cufflinks
+textblob
+sklearn
