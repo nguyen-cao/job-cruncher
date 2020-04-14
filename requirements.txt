@@ -13,3 +13,5 @@ spacy
 cufflinks
 textblob
 sklearn
+wordcloud
+pillow
