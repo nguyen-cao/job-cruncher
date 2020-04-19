@@ -13,7 +13,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 
 from models.job import create_session
-from ..items import IndeedJobItem
+from collectors.collectors.items import IndeedJobItem
 
 class IndeedJobListSpider(scrapy.Spider):
     name = 'indeed-job-list'

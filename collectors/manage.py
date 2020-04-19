@@ -1,8 +1,8 @@
 import os
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
-from .collectors.spiders import CRAWLERS
-from .collectors import settings
+from collectors.collectors.spiders import CRAWLERS
+from collectors.collectors import settings
 
 class CrawlerManager():
 
