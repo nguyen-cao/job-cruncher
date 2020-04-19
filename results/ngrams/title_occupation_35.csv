@@ -1,0 +1,1451 @@
+id,title,identifier,score_all,name
+1,Data Scientist,15-1111.00,0.8838952381171774,Computer and Information Research Scientists
+2,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+3,Human Resources Data Scientist,15-1111.00,0.8209393663983694,Computer and Information Research Scientists
+4,Lead - Human Resource Data Scientist,15-1111.00,0.8346529897164766,Computer and Information Research Scientists
+5,Machine Learning Engineer,15-1111.00,0.8477077787185887,Computer and Information Research Scientists
+6,Data Scientist,15-1111.00,0.8466228726243358,Computer and Information Research Scientists
+7,Associate Data Scientist,15-1111.00,0.872069080966737,Computer and Information Research Scientists
+8,Data Scientist I,15-1111.00,0.8846822801821487,Computer and Information Research Scientists
+9,"Data Scientist, AI@Unity",15-1111.00,0.8764307613317291,Computer and Information Research Scientists
+10,Data Scientist,15-1111.00,0.8477331058869199,Computer and Information Research Scientists
+11,Data Scientist,15-1111.00,0.9164274447392922,Computer and Information Research Scientists
+12,Data Scientist,15-1111.00,0.9133987255765283,Computer and Information Research Scientists
+13,Jr. Data Science Developer,15-1111.00,0.8880678929481975,Computer and Information Research Scientists
+14,Data Scientist,15-1111.00,0.8750288935158106,Computer and Information Research Scientists
+15,Data scientist (summer intern),15-2041.00,0.8317739836068883,Statisticians
+16,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+17,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+18,"Manager of Data Science, RACE21 - Vancouver",15-1111.00,0.9024205839415222,Computer and Information Research Scientists
+19,Data Scientist,15-1111.00,0.9147192140316063,Computer and Information Research Scientists
+20,"Lead Educator, Data Science",15-1111.00,0.8246349298089208,Computer and Information Research Scientists
+21,Jr. Data Science Developer,15-1111.00,0.8880678929481975,Computer and Information Research Scientists
+22,Data Scientist,15-1111.00,0.8806427489923435,Computer and Information Research Scientists
+23,Data Scientist - FIFA,15-1111.00,0.8530353107170993,Computer and Information Research Scientists
+24,Applied Scientist,15-1111.00,0.8446327296618988,Computer and Information Research Scientists
+25,Senior Data Scientist AI@Unity,15-1111.00,0.8848690439926419,Computer and Information Research Scientists
+26,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+27,Human Resources Administrator,15-1141.00,0.77895979311491,Database Administrators
+28,"Associate Director, Engineering Admissions",19-4061.00,0.840550999585226,Social Science Research Assistants
+29,Data Center Operations Engineer,15-1121.00,0.8476567114671293,Computer Systems Analysts
+30,Software Engineer Level 3,15-1133.00,0.8600166214797822,"Software Developers, Systems Software"
+31,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+32,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+33,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+34,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+35,"Director, Data Science Initiatives",15-1111.00,0.8657747214752037,Computer and Information Research Scientists
+46,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+47,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+48,Lead - Human Resource Data Scientist,15-1111.00,0.8346529897164766,Computer and Information Research Scientists
+49,Data Scientist,15-1111.00,0.8466228726243358,Computer and Information Research Scientists
+50,Associate Data Scientist,15-1111.00,0.872069080966737,Computer and Information Research Scientists
+51,Data Scientist I,15-1111.00,0.8846822801821487,Computer and Information Research Scientists
+52,"Data Scientist, AI@Unity",15-1111.00,0.8764307613317291,Computer and Information Research Scientists
+53,Data Scientist,15-1111.00,0.8477331058869199,Computer and Information Research Scientists
+54,Data Scientist,15-1111.00,0.9164274447392922,Computer and Information Research Scientists
+55,Data Scientist,15-1111.00,0.9133987255765283,Computer and Information Research Scientists
+56,Jr. Data Science Developer,15-1111.00,0.8880678929481975,Computer and Information Research Scientists
+57,Data Scientist,15-1111.00,0.9147192140316063,Computer and Information Research Scientists
+58,Data Scientist,15-1111.00,0.8750288935158106,Computer and Information Research Scientists
+59,Human Resources Data Scientist,15-1111.00,0.8209393663983694,Computer and Information Research Scientists
+60,Data Scientist,15-1111.00,0.8838952381171774,Computer and Information Research Scientists
+61,Data Scientist,15-1111.00,0.8838952381171774,Computer and Information Research Scientists
+62,"Manager of Data Science, RACE21 - Vancouver",15-1111.00,0.9024205839415222,Computer and Information Research Scientists
+63,Data scientist (summer intern),15-2041.00,0.8317739836068883,Statisticians
+64,"Lead Educator, Data Science",15-1111.00,0.8246349298089208,Computer and Information Research Scientists
+65,Jr. Data Science Developer,15-1111.00,0.8880678929481975,Computer and Information Research Scientists
+66,Data Scientist,15-1111.00,0.8806427489923435,Computer and Information Research Scientists
+67,Data Scientist - FIFA,15-1111.00,0.8530353107170993,Computer and Information Research Scientists
+68,Applied Scientist,15-1111.00,0.8446327296618988,Computer and Information Research Scientists
+69,Senior Data Scientist AI@Unity,15-1111.00,0.8848690439926419,Computer and Information Research Scientists
+70,"Data Scientist, Analytics and Machine Learning",15-1111.00,0.8846546344213159,Computer and Information Research Scientists
+71,Data Architect (Advanced Analytics),15-1199.06,0.8763112511133943,Database Architects
+72,Human Resources Data Scientist,15-1111.00,0.8209393663983694,Computer and Information Research Scientists
+73,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+74,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+75,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+76,Machine Learning Engineer,15-1111.00,0.8477077787185887,Computer and Information Research Scientists
+77,Machine learning / image processing - Apr to Sep,15-1111.00,0.6425551600689549,Computer and Information Research Scientists
+78,Senior Data Scientist,15-1111.00,0.8977710408762029,Computer and Information Research Scientists
+79,Data Scientist - Advertising & Attribution,15-1111.00,0.8120218068158842,Computer and Information Research Scientists
+80,Data Scientist - RACE21,15-1199.04,0.8430610483520131,Geospatial Information Scientists and Technologists
+81,Machine Learning Geoscientist,15-1111.00,0.8548888297431274,Computer and Information Research Scientists
+82,Senior Data Analyst,15-1199.08,0.8770987150425584,Business Intelligence Analysts
+83,"Sr Data Analyst, UFC Mobile",15-1199.04,0.8296157796855312,Geospatial Information Scientists and Technologists
+84,"Lead Data Scientist, RACE21",15-1111.00,0.8860973525194422,Computer and Information Research Scientists
+85,Senior Data Analyst,13-2099.01,0.855338990672399,Financial Quantitative Analysts
+86,Artificial Intelligence/Machine Learning,15-1111.00,0.8127915847396749,Computer and Information Research Scientists
+87,Lead - Human Resource Data Scientist,15-1111.00,0.8346529897164766,Computer and Information Research Scientists
+88,Human Resources Data Scientist,15-1111.00,0.8209393663983694,Computer and Information Research Scientists
+89,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+90,"Manager of Data Science, RACE21 - Vancouver",15-1111.00,0.9024205839415222,Computer and Information Research Scientists
+91,Data Scientist,15-1111.00,0.8838952381171774,Computer and Information Research Scientists
+92,"Manager of Data Science, RACE21 - Vancouver",15-1111.00,0.9024205839415222,Computer and Information Research Scientists
+93,Human Resources Data Scientist,15-1111.00,0.8209393663983694,Computer and Information Research Scientists
+94,Data Scientist - Planning Team,15-1111.00,0.875363752286493,Computer and Information Research Scientists
+95,Machine Learning Engineer / Data Analyst,15-1111.00,0.8626101121284915,Computer and Information Research Scientists
+96,NLP Engineer,15-1111.00,0.7660929290305266,Computer and Information Research Scientists
+97,Senior Enterprise Data Analyst,15-1199.08,0.8625724926371474,Business Intelligence Analysts
+98,Programmer Analyst II (Learning Analytics),15-1121.00,0.9039450970290565,Computer Systems Analysts
+99,Senior Game Data Analyst,15-1199.07,0.8301730855475874,Data Warehousing Specialists
+100,Senior Data Analyst,15-1121.00,0.8753139765191112,Computer Systems Analysts
+101,Senior Renewable Energy Data Analyst,15-1121.00,0.877833136939461,Computer Systems Analysts
+102,"Development Expert, SAP Analytics Cloud (Conversational Anal...",15-1121.00,0.7674949769577938,Computer Systems Analysts
+103,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+104,Data Scientist,15-1111.00,0.8838952381171774,Computer and Information Research Scientists
+105,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+106,"Sr. Manager, Data Science",15-1111.00,0.8253666912930928,Computer and Information Research Scientists
+107,"Manager of Data Science, RACE21",15-1111.00,0.9015842439017335,Computer and Information Research Scientists
+108,"Applied Science Intern, Machine Learning (Canada)",15-1111.00,0.8252387025179595,Computer and Information Research Scientists
+109,Business Intelligence Analyst,15-1121.00,0.8702250694434317,Computer Systems Analysts
+110,Machine Learning Engineer,15-1111.00,0.8477077787185887,Computer and Information Research Scientists
+111,"Algorithm Developer (data science, C++, Java,Node JS, 4 year...",15-1141.00,0.7662359273504591,Database Administrators
+112,Business Intelligence Developer (Contract),15-1199.08,0.8178698943550424,Business Intelligence Analysts
+113,"Senior Data Analyst, Cross Product Portfolio",15-1121.00,0.8968850682736087,Computer Systems Analysts
+114,"Senior Data Analyst, Cross Product Portfolio",15-1121.00,0.8968850682736087,Computer Systems Analysts
+115,"Senior Data Analyst, Supply Chain & Product Analytics",15-1199.07,0.8812811770332418,Data Warehousing Specialists
+116,Human Resources Data Scientist,15-1111.00,0.8209393663983694,Computer and Information Research Scientists
+117,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+118,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+119,Data Scientist,15-1111.00,0.8838952381171774,Computer and Information Research Scientists
+120,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+121,Human Resources Administrator,15-1141.00,0.77895979311491,Database Administrators
+122,Software Engineer,15-1133.00,0.9071426184964927,"Software Developers, Systems Software"
+123,Electronics Engineer,15-1133.00,0.8081860098904674,"Software Developers, Systems Software"
+124,Customer Service Representative,15-1121.00,0.7425469882287469,Computer Systems Analysts
+125,Construction Site Superintendent,15-1199.06,0.6745772645640573,Database Architects
+126,Data Center Operations Engineer,15-1121.00,0.8476567114671293,Computer Systems Analysts
+127,Junior Data Engineer,15-1199.07,0.8927472945592186,Data Warehousing Specialists
+128,Big Data Engineer,15-1199.07,0.8481927648703177,Data Warehousing Specialists
+129,Data Engineer III,15-1199.07,0.865721663827632,Data Warehousing Specialists
+130,Haskell and Data Engineer,15-1133.00,0.8832720741551751,"Software Developers, Systems Software"
+131,Engineer in Training,15-1133.00,0.7777460591826144,"Software Developers, Systems Software"
+132,"Sales Engineer, Data Analytics, Google Cloud",15-1199.07,0.8116682756744779,Data Warehousing Specialists
+133,Data Engineer II,15-1141.00,0.870581707946489,Database Administrators
+134,Incident Response Engineer,19-2099.01,0.6636015554829535,Remote Sensing Scientists and Technologists
+135,Data Center Operations Engineer,15-1121.00,0.8476567114671293,Computer Systems Analysts
+136,We have Data-center Technician Opening,15-1199.07,0.7770720315912697,Data Warehousing Specialists
+137,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+138,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+139,Data Storage and Protection Consultant,15-1199.07,0.8548806469752168,Data Warehousing Specialists
+140,Control System Engineer,15-1121.00,0.8668028910926984,Computer Systems Analysts
+141,SURVEYORS,15-1199.02,0.6875115841790952,Computer Systems Engineers/Architects
+142,Data Engineer,15-1111.00,0.8810955482096992,Computer and Information Research Scientists
+143,"Data Engineer, Omnia AI",15-1133.00,0.8502917113387662,"Software Developers, Systems Software"
+144,AWS Data Analytics Engineer,15-1199.07,0.7948696898531213,Data Warehousing Specialists
+145,Data Engineer,15-1199.07,0.8418759654850955,Data Warehousing Specialists
+146,Software Engineer I,15-1111.00,0.8922550497762416,Computer and Information Research Scientists
+147,"Quality Assurance Engineer, R&D",15-1111.00,0.8472392491199764,Computer and Information Research Scientists
+148,"Specialist, Data Engineer",15-1199.07,0.9019677149639376,Data Warehousing Specialists
+149,Data Engineer - Gears of War - The Coalition,15-1121.00,0.8600371805872908,Computer Systems Analysts
+150,Robotics Engineer - Supporting,15-1133.00,0.7844732395244033,"Software Developers, Systems Software"
+151,Machine Learning Engineer / Data Analyst,15-1111.00,0.8626101121284915,Computer and Information Research Scientists
+152,Embedded R&D Engineer,15-1133.00,0.8187777003617256,"Software Developers, Systems Software"
+153,Sr. Network Engineer,15-1133.00,0.790108014883998,"Software Developers, Systems Software"
+154,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+155,Sr. Network Engineer,15-1133.00,0.790108014883998,"Software Developers, Systems Software"
+156,Embedded R&D Engineer,15-1133.00,0.8187777003617256,"Software Developers, Systems Software"
+157,"Engineer, Quality, Desktop - Quality",15-1133.00,0.7260913165367888,"Software Developers, Systems Software"
+158,"Big Data Engineer, Omnia AI",15-1133.00,0.8352659651413419,"Software Developers, Systems Software"
+159,Data Engineer,15-1199.07,0.8881154332892627,Data Warehousing Specialists
+160,Data Engineer - Contract,15-1199.07,0.8783324469121423,Data Warehousing Specialists
+161,Senior Incident Response Engineer,15-1122.00,0.7202478457328938,Information Security Analysts
+162,Radio Access Network (RAN) Performance Engineer,15-1111.00,0.8277134742121472,Computer and Information Research Scientists
+163,Data Validation Intern,15-1141.00,0.8042421656162033,Database Administrators
+164,Research Engineer,15-2041.00,0.8782903409709418,Statisticians
+165,"Data Scientist, AI@Unity",15-1111.00,0.8764307613317291,Computer and Information Research Scientists
+166,Control System Engineer,15-1121.00,0.8668028910926984,Computer Systems Analysts
+167,SURVEYORS,15-1199.02,0.6875115841790952,Computer Systems Engineers/Architects
+168,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+169,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+170,Data Storage and Protection Consultant,15-1199.07,0.8548806469752168,Data Warehousing Specialists
+171,SURVEYORS,15-1199.02,0.6875115841790952,Computer Systems Engineers/Architects
+172,Embedded R&D Engineer,15-1133.00,0.8187777003617256,"Software Developers, Systems Software"
+173,Quality Engineer - Quality,15-1121.00,0.6717406703761511,Computer Systems Analysts
+174,Big Data Engineer - DF,15-1199.07,0.8736850387353189,Data Warehousing Specialists
+175,Software Engineer In Test,15-1133.00,0.8843532328106224,"Software Developers, Systems Software"
+176,Software Engineer Generalist,15-1111.00,0.8965334088853602,Computer and Information Research Scientists
+177,Hardware Engineer - Intermediate,15-1133.00,0.8264678437535008,"Software Developers, Systems Software"
+178,Entry Level Equipment Engineer - Western Canada,15-1133.00,0.7688206164110815,"Software Developers, Systems Software"
+179,Software Development Engineer: Co-Op Vancouver (Summer),15-1133.00,0.833551385707441,"Software Developers, Systems Software"
+180,Business Inteligence Engineer II,15-1111.00,0.8975747363540568,Computer and Information Research Scientists
+181,Software Engineer Intern - Fall,15-1133.00,0.8685199601288869,"Software Developers, Systems Software"
+182,Software Development Engineer in Test (SDET),15-1133.00,0.9038951383294006,"Software Developers, Systems Software"
+183,Control System Engineer,15-1121.00,0.8668028910926984,Computer Systems Analysts
+184,Sr. Network Engineer,15-1133.00,0.790108014883998,"Software Developers, Systems Software"
+185,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+186,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+187,Data Storage and Protection Consultant,15-1199.07,0.8548806469752168,Data Warehousing Specialists
+188,Project Engineer,15-1199.02,0.7834276329190447,Computer Systems Engineers/Architects
+189,Software Engineer,15-1133.00,0.8805974897770328,"Software Developers, Systems Software"
+190,Supply Chain Specialist,15-1121.00,0.7647644557488023,Computer Systems Analysts
+191,Codes and Standards (Certification) Engineer,15-1133.00,0.7967543816037855,"Software Developers, Systems Software"
+192,Back End Software Engineer,15-1133.00,0.9109254394970584,"Software Developers, Systems Software"
+193,Senior Data Engineer,15-1111.00,0.8906822903569209,Computer and Information Research Scientists
+194,Big Data Engineer,15-1199.07,0.8499497853286745,Data Warehousing Specialists
+195,Data Engineer,15-1199.07,0.857371608480347,Data Warehousing Specialists
+196,Senior Data Engineer,15-1111.00,0.8793713146115064,Computer and Information Research Scientists
+197,Software Engineer (Fullstack),15-1133.00,0.911337882471058,"Software Developers, Systems Software"
+198,Control System Engineer,15-1121.00,0.8668028910926984,Computer Systems Analysts
+199,Embedded R&D Engineer,15-1133.00,0.8187777003617256,"Software Developers, Systems Software"
+200,Sr. Network Engineer,15-1133.00,0.790108014883998,"Software Developers, Systems Software"
+201,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+202,SURVEYORS,15-1199.02,0.6875115841790952,Computer Systems Engineers/Architects
+203,Data Storage and Protection Consultant,15-1199.07,0.8548806469752168,Data Warehousing Specialists
+204,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+205,Data Engineers - Hadoop,15-1199.07,0.8722667762058857,Data Warehousing Specialists
+206,Staff Performance Engineer,15-1121.00,0.8152975242563598,Computer Systems Analysts
+207,Software Engineer (Data Pipeline) - Advanced level,15-1199.07,0.8574033761230027,Data Warehousing Specialists
+208,Data Engineer,15-1199.07,0.8881154332892627,Data Warehousing Specialists
+209,Software Engineer (Backend),15-1133.00,0.8835039837510821,"Software Developers, Systems Software"
+210,Software Engineer,15-1133.00,0.8433353920003166,"Software Developers, Systems Software"
+211,Staff Quality Engineer,15-1133.00,0.8882976474828169,"Software Developers, Systems Software"
+212,Compliance Engineer,15-1133.00,0.7641709657346525,"Software Developers, Systems Software"
+213,Data Software Engineer - FIFA,15-1199.07,0.8958582348903691,Data Warehousing Specialists
+214,Control System Engineer,15-1121.00,0.8668028910926984,Computer Systems Analysts
+215,Embedded R&D Engineer,15-1133.00,0.8187777003617256,"Software Developers, Systems Software"
+216,Sr. Network Engineer,15-1133.00,0.790108014883998,"Software Developers, Systems Software"
+217,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+218,SURVEYORS,15-1199.02,0.6875115841790952,Computer Systems Engineers/Architects
+219,Data Storage and Protection Consultant,15-1199.07,0.8548806469752168,Data Warehousing Specialists
+220,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+221,SURVEYORS,15-1199.02,0.6875115841790952,Computer Systems Engineers/Architects
+222,Control System Engineer,15-1121.00,0.8668028910926984,Computer Systems Analysts
+223,Embedded R&D Engineer,15-1133.00,0.8187777003617256,"Software Developers, Systems Software"
+224,Anti-Cheat Software Engineer - EA SPORTS,15-1111.00,0.8547931184597481,Computer and Information Research Scientists
+225,Intermediate Mechanical Engineer,15-1133.00,0.8289861653607106,"Software Developers, Systems Software"
+226,Software Development Engineer Intern,15-1133.00,0.8817909625316093,"Software Developers, Systems Software"
+227,DevOps Engineer,15-1133.00,0.8415098378199334,"Software Developers, Systems Software"
+228,Database Reliability Engineer,15-1141.00,0.810418307582918,Database Administrators
+229,Junior Software Development Engineer (Embedded),15-1133.00,0.896549624549107,"Software Developers, Systems Software"
+230,Product Support Engineer,15-1111.00,0.9102790307820054,Computer and Information Research Scientists
+231,Senior Data Engineer,15-1199.06,0.8854496884271716,Database Architects
+232,DevOps Engineer,15-1199.02,0.48503833457901546,Computer Systems Engineers/Architects
+233,Sr. Network Engineer,15-1133.00,0.790108014883998,"Software Developers, Systems Software"
+234,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+235,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+236,Data Storage and Protection Consultant,15-1199.07,0.8548806469752168,Data Warehousing Specialists
+237,Field Service Engineer,15-1133.00,0.8018850619819666,"Software Developers, Systems Software"
+238,Junior Software Development Engineer in Test,15-1133.00,0.865469170056255,"Software Developers, Systems Software"
+239,Systems Engineer - Cisco Umbrella,15-1133.00,0.8402011207825012,"Software Developers, Systems Software"
+240,Research Engineer,15-1111.00,0.8720301281493482,Computer and Information Research Scientists
+241,Staff Software Engineer - Mobile,15-1133.00,0.9054867080085102,"Software Developers, Systems Software"
+242,Data Scientist,15-1111.00,0.9164274447392922,Computer and Information Research Scientists
+243,Integration Sales Engineer,15-1133.00,0.829190239267033,"Software Developers, Systems Software"
+244,DevOps Engineer (Unify),15-1199.06,0.8617254176632877,Database Architects
+245,"Staff Engineer, Embedded Software",15-1133.00,0.903616111405354,"Software Developers, Systems Software"
+246,Fuel Cell Engineer – Electrochemical Systems,15-1133.00,0.7437260136946133,"Software Developers, Systems Software"
+247,Control System Engineer,15-1121.00,0.8668028910926984,Computer Systems Analysts
+248,Embedded R&D Engineer,15-1133.00,0.8187777003617256,"Software Developers, Systems Software"
+249,Sr. Network Engineer,15-1133.00,0.790108014883998,"Software Developers, Systems Software"
+250,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+251,SURVEYORS,15-1199.02,0.6875115841790952,Computer Systems Engineers/Architects
+252,Data Storage and Protection Consultant,15-1199.07,0.8548806469752168,Data Warehousing Specialists
+253,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+254,Software QA Engineer,15-1133.00,0.8783505730888567,"Software Developers, Systems Software"
+255,Test Engineer,15-1111.00,0.7975237267423028,Computer and Information Research Scientists
+256,Data Architect (Advanced Analytics),15-1199.06,0.8763112511133943,Database Architects
+257,Intermediate Software Development Engineer in Test,15-1133.00,0.8825926993719876,"Software Developers, Systems Software"
+258,Software Engineer,15-1133.00,0.9198802553986666,"Software Developers, Systems Software"
+259,"Procurement Coordinator, Regional",15-1121.00,0.7660442138925345,Computer Systems Analysts
+260,Senior Backend Engineer - Data Collection,15-1133.00,0.8850931315534398,"Software Developers, Systems Software"
+261,"Sales Support Specialist, Customer Engagement and Experience",15-1121.00,0.8295991628082026,Computer Systems Analysts
+262,Software Engineer,15-1133.00,0.916332730454246,"Software Developers, Systems Software"
+263,Associate Cloud Operations Engineer,15-1121.00,0.794503282567992,Computer Systems Analysts
+264,Control System Engineer,15-1121.00,0.8668028910926984,Computer Systems Analysts
+265,Embedded R&D Engineer,15-1133.00,0.8187777003617256,"Software Developers, Systems Software"
+266,Sr. Network Engineer,15-1133.00,0.790108014883998,"Software Developers, Systems Software"
+267,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+268,SURVEYORS,15-1199.02,0.6875115841790952,Computer Systems Engineers/Architects
+269,Data Storage and Protection Consultant,15-1199.07,0.8548806469752168,Data Warehousing Specialists
+270,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+271,Software Engineer,15-1133.00,0.916332730454246,"Software Developers, Systems Software"
+272,New Grad Engineers/Scientists,19-1029.01,0.7291944513328721,Bioinformatics Scientists
+273,Software Development Engineer in Test,15-1133.00,0.8977925018562842,"Software Developers, Systems Software"
+274,Data Software Engineer - FIFA (temporary),15-1199.07,0.9037121591437796,Data Warehousing Specialists
+275,Civil/Municipal Drainage Engineer,15-1199.02,0.753510679190421,Computer Systems Engineers/Architects
+276,Supply Chain Engineer,15-1199.07,0.7663708965085063,Data Warehousing Specialists
+277,Software Development Engineer Intern - Summer 2020 (Canada),15-1121.00,0.833480641487063,Computer Systems Analysts
+278,Lead Software Development Engineer,15-1121.00,0.8626896975288915,Computer Systems Analysts
+279,Nanofabrication Engineer,15-2021.00,0.7454575118392882,Mathematicians
+280,Growth Engineer,15-1121.00,0.7666883888302053,Computer Systems Analysts
+281,Control System Engineer,15-1121.00,0.8668028910926984,Computer Systems Analysts
+282,Embedded R&D Engineer,15-1133.00,0.8187777003617256,"Software Developers, Systems Software"
+283,Sr. Network Engineer,15-1133.00,0.790108014883998,"Software Developers, Systems Software"
+284,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+285,SURVEYORS,15-1199.02,0.6875115841790952,Computer Systems Engineers/Architects
+286,Data Storage and Protection Consultant,15-1199.07,0.8548806469752168,Data Warehousing Specialists
+287,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+288,Information Systems Software Programmer and Test Engineer,15-1133.00,0.9454168675486618,"Software Developers, Systems Software"
+289,Data Analyst,13-2099.01,0.8557967744918021,Financial Quantitative Analysts
+290,Business Intelligence Analyst,15-1199.08,0.8892696319727472,Business Intelligence Analysts
+291,Business Process Analyst,15-1121.00,0.8947342683231394,Computer Systems Analysts
+292,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+293,Business Analyst,15-1199.08,0.9142648568746915,Business Intelligence Analysts
+294,Business Analyst / Developer,15-1199.08,0.8660952327620955,Business Intelligence Analysts
+295,Calabrio Data and Reporting Analyst,15-1199.08,0.9208115234611316,Business Intelligence Analysts
+296,Research Analyst,13-2099.01,0.9263443776381033,Financial Quantitative Analysts
+297,Data Analyst - Summer 2020 Co-op,15-1121.00,0.8224492387349426,Computer Systems Analysts
+298,Data Analyst,15-1199.08,0.8598166624904238,Business Intelligence Analysts
+299,Data Analyst,13-2099.01,0.8316788425464411,Financial Quantitative Analysts
+300,Data Analyst,15-1199.08,0.8493326048365423,Business Intelligence Analysts
+301,Research and Reporting Analyst,13-2099.01,0.9207660609213076,Financial Quantitative Analysts
+302,Data Analyst,13-2099.01,0.8433437517397279,Financial Quantitative Analysts
+303,Business Analyst,15-1199.08,0.899663524497302,Business Intelligence Analysts
+304,Research Analyst (Entry Level Welcome),15-1121.00,0.8523088928295602,Computer Systems Analysts
+305,Data Analyst - 289578,13-2099.01,0.8678582071692464,Financial Quantitative Analysts
+306,Reporting and Database Programmer/Analyst,15-1141.00,0.8414218950867199,Database Administrators
+307,Business Intelligence Analyst,15-1199.08,0.8892696319727472,Business Intelligence Analysts
+308,Reporting and Database Programmer/Analyst,15-1141.00,0.8414218950867199,Database Administrators
+309,Business Analyst,15-1199.08,0.9142648568746915,Business Intelligence Analysts
+310,Business Process Analyst,15-1121.00,0.8947342683231394,Computer Systems Analysts
+311,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+312,Analyst,15-2041.00,0.8515560402424069,Statisticians
+313,Support Service Analyst-Data Center Operations,15-1121.00,0.874413892563542,Computer Systems Analysts
+314,Data Analyst,15-1121.00,0.8622713019980452,Computer Systems Analysts
+315,Business Process Improvement Analyst,15-1121.00,0.8864627903989044,Computer Systems Analysts
+316,"Sr Data Analyst, UFC Mobile",15-1199.04,0.8296157796855312,Geospatial Information Scientists and Technologists
+317,Senior Data Analyst,15-1199.08,0.8770987150425584,Business Intelligence Analysts
+318,Data Analyst,13-2099.01,0.8433437517397279,Financial Quantitative Analysts
+319,FP&A Analyst,15-1121.00,0.8717187423377476,Computer Systems Analysts
+320,Business Application Support Analyst,15-1121.00,0.8959501729919029,Computer Systems Analysts
+321,Certified Data Analyst,15-1199.07,0.84185356178725,Data Warehousing Specialists
+322,Business Analyst / Developer,15-1199.08,0.8660952327620955,Business Intelligence Analysts
+323,Data Analyst - 289578,13-2099.01,0.8678582071692464,Financial Quantitative Analysts
+324,Data Analyst,13-2099.01,0.8557967744918021,Financial Quantitative Analysts
+325,Business Process Analyst,15-1121.00,0.8947342683231394,Computer Systems Analysts
+326,Business Analyst / Developer,15-1199.08,0.8660952327620955,Business Intelligence Analysts
+327,Business Analyst,15-1199.08,0.899663524497302,Business Intelligence Analysts
+328,Systems Analyst (Business Analyst 2),15-1199.08,0.9194696927502448,Business Intelligence Analysts
+329,Data Analyst,15-1111.00,0.8920004697513135,Computer and Information Research Scientists
+330,Senior Data Analyst,13-2099.01,0.855338990672399,Financial Quantitative Analysts
+331,BI and Application Developer,15-1141.00,0.6605695409433949,Database Administrators
+332,Machine Learning Engineer / Data Analyst,15-1111.00,0.8626101121284915,Computer and Information Research Scientists
+333,Quality Assurance Analyst I,15-1121.00,0.9404058771503956,Computer Systems Analysts
+334,Quality Control Analyst,13-2099.01,0.8620083895991824,Financial Quantitative Analysts
+335,Data Management Analyst Developer (Contract),15-1199.08,0.9236079430746434,Business Intelligence Analysts
+336,Senior Game Data Analyst,15-1199.07,0.8301730855475874,Data Warehousing Specialists
+337,Business Analyst,15-1199.08,0.9142648568746915,Business Intelligence Analysts
+338,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+339,Reporting and Database Programmer/Analyst,15-1141.00,0.8414218950867199,Database Administrators
+340,Business Intelligence Analyst,15-1199.08,0.8892696319727472,Business Intelligence Analysts
+341,Data Analyst - 289578,13-2099.01,0.8678582071692464,Financial Quantitative Analysts
+342,Data Analyst,13-2099.01,0.8557967744918021,Financial Quantitative Analysts
+343,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+344,Business Analyst / Developer,15-1199.08,0.8660952327620955,Business Intelligence Analysts
+345,Senior Enterprise Data Analyst,15-1199.08,0.8625724926371474,Business Intelligence Analysts
+346,Programmer Analyst II (Learning Analytics),15-1121.00,0.9039450970290565,Computer Systems Analysts
+347,Game Analyst,15-1199.08,0.849290753306153,Business Intelligence Analysts
+348,"Strategic Account Analyst (Vancouver, BC)",15-1199.08,0.8201922404793859,Business Intelligence Analysts
+349,"Sourcing Analyst, Supply Chain",15-1121.00,0.8120916297684343,Computer Systems Analysts
+350,Business Analyst,15-1199.08,0.8625079687392007,Business Intelligence Analysts
+351,software quality assurance (QA) analyst,15-1121.00,0.8721965371243183,Computer Systems Analysts
+352,Retail - Workforce Planning Analyst,13-2099.01,0.8955205930463214,Financial Quantitative Analysts
+353,Business Intelligence Analyst,15-1199.08,0.9090525791399406,Business Intelligence Analysts
+354,"Data Solutions Analyst, IT",15-1199.07,0.8465683046073347,Data Warehousing Specialists
+355,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+356,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+357,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+358,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+359,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+360,Data Scientist I,15-1111.00,0.875986217304671,Computer and Information Research Scientists
+361,Data Scientist,15-1111.00,0.8466228726243358,Computer and Information Research Scientists
+362,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+363,Junior Data Scientist,15-2041.00,0.8267136670585161,Statisticians
+364,Data Scientist,15-1111.00,0.8594210525042845,Computer and Information Research Scientists
+365,Data Scientist,15-1111.00,0.8926804663194047,Computer and Information Research Scientists
+366,Data Scientist,15-1111.00,0.860640910677499,Computer and Information Research Scientists
+367,"Data Scientist, People Analytics",15-1111.00,0.851840606751845,Computer and Information Research Scientists
+368,Data Scientist,15-1121.00,0.8758711306288528,Computer Systems Analysts
+369,Data Scientist,15-1111.00,0.8897965258214158,Computer and Information Research Scientists
+370,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+371,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+372,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+373,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+374,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+375,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+376,Data Scientist,15-1111.00,0.8675458799779093,Computer and Information Research Scientists
+377,Data Scientist,15-1111.00,0.8712219967772145,Computer and Information Research Scientists
+378,Applied Research Scientist - Time Series,15-1111.00,0.7909659145822011,Computer and Information Research Scientists
+379,Data Analyst,15-1121.00,0.8371497177238283,Computer Systems Analysts
+380,data scientist,15-1111.00,0.8419278445674429,Computer and Information Research Scientists
+381,Data Science-Consultant,15-2041.00,0.889485953012532,Statisticians
+382,Data Scientist / Engineer,15-1199.07,0.8586209301284337,Data Warehousing Specialists
+383,Data Scientist,15-1111.00,0.8705171086124754,Computer and Information Research Scientists
+384,Network Data Scientist – Wireless Service Analytics & Transf...,15-1199.04,0.8607989358497724,Geospatial Information Scientists and Technologists
+385,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+386,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+387,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+388,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+389,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+390,Research Data Scientist,15-1111.00,0.8536550659743464,Computer and Information Research Scientists
+391,Data Scientist,15-1111.00,0.8117711642928853,Computer and Information Research Scientists
+392,Data Scientist,15-1111.00,0.8735649213467042,Computer and Information Research Scientists
+393,Data Scientist,15-1199.04,0.8316017025878208,Geospatial Information Scientists and Technologists
+394,Biomedical Data Scientist,15-1111.00,0.8883091837883139,Computer and Information Research Scientists
+395,Data Scientist,15-1111.00,0.8422212094398596,Computer and Information Research Scientists
+396,Senior Data Scientist,15-1111.00,0.8469529175739207,Computer and Information Research Scientists
+397,Data Science Intern,15-2041.00,0.8002860935484227,Statisticians
+398,Senior Data Scientist,15-1111.00,0.9052014200737223,Computer and Information Research Scientists
+399,Data Scientist,15-1111.00,0.852154100484972,Computer and Information Research Scientists
+400,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+401,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+402,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+403,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+404,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+405,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+406,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+407,Data Scientist,15-1111.00,0.8794081192373806,Computer and Information Research Scientists
+408,"Lead Educator, Data Science",15-1111.00,0.8246349298089208,Computer and Information Research Scientists
+409,Data Scientist,15-1111.00,0.8541005857178909,Computer and Information Research Scientists
+410,Data Scientist,15-1111.00,0.8979749265614523,Computer and Information Research Scientists
+411,Machine Learning Engineer / Data Scientist,15-1111.00,0.9053728447918611,Computer and Information Research Scientists
+412,Applied Statistician - Data Science,15-1111.00,0.8961834231001132,Computer and Information Research Scientists
+413,Data Analyst,15-1121.00,0.8523144033743921,Computer Systems Analysts
+414,Data Scientist,15-1111.00,0.8536821923932044,Computer and Information Research Scientists
+415,Data Scientist,15-1111.00,0.8265546207294213,Computer and Information Research Scientists
+416,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+417,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+418,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+419,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+420,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+421,"Data Scientist, Senior Consultant",15-1111.00,0.938521668152657,Computer and Information Research Scientists
+422,"Data Scientist - Coop (Mississauga, ON)",15-1111.00,0.7680491088916453,Computer and Information Research Scientists
+423,Data Scientist/Time Series,15-1111.00,0.8156096553185679,Computer and Information Research Scientists
+424,"Research Scientist, Data Visualization",15-1111.00,0.849718130817841,Computer and Information Research Scientists
+425,Data Scientist,15-1111.00,0.836615593379333,Computer and Information Research Scientists
+426,Sr. Data Scientist,15-1111.00,0.8827283164301072,Computer and Information Research Scientists
+427,Intern- Data Science,15-1111.00,0.8638339016105961,Computer and Information Research Scientists
+428,Software Engineer - Backend (Big Data) - Toronto,15-1141.00,0.8621002140698648,Database Administrators
+429,Data Analyst,15-1199.07,0.8067490634124286,Data Warehousing Specialists
+430,"Analyst, Customer Analytics",15-2041.00,0.8548094163718766,Statisticians
+431,Manager Advanced Analytics,15-1121.00,0.8052684499807045,Computer Systems Analysts
+432,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+433,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+434,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+435,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+436,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+437,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+438,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+439,Data Scientist,15-2041.00,0.8250775687141226,Statisticians
+440,Jr. and Sr. Analytics Consultant,15-1111.00,0.8770241554669745,Computer and Information Research Scientists
+441,Data Scientist (1 Year Contract),15-1111.00,0.8280663618944524,Computer and Information Research Scientists
+442,Data Scientist,15-1111.00,0.8648949332659405,Computer and Information Research Scientists
+443,"Director, Advanced Data Analytics Products",15-1121.00,0.8359679684765406,Computer Systems Analysts
+444,Senior Data Scientist - Product Sourcing,15-1199.07,0.8738535552408837,Data Warehousing Specialists
+445,"Associate - Quantitative Analytics, Structured Finance Model...",13-2099.01,0.8270380175199676,Financial Quantitative Analysts
+446,Senior Data Scientist (Toronto),15-1111.00,0.8844902171308371,Computer and Information Research Scientists
+447,Data Science Engineer,15-1199.07,0.8422136194670774,Data Warehousing Specialists
+448,Data Analyst,15-1121.00,0.9013619620320427,Computer Systems Analysts
+449,Manager Advanced Analytics,15-1121.00,0.8052684499807045,Computer Systems Analysts
+450,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+451,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+452,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+453,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+454,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+455,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+456,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+457,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+458,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+459,Manager Advanced Analytics,15-1121.00,0.8052684499807045,Computer Systems Analysts
+460,DevOps Engineer - Data Analyst,15-1111.00,0.8884337730569567,Computer and Information Research Scientists
+461,Sr. Data Scientist,15-1111.00,0.8607878373485512,Computer and Information Research Scientists
+462,Senior Data Scientist,15-1111.00,0.9256056355021259,Computer and Information Research Scientists
+463,Data Science Co-op,15-1111.00,0.7902510456343891,Computer and Information Research Scientists
+464,Senior Data Scientist,15-1111.00,0.868451209153503,Computer and Information Research Scientists
+465,Senior Data Scientist - Multiple Roles,15-1111.00,0.853691600653598,Computer and Information Research Scientists
+466,"Data Scientist, GEMINI (Contract)",15-1111.00,0.8915851861622234,Computer and Information Research Scientists
+467,Principal Data Scientist,15-1111.00,0.8577599068471914,Computer and Information Research Scientists
+468,"Data Scientist, Supply Chain/Customer Profitability",15-1121.00,0.8175112261153088,Computer Systems Analysts
+469,Machine Learning Engineer,15-1133.00,0.8078256653659852,"Software Developers, Systems Software"
+470,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+471,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+472,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+473,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+474,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+475,"Data Scientist, Team Lead",15-1111.00,0.9088644677524214,Computer and Information Research Scientists
+476,PySpark Big Data Developer,15-1141.00,0.8561997277483662,Database Administrators
+477,Data Engineer - BI & Data Science,15-1199.07,0.8755876100276659,Data Warehousing Specialists
+478,"Data Scientist, Financial Crimes and Cybersecurity, Senior A...",15-1199.08,0.8874723552073344,Business Intelligence Analysts
+479,Senior Data Analyst,15-1199.08,0.8747867247188359,Business Intelligence Analysts
+480,Data Analyst,15-1121.00,0.8527411728668386,Computer Systems Analysts
+481,Data Scientist,15-1111.00,0.8725251592311994,Computer and Information Research Scientists
+482,Big Data Engineer,15-1199.07,0.8250317220174087,Data Warehousing Specialists
+483,Data Analyst,15-2041.02,0.8473708752731347,Clinical Data Managers
+484,Manager Advanced Analytics,15-1121.00,0.8052684499807045,Computer Systems Analysts
+485,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+486,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+487,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+488,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+489,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+490,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+491,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+492,Manager – Advanced Analytics,15-1111.00,0.901097666504763,Computer and Information Research Scientists
+493,"Manager, Data Scientist",15-1111.00,0.8980738083620459,Computer and Information Research Scientists
+494,"Senior Data Scientist, Fraud Modernization",15-1111.00,0.856139337329726,Computer and Information Research Scientists
+495,PROJECT MANAGER BUSINESS TRANSFORMATION PF&R (Data Analytics...,15-1141.00,0.8675453062988536,Database Administrators
+496,DIGITAL DATA ANALYST (DIGITAL AND DATA SCIENCE),15-1121.00,0.8784972605691931,Computer Systems Analysts
+497,Data Analyst - Contract,15-1121.00,0.8471416675292591,Computer Systems Analysts
+498,Senior Data Scientist - Fraud Analytics,15-1111.00,0.848143563234649,Computer and Information Research Scientists
+499,Senior Operations Data Analyst,15-1121.00,0.868434014943149,Computer Systems Analysts
+500,Senior Data Scientist - Natural Language Processing (NLP),15-1111.00,0.8667926073864676,Computer and Information Research Scientists
+501,Learn more about our Digital Analytics team!,15-1121.00,0.7318786326435632,Computer Systems Analysts
+502,Manager Advanced Analytics,15-1121.00,0.8052684499807045,Computer Systems Analysts
+503,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+504,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+505,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+506,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+507,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+508,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+509,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+510,Senior Data Scientist,15-1111.00,0.8819103641853538,Computer and Information Research Scientists
+511,SENIOR DATA SCIENTIST (DIGITAL AND DATA SCIENCE),15-1111.00,0.8986645670261871,Computer and Information Research Scientists
+512,Senior Data Scientist,15-1111.00,0.8634763333775941,Computer and Information Research Scientists
+513,Big Data Developer (Cloud),15-1199.07,0.8775131088348183,Data Warehousing Specialists
+514,Applied Scientist,15-1111.00,0.8768727746339529,Computer and Information Research Scientists
+515,Senior Data Scientist (NLP),15-1111.00,0.8735098100477853,Computer and Information Research Scientists
+516,Principal NLP Scientist,15-1111.00,0.8019137908340005,Computer and Information Research Scientists
+517,Data Science Specialist,15-1199.04,0.8747076271203256,Geospatial Information Scientists and Technologists
+518,Data Science Analyst- Marketing,15-1111.00,0.8358988198773885,Computer and Information Research Scientists
+519,"Applied Scientist, AI Applications - Deep Learning",15-1111.00,0.7771679511067842,Computer and Information Research Scientists
+520,Manager Advanced Analytics,15-1121.00,0.8052684499807045,Computer Systems Analysts
+521,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+522,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+523,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+524,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+525,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+526,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+527,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+528,Research Scientist Intern - Deep Learning,15-1111.00,0.8050945742489874,Computer and Information Research Scientists
+529,"Deep Learning Intern, Content & Technology - Summer 2020",15-1111.00,0.7068230777016998,Computer and Information Research Scientists
+530,Senior Data Analyst,15-1199.08,0.9278839437547435,Business Intelligence Analysts
+531,"Engineering Manager, Data Science",15-1111.00,0.9046580039167439,Computer and Information Research Scientists
+532,Machine Learning Engineer,15-1133.00,0.8074608571489341,"Software Developers, Systems Software"
+533,Sr. Data Modeler/Data Analyst,15-1199.08,0.8898272643422162,Business Intelligence Analysts
+534,Business Intelligence Engineer,15-1111.00,0.8928532440700551,Computer and Information Research Scientists
+535,"SAP - Data and Analytics Specialist, Omnia AI",15-1141.00,0.8745490390389602,Database Administrators
+536,"Senior Analytics Advisor, Data & Insights",15-1121.00,0.8350842328810338,Computer Systems Analysts
+537,Manager Advanced Analytics,15-1121.00,0.8052684499807045,Computer Systems Analysts
+538,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+539,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+540,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+541,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+542,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+543,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+544,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+545,Software Engineer - Machine Learning (Toronto),15-1121.00,0.8262855824052548,Computer Systems Analysts
+546,"Applied Scientist, NLP",15-1111.00,0.8747722929368003,Computer and Information Research Scientists
+547,NLP Scientist,15-1111.00,0.8712723279353588,Computer and Information Research Scientists
+548,Advanced Analytics Manager - RBC Ventures,15-1111.00,0.8953529856000778,Computer and Information Research Scientists
+549,Part-Time Data Science Instructor,15-1111.00,0.8814429684735747,Computer and Information Research Scientists
+550,Senior Wireless Data Scientist,15-1199.07,0.8400864869876381,Data Warehousing Specialists
+551,Machine Learning Engineer / Data Analyst,15-1111.00,0.8626101121284915,Computer and Information Research Scientists
+552,MACHINE LEARNING ENGINEER (SOPHI),15-1111.00,0.8890716726677975,Computer and Information Research Scientists
+553,Machine Learning Engineer,15-1111.00,0.854206091117771,Computer and Information Research Scientists
+554,"Applied Scientist, Alexa AI",15-1111.00,0.791713901319437,Computer and Information Research Scientists
+555,Manager Advanced Analytics,15-1121.00,0.8052684499807045,Computer Systems Analysts
+556,Big Data Operations Specialist,15-1121.00,0.868236523502773,Computer Systems Analysts
+557,Big Data Instructor,15-1111.00,0.8328297195283388,Computer and Information Research Scientists
+558,Senior Data Scientist,15-1111.00,0.8443986897364005,Computer and Information Research Scientists
+559,"Postdoctoral Research Fellow in Computer Vision, Deep Learni...",15-1111.00,0.7894476072732723,Computer and Information Research Scientists
+560,DATA SCIENTIST,15-1111.00,0.8733207129366461,Computer and Information Research Scientists
+561,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+562,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+563,Data Scientist,15-1111.00,0.8209885239090225,Computer and Information Research Scientists
+564,Research Scientist - Deep Learning,15-1111.00,0.7810482366162096,Computer and Information Research Scientists
+565,Senior Data Analyst,15-1121.00,0.8637587829240795,Computer Systems Analysts
+566,"Assistant Professor, Teaching Stream – Computer and Data Sci...",15-1111.00,0.8728679313144957,Computer and Information Research Scientists
+567,Data Engineer,15-1199.07,0.8805998261670294,Data Warehousing Specialists
+568,Data Engineer,15-1199.07,0.8768681044203527,Data Warehousing Specialists
+569,RF Test Engineer,15-1133.00,0.6846755489867594,"Software Developers, Systems Software"
+570,Manager - Data and Analytics,15-1199.07,0.8838181961132847,Data Warehousing Specialists
+571,Site Superintendent,15-1141.00,0.7329696447937112,Database Administrators
+572,IoT Engineer,15-1111.00,0.818873305749837,Computer and Information Research Scientists
+573,Data Engineer,15-1111.00,0.8860967491602324,Computer and Information Research Scientists
+574,Data Engineer,15-1111.00,0.8546178755554035,Computer and Information Research Scientists
+575,Data Platform Engineer,15-1111.00,0.8336695044865962,Computer and Information Research Scientists
+576,ETL Developer / Data Engineer,15-1141.00,0.899342824215914,Database Administrators
+577,Data Mesh Engineer,15-1133.00,0.8979613205543816,"Software Developers, Systems Software"
+578,Big Data Engineer,15-1141.00,0.8767073301552133,Database Administrators
+579,Data Science Engineer,15-1199.07,0.8422136194670774,Data Warehousing Specialists
+580,Data Engineer (New Grad),15-1111.00,0.8852538372583073,Computer and Information Research Scientists
+581,Data Engineer,15-1111.00,0.848002178369201,Computer and Information Research Scientists
+582,Data Engineer,15-1199.07,0.8477694344705531,Data Warehousing Specialists
+583,Estimator,15-1121.00,0.722628472331958,Computer Systems Analysts
+584,Data Engineer,15-1141.00,0.8266867456487379,Database Administrators
+585,Data Engineer,15-1199.07,0.8768681044203527,Data Warehousing Specialists
+586,Data Engineer,15-1141.00,0.8266867456487379,Database Administrators
+587,Manager - Data and Analytics,15-1199.07,0.8838181961132847,Data Warehousing Specialists
+588,"Data & Insights Analyst, Pension Administration",13-2099.01,0.8663098292565005,Financial Quantitative Analysts
+589,"Data Analyst, Product Environmental Stewardship",15-1121.00,0.8291077427997773,Computer Systems Analysts
+590,Data Analyst,15-1199.07,0.8522603113239156,Data Warehousing Specialists
+591,Data Entry Analyst,15-1121.00,0.8187097858515842,Computer Systems Analysts
+592,Data Analyst - Creative Destruction Lab,15-1111.00,0.8820083380263373,Computer and Information Research Scientists
+593,"Data Analyst, Business Intelligence (BI)",15-1199.08,0.9003775842143905,Business Intelligence Analysts
+594,Data Analyst,15-1199.08,0.8209713933692929,Business Intelligence Analysts
+595,Data Analyst,15-1121.00,0.8371497177238283,Computer Systems Analysts
+596,Data Analyst,15-1199.08,0.8585039639041074,Business Intelligence Analysts
+597,Data Governance Analyst,15-1121.00,0.847823035604775,Computer Systems Analysts
+598,Data Analyst,13-2099.01,0.8479035187549154,Financial Quantitative Analysts
+599,Junior Data Analyst,15-1121.00,0.8371806935170935,Computer Systems Analysts
+600,Data Analyst,15-1199.08,0.8640436872250741,Business Intelligence Analysts
+601,"Assistant Analyst, Sponsorship and Consulting (Internship)",19-4061.00,0.8200606768704011,Social Science Research Assistants
+602,Data Quality Analyst,15-1121.00,0.8613923608936763,Computer Systems Analysts
+603,Data Quality Analyst,15-1121.00,0.8613923608936763,Computer Systems Analysts
+604,"Data Analyst, Product Environmental Stewardship",15-1121.00,0.8291077427997773,Computer Systems Analysts
+605,Junior Data Analyst,15-1111.00,0.8574422782846818,Computer and Information Research Scientists
+606,Junior Data Analyst,15-1121.00,0.8371806935170935,Computer Systems Analysts
+607,Fraud Analyst - Inbound,15-1121.00,0.8184361042413769,Computer Systems Analysts
+608,Kinesso - Data Analyst,15-1121.00,0.8209045155609132,Computer Systems Analysts
+609,Reporting and Data Analyst,15-1199.08,0.8653010762376354,Business Intelligence Analysts
+610,Data Analyst,15-1199.08,0.8477086461189669,Business Intelligence Analysts
+611,Client Data Support Analyst,15-1141.00,0.8441561320764118,Database Administrators
+612,"Consultant, Data Analyst",15-1121.00,0.902931621026855,Computer Systems Analysts
+613,Data Analyst,15-1199.07,0.845700591059798,Data Warehousing Specialists
+614,Data Analyst,15-1121.00,0.860466515259839,Computer Systems Analysts
+615,Data Analyst,15-1199.07,0.8522603113239156,Data Warehousing Specialists
+616,"Assistant Analyst, Sponsorship and Consulting (Internship)",19-4061.00,0.8200606768704011,Social Science Research Assistants
+617,"Data & Insights Analyst, Pension Administration",13-2099.01,0.8663098292565005,Financial Quantitative Analysts
+618,Data Quality Analyst,15-1121.00,0.8613923608936763,Computer Systems Analysts
+619,Data Analyst,15-1199.07,0.8522603113239156,Data Warehousing Specialists
+620,Analyst,15-1121.00,0.8002107378152348,Computer Systems Analysts
+621,Data Analyst,15-1121.00,0.8523144033743921,Computer Systems Analysts
+622,"Consultant, Data Analyst",15-1121.00,0.8975185020795785,Computer Systems Analysts
+623,Data Analyst,13-2099.01,0.8557967744918021,Financial Quantitative Analysts
+624,Data Analyst,13-2099.01,0.8678581492867845,Financial Quantitative Analysts
+625,Data Analyst,15-1121.00,0.9013619620320427,Computer Systems Analysts
+626,Business Analyst,15-1199.08,0.7846842127173622,Business Intelligence Analysts
+627,Business Data Analyst,15-1121.00,0.8498718280235995,Computer Systems Analysts
+628,"Assistant Analyst, Sponsorship and Consulting (Internship)",19-4061.00,0.8200606768704011,Social Science Research Assistants
+629,"Data Analyst, Product Environmental Stewardship",15-1121.00,0.8291077427997773,Computer Systems Analysts
+630,"Data & Insights Analyst, Pension Administration",13-2099.01,0.8663098292565005,Financial Quantitative Analysts
+631,"Data Analyst, Product Environmental Stewardship",15-1121.00,0.8291077427997773,Computer Systems Analysts
+632,Data Analyst,15-1199.07,0.8522603113239156,Data Warehousing Specialists
+633,Data Analyst,15-1199.07,0.8067490634124286,Data Warehousing Specialists
+634,Application Support Analyst - (Service Desk Support / Incide...,15-1121.00,0.8376602882850358,Computer Systems Analysts
+635,Pricing Analyst,15-1121.00,0.7863586154509273,Computer Systems Analysts
+636,Business and Data Analyst,13-2099.01,0.8843969225695487,Financial Quantitative Analysts
+637,CPMS Equity Data Analyst,13-2099.01,0.8971955870097036,Financial Quantitative Analysts
+638,DevOps Engineer - Data Analyst,15-1111.00,0.8884337730569567,Computer and Information Research Scientists
+639,Data Governance Analyst,15-1121.00,0.9176045337261538,Computer Systems Analysts
+640,"Analyst, Customer Analytics",15-2041.00,0.8548094163718766,Statisticians
+641,Performance Analyst Consultant,15-1199.08,0.9673803675594291,Business Intelligence Analysts
+642,"Assistant Analyst, Sponsorship and Consulting (Internship)",19-4061.00,0.8200606768704011,Social Science Research Assistants
+643,Data Quality Analyst,15-1121.00,0.8613923608936763,Computer Systems Analysts
+644,"Data & Insights Analyst, Pension Administration",13-2099.01,0.8663098292565005,Financial Quantitative Analysts
+645,Data Engineering Analyst,15-1111.00,0.9063846270527581,Computer and Information Research Scientists
+646,Data Analyst,15-1121.00,0.8776781713541332,Computer Systems Analysts
+647,Jr. Data/Reporting Analyst,13-2099.01,0.8504820781809167,Financial Quantitative Analysts
+648,Performance Analyst Consultant,15-1199.08,0.9673803675594291,Business Intelligence Analysts
+649,Data Specialist/Clinical Analyst,15-2041.02,0.9190846374375458,Clinical Data Managers
+650,Marketing Data Analyst,15-1199.08,0.8487568253949956,Business Intelligence Analysts
+651,Data Analyst,15-1199.08,0.8646663237668939,Business Intelligence Analysts
+652,Data Analyst,15-1199.07,0.8244207211351066,Data Warehousing Specialists
+653,Forms Analyst - Health Data Resources,15-1121.00,0.8210916828371786,Computer Systems Analysts
+654,Data Analyst,15-1199.07,0.8522603113239156,Data Warehousing Specialists
+655,"Assistant Analyst, Sponsorship and Consulting (Internship)",19-4061.00,0.8200606768704011,Social Science Research Assistants
+656,"Data & Insights Analyst, Pension Administration",13-2099.01,0.8663098292565005,Financial Quantitative Analysts
+657,Data Quality Analyst,15-1121.00,0.8613923608936763,Computer Systems Analysts
+658,"Data Analyst, Product Environmental Stewardship",15-1121.00,0.8291077427997773,Computer Systems Analysts
+659,"Senior Business Analyst, Data Management",15-1199.08,0.9472856970480504,Business Intelligence Analysts
+660,Business Systems Analyst,15-1121.00,0.9017415828133438,Computer Systems Analysts
+661,"Data Analyst, CIS",15-1199.08,0.8086838368825817,Business Intelligence Analysts
+662,Data Analyst,15-1121.00,0.8527411728668386,Computer Systems Analysts
+663,Marketing Data Analyst,15-1199.08,0.8840232539937418,Business Intelligence Analysts
+664,Business Process Analyst,15-1199.08,0.898604669207327,Business Intelligence Analysts
+665,BUSINESS ANALYST CITY PLANNING,15-1121.00,0.8470855700278033,Computer Systems Analysts
+666,Data Analyst,15-2041.02,0.8473708752731347,Clinical Data Managers
+667,Data Quality Analyst,13-2099.01,0.8307078189248899,Financial Quantitative Analysts
+668,Data Analyst - TELUS Health,15-1121.00,0.8340355477193269,Computer Systems Analysts
+669,Data Analyst,15-1199.07,0.8522603113239156,Data Warehousing Specialists
+670,"Assistant Analyst, Sponsorship and Consulting (Internship)",19-4061.00,0.8200606768704011,Social Science Research Assistants
+671,"Data & Insights Analyst, Pension Administration",13-2099.01,0.8663098292565005,Financial Quantitative Analysts
+672,Data Quality Analyst,15-1121.00,0.8613923608936763,Computer Systems Analysts
+673,"Data Analyst, Product Environmental Stewardship",15-1121.00,0.8291077427997773,Computer Systems Analysts
+674,Category Business Analyst,15-1199.08,0.7787036402709527,Business Intelligence Analysts
+675,Automation/Data engineering analyst,15-1121.00,0.8927932035381595,Computer Systems Analysts
+676,Data Analyst - Big Data,15-1199.07,0.8171586486113097,Data Warehousing Specialists
+677,DIGITAL DATA ANALYST (DIGITAL AND DATA SCIENCE),15-1121.00,0.8784972605691931,Computer Systems Analysts
+678,"Energy Analyst, Buildings (New Graduate)",15-1121.00,0.8488245131804392,Computer Systems Analysts
+679,Data Analyst,15-1199.07,0.8048399537271836,Data Warehousing Specialists
+680,"analyst, business management",15-1199.08,0.9219722165695785,Business Intelligence Analysts
+681,Data Analyst - Contract,15-1121.00,0.8471416675292591,Computer Systems Analysts
+682,Senior Data Analyst,15-1199.08,0.8747867247188359,Business Intelligence Analysts
+683,Senior Operations Data Analyst,15-1121.00,0.868434014943149,Computer Systems Analysts
+684,Data Analyst,15-1199.07,0.8522603113239156,Data Warehousing Specialists
+685,"Assistant Analyst, Sponsorship and Consulting (Internship)",19-4061.00,0.8200606768704011,Social Science Research Assistants
+686,"Data & Insights Analyst, Pension Administration",13-2099.01,0.8663098292565005,Financial Quantitative Analysts
+687,Data Quality Analyst,15-1121.00,0.8613923608936763,Computer Systems Analysts
+688,"Data Analyst, Product Environmental Stewardship",15-1121.00,0.8291077427997773,Computer Systems Analysts
+689,Business Analyst,15-1199.08,0.899663524497302,Business Intelligence Analysts
+690,Business Analyst,15-1199.08,0.899663524497302,Business Intelligence Analysts
+691,Data Analyst (Part,15-1199.08,0.8528204179036319,Business Intelligence Analysts
+692,Intern- Junior Application Support Analyst (4 or 8 month con...,15-1199.08,0.6545147331715367,Business Intelligence Analysts
+693,Senior Analyst Data Analytics,15-1121.00,0.8550047175128812,Computer Systems Analysts
+694,BUSINESS DATA ANALYST-TUITION & FEES,15-1121.00,0.8390167836351811,Computer Systems Analysts
+695,Data Analyst (MS Dynamics),15-1199.07,0.8436671877999448,Data Warehousing Specialists
+696,Data Analyst,13-2099.01,0.8557967744918021,Financial Quantitative Analysts
+697,Market Research Analyst,15-1199.08,0.8659817812549879,Business Intelligence Analysts
+698,Data Systems Analyst,15-1121.00,0.9054882868968024,Computer Systems Analysts
+699,Data Analyst,15-1199.07,0.8522603113239156,Data Warehousing Specialists
+700,"Assistant Analyst, Sponsorship and Consulting (Internship)",19-4061.00,0.8200606768704011,Social Science Research Assistants
+701,"Data & Insights Analyst, Pension Administration",13-2099.01,0.8663098292565005,Financial Quantitative Analysts
+702,Data Quality Analyst,15-1121.00,0.8613923608936763,Computer Systems Analysts
+703,"Data Analyst, Product Environmental Stewardship",15-1121.00,0.8291077427997773,Computer Systems Analysts
+704,QA ANALYST,15-1199.08,0.8682494214619041,Business Intelligence Analysts
+705,Reporting Analyst,15-1199.08,0.9257174085040716,Business Intelligence Analysts
+706,"Junior Analyst, Data & Analytics",15-1199.08,0.9003682712474593,Business Intelligence Analysts
+707,TRN Customer Service Systems Support Analyst,15-1121.00,0.8467387650348644,Computer Systems Analysts
+708,Data Analyst,15-1199.07,0.8447091544807587,Data Warehousing Specialists
+709,Project Management Analyst,15-1121.00,0.8684262013994218,Computer Systems Analysts
+710,Business Analyst,15-1121.00,0.8653673012399076,Computer Systems Analysts
+711,Data Analyst,15-1199.08,0.8604901292911078,Business Intelligence Analysts
+712,"Analyst, Retail Foreign Exchange & Precious Metals",15-1121.00,0.8395606446861922,Computer Systems Analysts
+713,Data Solution Analyst II,15-1121.00,0.8553215745998851,Computer Systems Analysts
+714,Data Analyst,15-1199.07,0.8522603113239156,Data Warehousing Specialists
+715,"Assistant Analyst, Sponsorship and Consulting (Internship)",19-4061.00,0.8200606768704011,Social Science Research Assistants
+716,"Data & Insights Analyst, Pension Administration",13-2099.01,0.8663098292565005,Financial Quantitative Analysts
+717,Data Quality Analyst,15-1121.00,0.8613923608936763,Computer Systems Analysts
+718,"Data Analyst, Product Environmental Stewardship",15-1121.00,0.8291077427997773,Computer Systems Analysts
+719,"Business Analyst I, Provincial Projects",15-1121.00,0.8265324679429285,Computer Systems Analysts
+720,Project Management Analyst,15-1199.08,0.8223627423835007,Business Intelligence Analysts
+721,Sourcing Analyst,15-1121.00,0.8801144877388396,Computer Systems Analysts
+722,BSA - Business Systems Analyst,15-1121.00,0.9029636116374045,Computer Systems Analysts
+723,Inventory Analyst,15-1199.08,0.8437787193666473,Business Intelligence Analysts
+724,Business Data Analyst,15-1199.08,0.9003951657677071,Business Intelligence Analysts
+725,"Analyst, Customer Analytics & Database Marketing",15-1121.00,0.885518102020943,Computer Systems Analysts
+726,"Treasury Analyst, Data Management and Analytics",15-1121.00,0.8713629519098407,Computer Systems Analysts
+727,Data Analyst,15-1199.08,0.8982137499800349,Business Intelligence Analysts
+728,"Business Analyst, Summer 2020 Co-op/Summer Student Opportuni...",15-1199.08,0.7629970007488729,Business Intelligence Analysts
+729,Data Analyst,15-1199.07,0.8522603113239156,Data Warehousing Specialists
+730,"Assistant Analyst, Sponsorship and Consulting (Internship)",19-4061.00,0.8200606768704011,Social Science Research Assistants
+731,Scientifique des données généraliste / Data Scientist Genera...,15-1111.00,0.7242818546048955,Computer and Information Research Scientists
+732,ML Product Owner / Data Analyst,15-1121.00,0.8702339448339836,Computer Systems Analysts
+733,Human Resources Data Scientist,15-1111.00,0.8209393663983694,Computer and Information Research Scientists
+734,Scientifique des données / Data Scientist - 289478,15-1111.00,0.7517406838962871,Computer and Information Research Scientists
+735,data scientist,15-1111.00,0.8419278445674429,Computer and Information Research Scientists
+736,Data Scientist,15-1199.08,0.8929157807650645,Business Intelligence Analysts
+737,Data Scientist,15-1111.00,0.8771946073964154,Computer and Information Research Scientists
+738,Data Scientist,15-1111.00,0.5666218556513529,Computer and Information Research Scientists
+739,Data Scientist Developer Intern - Summer Term,15-1111.00,0.8823807408478711,Computer and Information Research Scientists
+740,Data Scientist,15-1111.00,0.8836476956702191,Computer and Information Research Scientists
+741,Data Engineer or Scientist,15-1111.00,0.8739217439608731,Computer and Information Research Scientists
+742,Intern - Data Scientist,15-1111.00,0.8808219607087956,Computer and Information Research Scientists
+743,Data Scientist - Intermediate & Senior,15-1111.00,0.8947070085637424,Computer and Information Research Scientists
+744,Junior Machine Learning Developer,15-1111.00,0.8996894237251486,Computer and Information Research Scientists
+745,Data Scientist - Price Point - Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+746,Data Scientist - Price Point - Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+747,ML Product Owner / Data Analyst,15-1121.00,0.8702339448339836,Computer Systems Analysts
+748,Data Scientist,15-1111.00,0.368560934205165,Computer and Information Research Scientists
+749,Data Scientist and Project Coordinator for Education Startup,15-1111.00,0.9184955874571246,Computer and Information Research Scientists
+750,Data Scientist,15-1111.00,0.8465454501311145,Computer and Information Research Scientists
+751,Data Analyst,15-2041.00,0.8935677364891497,Statisticians
+752,Data Scientist Intern,15-1111.00,0.872456692021243,Computer and Information Research Scientists
+753,"Data Scientist, Intermediate or Senior",15-1111.00,0.9093670774628152,Computer and Information Research Scientists
+754,Data Scientist - QuantumBlack,15-1111.00,0.8916808151875064,Computer and Information Research Scientists
+755,Data Scientist,15-1111.00,0.8899572413730941,Computer and Information Research Scientists
+756,Senior Data Scientist - Hotels,15-1199.07,0.8259830977854653,Data Warehousing Specialists
+757,Scientifique des données / Data Scientist - 289478,15-1111.00,0.7517406838962871,Computer and Information Research Scientists
+758,Human Resources Data Scientist,15-1111.00,0.8209393663983694,Computer and Information Research Scientists
+759,Scientifique des données généraliste / Data Scientist Genera...,15-1111.00,0.7242818546048955,Computer and Information Research Scientists
+760,Data Scientist - Price Point - Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+761,Scientifique des données / Data Scientist - 289478,15-1111.00,0.7517406838962871,Computer and Information Research Scientists
+762,Data Scientist,15-1111.00,0.8631745072076208,Computer and Information Research Scientists
+763,Scientifique de Données / Data Scientist,15-1111.00,0.6449069182119523,Computer and Information Research Scientists
+764,Senior data scientist,15-1111.00,0.9103170968864243,Computer and Information Research Scientists
+765,Scientifique de données - Data Scientist,15-1111.00,0.2516056537226029,Computer and Information Research Scientists
+766,Spécialiste CRM (Débute le 4 mai pour 15 semaines) / Data Sc...,15-1141.00,0.4634341175621161,Database Administrators
+767,Senior Data Scientist - NLP,15-1111.00,0.9029171056382199,Computer and Information Research Scientists
+768,Big Data Engineer,15-1199.07,0.8916644667420135,Data Warehousing Specialists
+769,Integration Platform Engineer,15-1133.00,0.8454735984498517,"Software Developers, Systems Software"
+770,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+771,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+772,Business Intelligence Analyst / Analyste en intelligence d’a...,15-1199.08,0.7434522010220842,Business Intelligence Analysts
+773,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+774,ML Product Owner / Data Analyst,15-1121.00,0.8702339448339836,Computer Systems Analysts
+775,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+776,Data Analyst,15-2041.00,0.8935677364891497,Statisticians
+777,Data Analyst,15-1199.08,0.9109876588213278,Business Intelligence Analysts
+778,Data and Reporting Analyst,15-1199.08,0.4928329800740857,Business Intelligence Analysts
+779,Data Analyst,15-1199.07,0.837124453135037,Data Warehousing Specialists
+780,Analyste de données - Data analyst,15-1199.08,0.5513989343566027,Business Intelligence Analysts
+781,Junior Data Research Analyst,15-1199.08,0.8775857009632972,Business Intelligence Analysts
+782,"Analyst, Application and Data",13-2099.01,0.8684368614284111,Financial Quantitative Analysts
+783,Junior Data Analyst (Nutaku),13-2099.01,0.829258799069578,Financial Quantitative Analysts
+784,Data Entry Analyst,13-2099.01,0.821865769542476,Financial Quantitative Analysts
+785,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+786,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+787,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+788,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+789,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+790,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+791,QA Data Analyst,15-1121.00,0.8846930484381631,Computer Systems Analysts
+792,Analyste - données et rapports / Data and Reporting Analyst,15-1199.08,0.6243796918379086,Business Intelligence Analysts
+793,Regulatory Information Analyst,13-2099.01,0.7675763241300225,Financial Quantitative Analysts
+794,Data analyst,15-1111.00,0.8793322617815498,Computer and Information Research Scientists
+795,Data Analyst (CRX),15-1199.07,0.8343401905942488,Data Warehousing Specialists
+796,"Research Analyst, Airline Data Partnerships - Air",15-1121.00,0.8399316741424088,Computer Systems Analysts
+797,Data Analyst,15-1111.00,0.889750467753222,Computer and Information Research Scientists
+798,Data Analyst,15-1111.00,0.889750467753222,Computer and Information Research Scientists
+799,"Fraud Analyst, Customer Contact Centre",15-1121.00,0.8430322293158196,Computer Systems Analysts
+800,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+801,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+802,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+803,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+804,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+805,Game Intelligence Analyst,15-1199.08,0.9128475510515919,Business Intelligence Analysts
+806,Data Analyst,13-2099.01,0.8678581492867845,Financial Quantitative Analysts
+807,Data and Reporting Analyst/Analyste des données et des rappo...,15-1199.08,0.317041838781097,Business Intelligence Analysts
+808,Data Extracting and Compiling Analyst,15-1141.00,0.8136970237848539,Database Administrators
+809,Data Analyst,15-1121.00,0.8674215077957013,Computer Systems Analysts
+810,Performance Reporting Analyst,13-2099.01,0.8919341336058039,Financial Quantitative Analysts
+811,"Data Analyst, Benefits Administration",15-1199.08,0.8597262564840108,Business Intelligence Analysts
+812,Analyst-Business Systems,15-1121.00,0.8517905847364869,Computer Systems Analysts
+813,Analyste-programmeur de données - Data Programmer-Analyst,15-1199.06,0.6657645085226257,Database Architects
+814,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+815,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+816,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+817,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+818,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+819,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+820,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+821,Business Data Analyst,15-1199.08,0.8915552288745181,Business Intelligence Analysts
+822,BUDGET ANALYST,15-1199.08,0.8384297694513576,Business Intelligence Analysts
+823,Operations Analyst,15-1199.08,0.8465260473882106,Business Intelligence Analysts
+824,Commercial Operations Data Analyst,15-1121.00,0.8764093006469528,Computer Systems Analysts
+825,Spécialiste CRM (Débute le 4 mai pour 15 semaines) / B2B Dat...,15-1141.00,0.7160786755322742,Database Administrators
+826,Data Analyst (Customer Care),15-1121.00,0.8729116468393736,Computer Systems Analysts
+827,Data Analyst - HVAC,15-1121.00,0.8659837753171533,Computer Systems Analysts
+828,Social Media Analyst,15-1199.08,0.824000415113933,Business Intelligence Analysts
+829,Senior Data Analyst - Air,15-1121.00,0.8558735221789886,Computer Systems Analysts
+830,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+831,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+832,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+833,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+834,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+835,BUSINESS INTELLIGENCE (BI) ANALYST,15-1121.00,0.8768559133043848,Computer Systems Analysts
+836,Stage / Internship - Analyste en stratégie / Strategy Analys...,15-2041.02,0.411623503796965,Clinical Data Managers
+837,Senior Data Analyst - Growth,15-1199.08,0.8618072064973366,Business Intelligence Analysts
+838,Analytics & Insights Analyst,15-1199.08,0.8195685145948178,Business Intelligence Analysts
+839,Data Management Analyst,15-1199.08,0.745339268545968,Business Intelligence Analysts
+840,Replenishment Analyst,13-2099.01,0.8813651009691545,Financial Quantitative Analysts
+841,Data Analytics Analyst,15-1121.00,0.8591512484752479,Computer Systems Analysts
+842,Media Analyst (Music Marketing),15-1121.00,0.8504980386109577,Computer Systems Analysts
+843,Compliance Analyst (2182),15-1121.00,0.7604568153177736,Computer Systems Analysts
+844,Data Analyst,15-1199.04,0.8381316481130705,Geospatial Information Scientists and Technologists
+845,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+846,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+847,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+848,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+849,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+850,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+851,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+852,Senior Data Analyst (CRX),15-1199.07,0.8450551797742549,Data Warehousing Specialists
+853,Analyst en Assurance Qualité - télémétrie / Analyst QA - dat...,15-1199.08,0.45845929012760145,Business Intelligence Analysts
+854,Analyste de données / Data Analyst,15-1199.08,0.3833698522723887,Business Intelligence Analysts
+855,Business Intelligence - Senior Analyst,15-1199.08,0.9251166062100553,Business Intelligence Analysts
+856,Quality Assurance Analyst– Digital Business Solutions,15-1121.00,0.8806874377708981,Computer Systems Analysts
+857,Business Analyst (Advertising),15-1199.08,0.8600521511098593,Business Intelligence Analysts
+858,Analyst,13-2099.01,0.9137303620796626,Financial Quantitative Analysts
+859,Data Analyst,15-1121.00,0.8764149571031666,Computer Systems Analysts
+860,Data Analyst,15-1121.00,0.8821943534189075,Computer Systems Analysts
+861,Passionate about analytics and business intelligence? Join o...,15-1199.08,0.8278673159835169,Business Intelligence Analysts
+862,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+863,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+864,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+865,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+866,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+867,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+868,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+869,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+870,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+871,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+872,Spécialiste en Analyse des données / Data Analyst,15-1199.08,0.4920471668015767,Business Intelligence Analysts
+873,Business Analyst (Customer experience),15-1121.00,0.8964867727926076,Computer Systems Analysts
+874,E-Commerce Marketing Data Analyst,15-1199.08,0.8946280541289141,Business Intelligence Analysts
+875,Business Intelligence Analyst / Analyste en intelligence d’a...,15-1199.08,0.7434522010220842,Business Intelligence Analysts
+876,Spécialiste en Analyse des données / Data Analyst,15-1199.08,0.4920471668015767,Business Intelligence Analysts
+877,Pricing Analyst / Analyste,15-1199.08,0.7637918682729302,Business Intelligence Analysts
+878,Data Analytics / Développeur Stage - Business Intelligence D...,15-1121.00,0.7131774640968652,Computer Systems Analysts
+879,Game Analyst (m/f/d),15-1121.00,0.8108185891097693,Computer Systems Analysts
+880,"Analyst , Supply Chain Management - Montreal",15-1121.00,0.7889921051858588,Computer Systems Analysts
+881,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+882,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+883,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+884,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+885,Business Analyst,15-1199.08,0.8939023049365087,Business Intelligence Analysts
+886,Junior Security Analyst - Express Scripts,15-1121.00,0.8574531484781166,Computer Systems Analysts
+887,Planning Analyst (1 year contract),15-1199.08,0.8584670110552941,Business Intelligence Analysts
+888,Analyste Budgétaire/ Budgeting Analyst MTY Group,15-1199.08,0.6377117178940753,Business Intelligence Analysts
+889,Business Intelligence Analyst,15-1199.08,0.9134732307384096,Business Intelligence Analysts
+890,Project Analyst II,13-2099.01,0.7947228598410048,Financial Quantitative Analysts
+891,Analyste - Calculs et entrée de données / Analyst-Calculatio...,15-1199.08,0.4312278349581309,Business Intelligence Analysts
+892,"Analyst, Master Data Management",15-1121.00,0.8266372907589421,Computer Systems Analysts
+893,Digital Marketing-Data Analyst,15-1121.00,0.7021082919333251,Computer Systems Analysts
+894,Brother Emerging Talent Associate - Data Analyst / Brother E...,15-1199.08,0.7253334378166517,Business Intelligence Analysts
+895,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+896,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+897,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+898,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+899,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+900,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+901,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+902,Senior Data Analyst,15-1199.08,0.8994583683609196,Business Intelligence Analysts
+903,"Senior Analyst, Risk Oversight",15-1199.08,0.9129203945405838,Business Intelligence Analysts
+904,Business Analyst/Analyste d’affaire,15-1199.08,0.6157981792717431,Business Intelligence Analysts
+905,Principal Data Analyst,15-2041.00,0.8807907673021945,Statisticians
+906,"Product Analyst - Open Location - Canada, USA or UK",15-1199.04,0.828199537602959,Geospatial Information Scientists and Technologists
+907,Business Systems Analyst II,15-1121.00,0.8980486769861866,Computer Systems Analysts
+908,Process Analyst,15-1121.00,0.8615325201067383,Computer Systems Analysts
+909,Business Analyst - Supply Chain,15-1199.08,0.8167481929814417,Business Intelligence Analysts
+910,Team Lead - BI / Big Data Developers,15-1121.00,0.849630885705989,Computer Systems Analysts
+911,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+912,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+913,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+914,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+915,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+916,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+917,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+918,"SENIOR ANALYST, STRATEGIC PLANNING",15-1199.08,0.9149252165144318,Business Intelligence Analysts
+919,Procurement/Buyer/Sourcing Analyst,15-1199.08,0.7942266141556489,Business Intelligence Analysts
+920,Problem and Process Support Analyst 3145374,15-1121.00,0.8632397997232054,Computer Systems Analysts
+921,"Reliability Analyst, Maintenance Data Analysis",15-1121.00,0.8422948356737697,Computer Systems Analysts
+922,Data & BI Analyst,15-1111.00,0.8758463719099326,Computer and Information Research Scientists
+923,"Senior Analyst, Budget, Forecast and Systems, Treasury",15-1121.00,0.9011177730733629,Computer Systems Analysts
+924,Team Lead - Data Analysts,15-1121.00,0.8603706753829925,Computer Systems Analysts
+925,"Advisor, Business Intelligence Data Acquisition and Analysis",15-1199.08,0.9140135977828384,Business Intelligence Analysts
+926,Supply Chain Analyst / Analyste de la chaîne d’approvisionne...,15-1199.08,0.39318079632612596,Business Intelligence Analysts
+927,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+928,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+929,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+930,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+931,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+932,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+933,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+934,TELUS Business Solutions – Sales Business Analyst,15-1199.08,0.9000472496424737,Business Intelligence Analysts
+935,BI Research & Innovation Consultant,15-1121.00,0.8137872087415576,Computer Systems Analysts
+936,Business Development Analyst,15-1199.08,0.8491227673016222,Business Intelligence Analysts
+937,Business Intelligence Analyst / Analyste en intelligence d'a...,15-1199.08,0.8219668533105857,Business Intelligence Analysts
+938,"Influencer Marketing Data Analyst, Digital Marketing Analyti...",15-1199.08,0.8950745711237285,Business Intelligence Analysts
+939,Business Analyst,15-1199.08,0.5472153738936584,Business Intelligence Analysts
+940,Business Analyst – Business Process Optimization,15-1121.00,0.8299889049255423,Computer Systems Analysts
+941,Senior IT Business Analyst – Data Governance,15-1199.08,0.9154566099940681,Business Intelligence Analysts
+942,Marketing Performance Analyst,15-1199.08,0.8666447098853817,Business Intelligence Analysts
+943,Montreal - Junior Business Analyst/ Junior Project Manager,15-1199.08,0.6531585485299012,Business Intelligence Analysts
+944,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+945,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+946,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+947,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+948,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+949,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+950,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+951,Business Intelligence Administrator,15-1141.00,0.8639416079728912,Database Administrators
+952,Sales Analyst (Pricing) // Analyste des ventes (Tarification...,15-1121.00,0.6982983782131438,Computer Systems Analysts
+953,Business Analyst,15-1199.08,0.8423606710008931,Business Intelligence Analysts
+954,"Analyste fonctionnel, approvisionnement / Business Analyst",15-1121.00,0.695452697664751,Computer Systems Analysts
+955,"Actuarial Analyst, Commercial Lines Pricing",15-1121.00,0.8622044221769841,Computer Systems Analysts
+956,Analyste Vérification de données - Data Review Analyst,15-1199.08,0.512148279319727,Business Intelligence Analysts
+957,Stagiaire Intelligence d’Affaires (Débute le 4 mai pour 15 s...,15-1199.08,0.4542831142550517,Business Intelligence Analysts
+958,"Analyst, Client Support",15-1121.00,0.8835061318004167,Computer Systems Analysts
+959,Inventory Analyst / Planner,15-1199.08,0.833660168420721,Business Intelligence Analysts
+960,Business Process Analyst,15-1121.00,0.8308830009496644,Computer Systems Analysts
+961,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+962,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+963,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+964,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+965,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+966,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+967,Workforce Management Analyst,15-1121.00,0.8814751706106251,Computer Systems Analysts
+968,Sales Operations Analyst,15-1199.08,0.8698692377570344,Business Intelligence Analysts
+969,Digital Performance Analyst,15-1121.00,0.8672165912280889,Computer Systems Analysts
+970,Analyste Approvisionnements - Procurement Analyst,15-1199.08,0.5918839226081744,Business Intelligence Analysts
+971,Business Process Analyst,15-1121.00,0.8308830009496644,Computer Systems Analysts
+972,Security Business Analyst,15-1122.00,0.8992031967247108,Information Security Analysts
+973,Spécialiste BI / BI Specialist,15-1121.00,0.717793630832076,Computer Systems Analysts
+974,BI Business Analyst,15-1199.08,0.8397045176041228,Business Intelligence Analysts
+975,Business Intelligence analyst,15-1199.08,0.951988387954971,Business Intelligence Analysts
+976,"Analyst, Digital Transformation",15-1199.08,0.9040950390493385,Business Intelligence Analysts
+977,Bilingual Reporting Analyst,15-1199.08,0.9256050466025799,Business Intelligence Analysts
+978,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+979,Data Visualization Specialist,15-1199.04,0.8209410305026743,Geospatial Information Scientists and Technologists
+980,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+981,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+982,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+983,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+984,"Senior Actuarial Analyst, Pricing",15-1199.08,0.8601359951889193,Business Intelligence Analysts
+985,"BUSINESS TECHNOLOGY ANALYST / ANALYSTE,TECHNOLOGIES D’AFFAIR...",15-1121.00,0.8014078633679665,Computer Systems Analysts
+986,Functional Analyst - Ref.: CAR-0055,15-1111.00,0.8809765602079148,Computer and Information Research Scientists
+987,Intermediate Programmer/Analyst,15-1199.08,0.7013350622009348,Business Intelligence Analysts
+988,"Stagiaire , Intelligence d'affaires / Intern, Business Intel...",15-1199.08,0.6583775840628713,Business Intelligence Analysts
+989,"Analyste, Comptes Débiteurs- Analyst, Accounts Receivables",15-1199.08,0.7447541459782757,Business Intelligence Analysts
+990,Operations Support Analyst - FAM,15-1121.00,0.792677473908124,Computer Systems Analysts
+991,Technical Business Systems Analyst – Mississauga & Montreal,15-1121.00,0.9033185256168299,Computer Systems Analysts
+992,Business Intelligence and Analytics Manager,15-1199.08,0.9012087224060887,Business Intelligence Analysts
+993,IT Business Analyst,15-1199.08,0.919140578753543,Business Intelligence Analysts
+994,Digital Marketing-Data Analyst,15-1121.00,0.7021082919333251,Computer Systems Analysts
+995,Brother Emerging Talent Associate - Data Analyst / Brother E...,15-1199.08,0.7253334378166517,Business Intelligence Analysts
+996,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+997,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+998,"Business Analyst (Montreal, QC)",15-1199.08,0.8437140624452361,Business Intelligence Analysts
+999,BI Analyst,15-1111.00,0.865273828302115,Computer and Information Research Scientists
+1000,PRICING ANALYST,13-2099.01,0.7605171908751412,Financial Quantitative Analysts
+1001,Business Analyst,15-1199.08,0.8700256714404846,Business Intelligence Analysts
+1002,Customer Operations Analyst,15-1199.08,0.8448645960216267,Business Intelligence Analysts
+1003,Business Analyst - Integrated Reporting/Business Intelligenc...,15-1199.08,0.9336567531905473,Business Intelligence Analysts
+1004,M&A Analyst (Business Development),15-1199.08,0.7689613998486823,Business Intelligence Analysts
+1005,"Business Analyst, Process Optimization",15-1121.00,0.8636000402868288,Computer Systems Analysts
+1006,Analyste portefeuille de projet / Project Portfolio Analyst...,15-1199.08,0.4724898708784401,Business Intelligence Analysts
+1007,Business Intelligence - Instructor/Teacher,15-1199.08,0.8403937028538015,Business Intelligence Analysts
+1008,Quality Control Senior Analyst – Data Review,15-1199.08,0.8575215109219733,Business Intelligence Analysts
+1009,Business Process Analyst,15-1199.08,0.8736237836910935,Business Intelligence Analysts
+1010,Senior Analyst - Audit and Compliance,15-1199.08,0.8591750253619397,Business Intelligence Analysts
+1011,Digital Marketing-Data Analyst,15-1121.00,0.7021082919333251,Computer Systems Analysts
+1012,Brother Emerging Talent Associate - Data Analyst / Brother E...,15-1199.08,0.7253334378166517,Business Intelligence Analysts
+1013,"Analyst, Data Analytics",15-1121.00,0.8719682257537847,Computer Systems Analysts
+1014,Data Entry Analyst,15-1121.00,0.8216585868473762,Computer Systems Analysts
+1015,Data Scientist,15-1111.00,0.8806427489923435,Computer and Information Research Scientists
+1016,Machine Learning Engineer,15-1111.00,0.7984138143038236,Computer and Information Research Scientists
+1017,Data Scientist I,15-1111.00,0.8846822801821487,Computer and Information Research Scientists
+1018,Data Scientist,15-1111.00,0.8750288935158106,Computer and Information Research Scientists
+1019,Data Scientist,15-1111.00,0.9147192140316063,Computer and Information Research Scientists
+1020,Data Scientist,15-1111.00,0.8368829832995304,Computer and Information Research Scientists
+1021,Data Scientist - FIFA,15-1111.00,0.8530353107170993,Computer and Information Research Scientists
+1022,Data Scientist,15-1111.00,0.8838952381171774,Computer and Information Research Scientists
+1023,Data Scientist - Advertising & Attribution,15-1111.00,0.8120218068158842,Computer and Information Research Scientists
+1024,Data Scientist,15-1111.00,0.8477331058869199,Computer and Information Research Scientists
+1025,Data Scientist,15-1111.00,0.9164274447392922,Computer and Information Research Scientists
+1026,Data Scientist,15-1111.00,0.9133987255765283,Computer and Information Research Scientists
+1027,Data Scientist,15-1111.00,0.8610618306336146,Computer and Information Research Scientists
+1028,Data Scientist I,15-1111.00,0.8846822801821487,Computer and Information Research Scientists
+1029,Data and Machine Learning Scientist,15-1111.00,0.9002062262773709,Computer and Information Research Scientists
+1030,Data Scientist - RACE21,15-1199.04,0.8430610483520131,Geospatial Information Scientists and Technologists
+1031,Data Scientist - Planning Team,15-1111.00,0.875363752286493,Computer and Information Research Scientists
+1032,Research Scientist I,15-1111.00,0.9198943761491662,Computer and Information Research Scientists
+1033,Junior Data Engineer,15-1199.07,0.8927472945592186,Data Warehousing Specialists
+1034,Data Scientist II,15-1199.07,0.8757503104204601,Data Warehousing Specialists
+1035,Associate Data Scientist,15-1111.00,0.872069080966737,Computer and Information Research Scientists
+1036,Data Analyst,15-1199.08,0.890118088365441,Business Intelligence Analysts
+1037,Data Analyst,15-1199.07,0.8169677439655157,Data Warehousing Specialists
+1038,Applied Scientist,15-1111.00,0.8446327296618988,Computer and Information Research Scientists
+1039,Associate Scientist,19-1029.01,0.8235793803183528,Bioinformatics Scientists
+1040,Data Analyst,15-1199.04,0.8226435839733388,Geospatial Information Scientists and Technologists
+1041,Data Analyst (Contract),13-2099.01,0.8554606326983442,Financial Quantitative Analysts
+1042,Research Scientist,15-1111.00,0.8789986301216213,Computer and Information Research Scientists
+1043,eCommerce Data Science Intern,15-1111.00,0.8721220970880013,Computer and Information Research Scientists
+1044,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+1045,Machine Learning Engineer,15-1133.00,0.7383466564844712,"Software Developers, Systems Software"
+1046,"Data Engineer, Omnia AI",15-1133.00,0.8502917113387662,"Software Developers, Systems Software"
+1047,Analytical Consultant,15-2041.00,0.8727615074911219,Statisticians
+1048,Data Analyst,15-1199.07,0.8198466158271287,Data Warehousing Specialists
+1049,Data Analyst,15-1121.00,0.8622713019980452,Computer Systems Analysts
+1050,Quantitative Researcher,15-1111.00,0.8693585594978877,Computer and Information Research Scientists
+1051,Research Scientist,15-1111.00,0.7997523450918521,Computer and Information Research Scientists
+1052,Data Engineer,15-1199.07,0.8881154332892627,Data Warehousing Specialists
+1053,Research Scientist I,15-1111.00,0.9198943761491662,Computer and Information Research Scientists
+1054,"Data Scientist, AI@Unity",15-1111.00,0.8764307613317291,Computer and Information Research Scientists
+1055,Scientist - Protein Biochemistry,19-1029.01,0.8001840245962486,Bioinformatics Scientists
+1056,Data Engineer - Contract,15-1199.07,0.8783324469121423,Data Warehousing Specialists
+1057,"Lead Data Scientist, RACE21",15-1111.00,0.8860973525194422,Computer and Information Research Scientists
+1058,COMPUTATIONAL BIOLOGIST,15-1111.00,0.8941766460969429,Computer and Information Research Scientists
+1059,Data Analyst,13-2099.01,0.8316788425464411,Financial Quantitative Analysts
+1060,Data Analyst,15-1111.00,0.8920004697513135,Computer and Information Research Scientists
+1061,Data Engineer,15-1111.00,0.8810955482096992,Computer and Information Research Scientists
+1062,Research Scientist,15-1111.00,0.8710752053864635,Computer and Information Research Scientists
+1063,Research Scientist,15-1111.00,0.900667928760136,Computer and Information Research Scientists
+1064,"Scientist, Product Development",15-1111.00,0.764464854158182,Computer and Information Research Scientists
+1065,Field Application Scientist,15-1111.00,0.8641222496818746,Computer and Information Research Scientists
+1066,"Data Scientist, Analytics and Machine Learning",15-1111.00,0.8846546344213159,Computer and Information Research Scientists
+1067,Data Analyst,15-1121.00,0.83814901560991,Computer Systems Analysts
+1068,Big Data Engineer - DF,15-1199.07,0.8736850387353189,Data Warehousing Specialists
+1069,Data Engineer,15-1199.07,0.8418759654850955,Data Warehousing Specialists
+1070,Applied Scientist,15-1111.00,0.8446327296618988,Computer and Information Research Scientists
+1071,Research Scientist,15-1111.00,0.856049870524227,Computer and Information Research Scientists
+1072,Research Scientist,15-1111.00,0.8789986301216213,Computer and Information Research Scientists
+1073,Climate Change Scientist,15-1111.00,0.8121253378569234,Computer and Information Research Scientists
+1074,Business Intelligence Analyst,15-1199.08,0.8663985408978038,Business Intelligence Analysts
+1075,Data Engineer,15-1199.07,0.8805998261670294,Data Warehousing Specialists
+1076,Data Analyst,13-2099.01,0.8433437517397279,Financial Quantitative Analysts
+1077,Data Scientist II,15-1111.00,0.855851026391771,Computer and Information Research Scientists
+1078,Research Scientist,19-1029.01,0.8794929654159733,Bioinformatics Scientists
+1079,Scientist – Membrane Protein Biochemistry,19-1029.01,0.7257538056053093,Bioinformatics Scientists
+1080,Marketing and Business Analytics Manager,15-1121.00,0.8538194434807753,Computer Systems Analysts
+1081,Research Scientist,15-1111.00,0.8752197928511,Computer and Information Research Scientists
+1082,"Lead Educator, Data Science",15-1111.00,0.8246349298089208,Computer and Information Research Scientists
+1083,Data Analyst,15-1199.08,0.8493326048365423,Business Intelligence Analysts
+1084,New Grad Engineers/Scientists,19-1029.01,0.7291944513328721,Bioinformatics Scientists
+1085,"Computational Biologist, Database Developer - HSA REQ",15-1111.00,0.9007765924710655,Computer and Information Research Scientists
+1086,"Associate Scientist, Analytical",15-2021.00,0.8709079653445456,Mathematicians
+1087,Machine Learning Engineer,15-1111.00,0.8477077787185887,Computer and Information Research Scientists
+1088,Data Engineer,15-1199.07,0.857371608480347,Data Warehousing Specialists
+1089,Business Analytics Consultant,15-1199.08,0.8739157641341861,Business Intelligence Analysts
+1090,Data Analytics Engineer,15-1199.07,0.8675036952876686,Data Warehousing Specialists
+1091,"Scientist, Conjugation Chemistry",15-1111.00,0.8103306402257097,Computer and Information Research Scientists
+1092,eCommerce Data Science Analyst,15-1111.00,0.8824052515644446,Computer and Information Research Scientists
+1093,Data Analyst,13-2099.01,0.8433437517397279,Financial Quantitative Analysts
+1094,Business Intelligence Analyst,15-1199.08,0.865054944945064,Business Intelligence Analysts
+1095,Architect (Data and AI),15-1111.00,0.8987331472218526,Computer and Information Research Scientists
+1096,Test Data Analyst,15-1121.00,0.8128725869396904,Computer Systems Analysts
+1097,Data Engineer,15-1111.00,0.8862673932426715,Computer and Information Research Scientists
+1098,"Data Developer, RACE21",15-1199.07,0.8820254546561654,Data Warehousing Specialists
+1099,Data Engineer,15-1199.07,0.8849989969489086,Data Warehousing Specialists
+1100,Data Scientist - 14031,15-1121.00,0.8724673272984638,Computer Systems Analysts
+1101,Quantitative Research Analyst,15-1111.00,0.9026793308482411,Computer and Information Research Scientists
+1102,Senior Scientist – Antibody Assessment,15-1111.00,0.8537663286265258,Computer and Information Research Scientists
+1103,R&D Scientist – Numerical Modeling of Photonic Devices,15-1111.00,0.8564900960437476,Computer and Information Research Scientists
+1104,"Sr Data Analyst, UFC Mobile",15-1199.04,0.8296157796855312,Geospatial Information Scientists and Technologists
+1105,Data Engineer,15-1199.07,0.8881154332892627,Data Warehousing Specialists
+1106,Big Data Engineer - DF,15-1199.07,0.8736850387353189,Data Warehousing Specialists
+1107,Data Engineer,15-1111.00,0.877638963993328,Computer and Information Research Scientists
+1108,Data Engineer,15-1111.00,0.8862673932426715,Computer and Information Research Scientists
+1109,Data Engineer,15-1111.00,0.8810955482096992,Computer and Information Research Scientists
+1110,Junior Data Engineer,15-1199.07,0.8927472945592186,Data Warehousing Specialists
+1111,Process Safety Engineer,15-1133.00,0.8022161642936918,"Software Developers, Systems Software"
+1112,Machine Learning Engineer,15-1111.00,0.7984138143038236,Computer and Information Research Scientists
+1113,Data Engineer,15-1199.07,0.8805998261670294,Data Warehousing Specialists
+1114,Data Engineer,15-1199.07,0.8418759654850955,Data Warehousing Specialists
+1115,Data Engineer - Contract,15-1199.07,0.8783324469121423,Data Warehousing Specialists
+1116,Data Engineer,15-1199.07,0.8709693008678884,Data Warehousing Specialists
+1117,Data Engineer,15-1199.07,0.8709693008678884,Data Warehousing Specialists
+1118,Data Analytics Engineer,15-1199.07,0.8614701649705305,Data Warehousing Specialists
+1119,Big Data Engineer,15-1199.07,0.8512955758086584,Data Warehousing Specialists
+1120,Data Engineer,15-1199.07,0.8709693008678884,Data Warehousing Specialists
+1121,"Data Engineer, Omnia AI",15-1199.07,0.8274428296469124,Data Warehousing Specialists
+1122,Database Reliability Engineer,15-1141.00,0.8840941764449337,Database Administrators
+1123,Data Engineer III,15-1199.07,0.8254468857237878,Data Warehousing Specialists
+1124,Data Scientist I,15-1111.00,0.8484950107670087,Computer and Information Research Scientists
+1125,Data Scientist,15-1111.00,0.8806427489923435,Computer and Information Research Scientists
+1126,Data Analyst,15-1199.08,0.890118088365441,Business Intelligence Analysts
+1127,Data Engineer,15-1111.00,0.877638963993328,Computer and Information Research Scientists
+1128,Data Scientist,15-1111.00,0.8466228726243358,Computer and Information Research Scientists
+1129,Senior Data Engineer,15-1199.06,0.8854496884271716,Database Architects
+1130,Data Software Engineer - FIFA,15-1199.07,0.8958582348903691,Data Warehousing Specialists
+1131,Big Data Engineer,15-1199.07,0.8471600556767599,Data Warehousing Specialists
+1132,Data Analyst,15-1199.04,0.8226435839733388,Geospatial Information Scientists and Technologists
+1133,Software Engineer I,15-1111.00,0.8922550497762416,Computer and Information Research Scientists
+1134,Data Engineer II,15-1141.00,0.870581707946489,Database Administrators
+1135,Software Development Engineer Intern - Summer 2020 (Canada),15-1121.00,0.833480641487063,Computer Systems Analysts
+1136,Data Scientist,15-1111.00,0.8750288935158106,Computer and Information Research Scientists
+1137,Data Analyst,15-1199.07,0.8169677439655157,Data Warehousing Specialists
+1138,Data Engineer,15-1199.07,0.8888390148486569,Data Warehousing Specialists
+1139,Data Scientist,15-1111.00,0.9147192140316063,Computer and Information Research Scientists
+1140,Data Scientist,15-1111.00,0.8610618306336146,Computer and Information Research Scientists
+1141,Senior Data Engineer,15-1111.00,0.8793713146115064,Computer and Information Research Scientists
+1142,Data Engineer - Gears of War - The Coalition,15-1121.00,0.8600371805872908,Computer Systems Analysts
+1143,Data Analyst,15-1121.00,0.83814901560991,Computer Systems Analysts
+1144,Database Engineer,15-1141.00,0.8477315331984142,Database Administrators
+1145,Data Engineers,15-1199.07,0.8120268838055099,Data Warehousing Specialists
+1146,"Software Engineer, Product",15-1199.07,0.8375746012854891,Data Warehousing Specialists
+1147,"Software Engineer, Product",15-1199.07,0.8375746012854891,Data Warehousing Specialists
+1148,Senior Data Engineer,15-1199.07,0.831761073598679,Data Warehousing Specialists
+1149,Associate Data Scientist,15-1111.00,0.8063035988441114,Computer and Information Research Scientists
+1150,"Big Data Engineer, Omnia AI",15-1199.07,0.797985738110454,Data Warehousing Specialists
+1151,"Engineer, Quality, Desktop",15-1121.00,0.8431211110246628,Computer Systems Analysts
+1152,Data Analyst,15-1199.08,0.8073518864580621,Business Intelligence Analysts
+1153,Data Scientist - RACE21,15-1199.04,0.8430610483520131,Geospatial Information Scientists and Technologists
+1154,Data Engineer II,15-1141.00,0.870581707946489,Database Administrators
+1155,Data Engineer III,15-1199.07,0.865721663827632,Data Warehousing Specialists
+1156,Senior Database Engineer,15-1199.06,0.8507252891552451,Database Architects
+1157,Data Analyst,15-1121.00,0.8622713019980452,Computer Systems Analysts
+1158,Software Development Engineer I,15-1133.00,0.867748035708241,"Software Developers, Systems Software"
+1159,Data Scientist,15-1111.00,0.9164274447392922,Computer and Information Research Scientists
+1160,Intermediate Front-end Engineer,15-1133.00,0.8797255985445889,"Software Developers, Systems Software"
+1161,Entry Level Engineer/AEC Integration Specialist,15-1133.00,0.7717369476254952,"Software Developers, Systems Software"
+1162,Software Development Engineer Intern,15-1133.00,0.8817909625316093,"Software Developers, Systems Software"
+1163,Data Scientist I,15-1111.00,0.8846822801821487,Computer and Information Research Scientists
+1164,"Software Development Engineer I, RDS",15-1133.00,0.9014818579328886,"Software Developers, Systems Software"
+1165,"Data Developer, RACE21",15-1199.07,0.8820254546561654,Data Warehousing Specialists
+1166,Data Analyst,15-1111.00,0.8920004697513135,Computer and Information Research Scientists
+1167,Data Scientist,15-1111.00,0.8838952381171774,Computer and Information Research Scientists
+1168,Support Engineer,15-1133.00,0.7748453137598695,"Software Developers, Systems Software"
+1169,Quality Engineer - Quality,15-1121.00,0.6717406703761511,Computer Systems Analysts
+1170,Research Engineer,15-1111.00,0.8720301281493482,Computer and Information Research Scientists
+1171,Data Scientist,15-1111.00,0.9133987255765283,Computer and Information Research Scientists
+1172,Software Engineer In Test,15-1133.00,0.8843532328106224,"Software Developers, Systems Software"
+1173,Software Engineer Intern - Fall,15-1133.00,0.8685199601288869,"Software Developers, Systems Software"
+1174,Exoskeleton's Motion Planning and Balancing Engineer,15-1133.00,0.7939217104826128,"Software Developers, Systems Software"
+1175,Data Software Engineer - FIFA (temporary),15-1141.00,0.8419394860245031,Database Administrators
+1176,Staff Applications Security Engineer,15-1121.00,0.8652831028759008,Computer Systems Analysts
+1177,Data Analyst,13-2099.01,0.8316788425464411,Financial Quantitative Analysts
+1178,Software Development Engineer,15-1133.00,0.8918268715743422,"Software Developers, Systems Software"
+1179,Associate Software Engineer,15-1133.00,0.9122791169958725,"Software Developers, Systems Software"
+1180,"Sales Engineer, Data Analytics, Google Cloud",15-1199.07,0.8116682756744779,Data Warehousing Specialists
+1181,Data Architect,15-1199.02,0.881702276692961,Computer Systems Engineers/Architects
+1182,Software Engineer,15-1133.00,0.8921889825572816,"Software Developers, Systems Software"
+1183,Software Development Engineer Intern,15-1133.00,0.8817909625316093,"Software Developers, Systems Software"
+1184,AWS Data Analytics Engineer,15-1199.07,0.7948696898531213,Data Warehousing Specialists
+1185,Mine Planning Engineer,15-1199.02,0.8007356831936462,Computer Systems Engineers/Architects
+1186,Software Development Engineer Intern - Summer 2020 (Canada),15-1121.00,0.833480641487063,Computer Systems Analysts
+1187,Technology Customer Operations Engineer,15-1133.00,0.86939537913369,"Software Developers, Systems Software"
+1188,Sr. DBA Engineer,15-1133.00,0.7047811752396441,"Software Developers, Systems Software"
+1189,"Specialist, Data Engineer",15-1199.07,0.9019677149639376,Data Warehousing Specialists
+1190,Staff Security Operations Engineer,15-1121.00,0.8307012009575008,Computer Systems Analysts
+1191,Software Development Engineer,15-1133.00,0.8426896090102145,"Software Developers, Systems Software"
+1192,Database Engineer,15-1141.00,0.8439412855232546,Database Administrators
+1193,Data Scientist - Advertising & Attribution,15-1111.00,0.8120218068158842,Computer and Information Research Scientists
+1194,Data Scientist II,15-1111.00,0.855851026391771,Computer and Information Research Scientists
+1195,Data Analyst,15-1121.00,0.83814901560991,Computer Systems Analysts
+1196,Data Analyst,15-1199.08,0.890118088365441,Business Intelligence Analysts
+1197,Data Analyst (Contract),13-2099.01,0.884499469056789,Financial Quantitative Analysts
+1198,Data Analyst,15-1199.07,0.8169677439655157,Data Warehousing Specialists
+1199,Data Analyst,15-1199.04,0.8226435839733388,Geospatial Information Scientists and Technologists
+1200,Data Analyst,15-1199.07,0.8198466158271287,Data Warehousing Specialists
+1201,Data Analyst,15-1121.00,0.8622713019980452,Computer Systems Analysts
+1202,Data & Reporting Analyst,15-1199.08,0.9282534391765408,Business Intelligence Analysts
+1203,Data Analyst,15-1199.08,0.9293055395870943,Business Intelligence Analysts
+1204,Data Analyst,15-1199.08,0.9293055395870943,Business Intelligence Analysts
+1205,Data Analyst - Summer 2020 Co-op,15-1199.08,0.7543660216669568,Business Intelligence Analysts
+1206,Data Analyst,15-1121.00,0.8371497177238283,Computer Systems Analysts
+1207,Data Analyst,15-1111.00,0.8920004697513135,Computer and Information Research Scientists
+1208,Data Analyst,13-2099.01,0.8316788425464411,Financial Quantitative Analysts
+1209,Data Analyst 1 / Analyste de données 1 -,13-2099.01,0.5308403168243315,Financial Quantitative Analysts
+1210,eCommerce Data Science Analyst,15-1111.00,0.8824052515644446,Computer and Information Research Scientists
+1211,Senior Data Analyst,15-1199.08,0.8770987150425584,Business Intelligence Analysts
+1212,Certified Data Analyst,15-1199.07,0.84185356178725,Data Warehousing Specialists
+1213,"Senior Data Analyst, Cross Product Portfolio",15-1121.00,0.8968850682736087,Computer Systems Analysts
+1214,"Data Solutions Analyst, IT",15-1199.07,0.8465683046073347,Data Warehousing Specialists
+1215,"Sr Data Analyst, UFC Mobile",15-1199.04,0.8296157796855312,Geospatial Information Scientists and Technologists
+1216,Calabrio Data and Reporting Analyst,15-1199.08,0.9208115234611316,Business Intelligence Analysts
+1217,"Senior Data Analyst, Cross Product Portfolio",15-1199.06,0.8958645710228581,Database Architects
+1218,Senior Data Analyst,13-2099.01,0.855338990672399,Financial Quantitative Analysts
+1219,Senior Data Analyst - Paid Media,15-1199.08,0.8611370295350989,Business Intelligence Analysts
+1220,Data Migration Analyst,15-1121.00,0.8471168190252376,Computer Systems Analysts
+1221,TL Data Warehouse Analyst - FTT (13 months),15-1199.08,0.8388119712922426,Business Intelligence Analysts
+1222,Machine Learning Engineer / Data Analyst,15-1111.00,0.8626101121284915,Computer and Information Research Scientists
+1223,ETL Data Analyst (Contract),15-1121.00,0.8659720480281223,Computer Systems Analysts
+1224,"Senior Data Analyst, Supply Chain & Product Analytics",15-1199.07,0.8812811770332418,Data Warehousing Specialists
+1225,Test Data Analyst,15-1121.00,0.8128725869396904,Computer Systems Analysts
+1226,BI Analyst / Data Architect,15-1199.08,0.9055785936728408,Business Intelligence Analysts
+1227,Support Service Analyst-Data Center Operations,15-1121.00,0.874413892563542,Computer Systems Analysts
+1228,Senior Renewable Energy Data Analyst,15-1121.00,0.877833136939461,Computer Systems Analysts
+1229,Systems Data Analyst/Developer,15-1121.00,0.9124950593853668,Computer Systems Analysts
+1230,Senior Data Analyst - Marketing,15-1121.00,0.8891235092274871,Computer Systems Analysts
+1231,Data Documentation Analyst - 14142,15-1121.00,0.9097916499844112,Computer Systems Analysts
+1232,Data Analyst - 14093,15-1199.07,0.8090584546332173,Data Warehousing Specialists
+1233,Senior Enterprise Data Analyst,15-1199.08,0.8625724926371474,Business Intelligence Analysts
+1234,Data Analyst - Contract Management,15-1199.07,0.8607268036950542,Data Warehousing Specialists
+1235,Data Management/BI Business Analyst (6 Month Contract),15-1199.08,0.8456476473917028,Business Intelligence Analysts
+1236,CRM Data Analyst*****Updated Job Requirements*****,15-1141.00,0.8478726780815217,Database Administrators
+1237,Data Management Analyst Developer (Contract),15-1199.08,0.9027057730850755,Business Intelligence Analysts
+1238,Test Data Analyst - 14145,15-1121.00,0.8559640966291354,Computer Systems Analysts
+1239,Senior Game Data Analyst,15-1199.07,0.8301730855475874,Data Warehousing Specialists
+1240,"Research Scientist, Data Visualization",15-1111.00,0.8697659971493593,Computer and Information Research Scientists
+1241,Sr. Data Scientist - Application,15-1111.00,0.8898746484096555,Computer and Information Research Scientists
+1242,Data Scientist,15-1111.00,0.8422212094398596,Computer and Information Research Scientists
+1243,"Data Scientist, Financial Crimes and Cybersecurity, Senior Associate",15-1199.08,0.8933012885184402,Business Intelligence Analysts
+1244,Data Scientist,15-1111.00,0.8827674980782761,Computer and Information Research Scientists
+1245,Sr. Data Scientist,15-1111.00,0.8607878373485512,Computer and Information Research Scientists
+1246,Data Scientist - Future Opportunity,15-1111.00,0.8887040835053704,Computer and Information Research Scientists
+1247,Product Data Scientist,15-1111.00,0.8971400293775748,Computer and Information Research Scientists
+1248,Data Scientist,15-1111.00,0.8725251592311994,Computer and Information Research Scientists
+1249,Data Scientist I,15-1111.00,0.875986217304671,Computer and Information Research Scientists
+1250,Data Scientist,15-1111.00,0.8705171086124754,Computer and Information Research Scientists
+1251,Data Scientist,15-1111.00,0.8469439539857397,Computer and Information Research Scientists
+1252,Data Scientist,15-1111.00,0.8466228726243358,Computer and Information Research Scientists
+1253,Data Scientist,15-1111.00,0.860640910677499,Computer and Information Research Scientists
+1254,Data Scientist,15-1111.00,0.8536821923932044,Computer and Information Research Scientists
+1255,Data Scientist,15-1199.04,0.8316017025878208,Geospatial Information Scientists and Technologists
+1256,Data Scientist,15-1111.00,0.8897965258214158,Computer and Information Research Scientists
+1257,Junior Data Scientist,15-2041.00,0.8267136670585161,Statisticians
+1258,Data Scientist (1 Year Contract),15-1111.00,0.8280663618944524,Computer and Information Research Scientists
+1259,Data Science Internship,15-1111.00,0.8547084686546599,Computer and Information Research Scientists
+1260,Data Scientist,15-1111.00,0.8979749265614523,Computer and Information Research Scientists
+1261,Data Engineer,15-1199.07,0.8464511659049956,Data Warehousing Specialists
+1262,Data Scientist,15-1121.00,0.8758711306288528,Computer Systems Analysts
+1263,Business Systems Data Analyst,15-1121.00,0.9024585428036401,Computer Systems Analysts
+1264,Data Analyst,15-1111.00,0.8558187260487297,Computer and Information Research Scientists
+1265,Data Scientist / Engineer,15-1199.07,0.8586209301284337,Data Warehousing Specialists
+1266,Data Scientist,15-1111.00,0.9038958095621963,Computer and Information Research Scientists
+1267,Data Scientist,15-1111.00,0.8648949332659405,Computer and Information Research Scientists
+1268,Data Scientist,15-1111.00,0.8419278445674429,Computer and Information Research Scientists
+1269,Data Scientist,15-1111.00,0.8712219967772145,Computer and Information Research Scientists
+1270,Data Scientist,15-1111.00,0.852154100484972,Computer and Information Research Scientists
+1271,Data Scientist,15-2041.00,0.8250775687141226,Statisticians
+1272,Data Scientist,15-1111.00,0.858545254524271,Computer and Information Research Scientists
+1273,Junior Data Engineer,15-1199.07,0.7907313713427966,Data Warehousing Specialists
+1274,Data Engineer Trainee,15-1111.00,0.9080218153410001,Computer and Information Research Scientists
+1275,Data Science Specialist,15-1199.04,0.8747076271203256,Geospatial Information Scientists and Technologists
+1276,Data Scientist,15-1121.00,0.8758711306288528,Computer Systems Analysts
+1277,Data Scientist (2 Roles),15-1111.00,0.8563527775226414,Computer and Information Research Scientists
+1278,Data Scientist,15-1111.00,0.8541005857178909,Computer and Information Research Scientists
+1279,Data Scientist,15-1111.00,0.8109165035652943,Computer and Information Research Scientists
+1280,Data Scientist,15-1111.00,0.8675458799779093,Computer and Information Research Scientists
+1281,Data Engineer (New Grad),15-1111.00,0.8852538372583073,Computer and Information Research Scientists
+1282,Data Analyst,15-1121.00,0.8371497177238283,Computer Systems Analysts
+1283,Network Data Scientist – Wireless Service Analytics & Transformation,15-1199.04,0.8580448334350839,Geospatial Information Scientists and Technologists
+1284,"Manager, Data Scientist",15-1111.00,0.8980738083620459,Computer and Information Research Scientists
+1285,Data Analyst,15-1199.08,0.8585039639041074,Business Intelligence Analysts
+1286,Data Scientist,15-1111.00,0.8896736773991362,Computer and Information Research Scientists
+1287,Data Scientist,15-1111.00,0.836615593379333,Computer and Information Research Scientists
+1288,Machine Learning Engineer / Data Scientist,15-1111.00,0.9053728447918611,Computer and Information Research Scientists
+1289,Data Scientist,15-1111.00,0.8735649213467042,Computer and Information Research Scientists
+1290,Data Science Co-op,15-1111.00,0.7902510456343891,Computer and Information Research Scientists
+1291,Data Scientist,15-1111.00,0.8265546207294213,Computer and Information Research Scientists
+1292,Research Data Scientist,15-1111.00,0.8536550659743464,Computer and Information Research Scientists
+1293,Biomedical Data Scientist,15-1111.00,0.8883091837883139,Computer and Information Research Scientists
+1294,"Applied Scientist, NLP",15-1111.00,0.8747722929368003,Computer and Information Research Scientists
+1295,Data Scientist,15-1111.00,0.8117711642928853,Computer and Information Research Scientists
+1296,Data Analyst - Contract,15-1121.00,0.8471416675292591,Computer Systems Analysts
+1297,Data Analyst Internship,15-1121.00,0.8422968745004628,Computer Systems Analysts
+1298,Research Scientist - AI and/or Machine Learning,15-1111.00,0.8589013350597159,Computer and Information Research Scientists
+1299,Data Science Intern,15-2041.00,0.8002860935484227,Statisticians
+1300,Advanced Analytics Consultant,15-1121.00,0.8437394008572762,Computer Systems Analysts
+1301,Data Engineer,15-1199.07,0.8711396830026138,Data Warehousing Specialists
+1302,Research Scientist Positions,15-1111.00,0.8827159354024813,Computer and Information Research Scientists
+1303,Data Engineer,15-1199.07,0.8464511659049956,Data Warehousing Specialists
+1304,Junior Data Scientist,15-2041.00,0.8267136670585161,Statisticians
+1305,Data Analyst,15-1121.00,0.8371497177238283,Computer Systems Analysts
+1306,Applied Scientist,15-1111.00,0.8768727746339529,Computer and Information Research Scientists
+1307,Senior Data Scientist,15-1111.00,0.8469529175739207,Computer and Information Research Scientists
+1308,Data Science Internship,15-1111.00,0.8547084686546599,Computer and Information Research Scientists
+1309,Data Scientist - Online Channels,15-1111.00,0.8696504535640881,Computer and Information Research Scientists
+1310,Senior Data Scientist,15-1111.00,0.9256056355021259,Computer and Information Research Scientists
+1311,Data Scientist / Engineer,15-1199.07,0.8586209301284337,Data Warehousing Specialists
+1312,Data Analyst,15-1199.08,0.8640436872250741,Business Intelligence Analysts
+1313,"Data Science Manager, Retail",15-1111.00,0.8745794224495408,Computer and Information Research Scientists
+1314,Senior Data Engineer - ClienTech,15-1111.00,0.8796973754741919,Computer and Information Research Scientists
+1315,SENIOR DATA SCIENTIST (DIGITAL AND DATA SCIENCE),15-1111.00,0.8986645670261871,Computer and Information Research Scientists
+1316,Toronto AI Lab: AI / Machine Learning Scientist,15-1111.00,0.7152827958673573,Computer and Information Research Scientists
+1317,Senior Data Scientist,15-1111.00,0.9052014200737223,Computer and Information Research Scientists
+1318,Senior Data Scientist - Natural Language Processing (NLP),15-1111.00,0.8667926073864676,Computer and Information Research Scientists
+1319,"Data Analyst, Business Intelligence (BI)",15-1199.08,0.9003775842143905,Business Intelligence Analysts
+1320,Machine Learning Engineer / Data Scientist,15-1111.00,0.9053728447918611,Computer and Information Research Scientists
+1321,Data Engineer,15-1141.00,0.8266867456487379,Database Administrators
+1322,"Senior Data Scientist, RPS",15-1111.00,0.875997510473656,Computer and Information Research Scientists
+1323,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+1324,Data Analyst (Part,15-1199.08,0.8528204179036319,Business Intelligence Analysts
+1325,Data Engineer - Applied AI,15-1111.00,0.8873317886747175,Computer and Information Research Scientists
+1326,"Data Strategist, Digital Factory",15-1199.07,0.86204877454353,Data Warehousing Specialists
+1327,Senior Data Scientist,15-1111.00,0.8634763333775941,Computer and Information Research Scientists
+1328,Machine Learning/Data Engineer,15-1111.00,0.8326857485064912,Computer and Information Research Scientists
+1329,Machine Learning Scientist,15-1111.00,0.818868095326112,Computer and Information Research Scientists
+1330,Principal Data Engineer,15-1199.07,0.8674600435362141,Data Warehousing Specialists
+1331,Data Engineer,15-1199.07,0.8768681044203527,Data Warehousing Specialists
+1332,Senior Data Engineer,15-1111.00,0.8879595722228436,Computer and Information Research Scientists
+1333,Data Engineer,15-1199.07,0.8464511659049956,Data Warehousing Specialists
+1334,Software Engineer - Data Engineering,15-1111.00,0.8783881421982044,Computer and Information Research Scientists
+1335,Senior Data Engineer - Analytics,15-1111.00,0.8974131402391551,Computer and Information Research Scientists
+1336,Sr. Data Engineer,15-1199.07,0.8509498519459326,Data Warehousing Specialists
+1337,Software Engineer/Data Engineer,15-1199.06,0.8736374987059243,Database Architects
+1338,Data Engineer,15-1199.07,0.8652493958226383,Data Warehousing Specialists
+1339,Junior Data Engineer,15-1199.07,0.7907313713427966,Data Warehousing Specialists
+1340,Data Engineer,15-1199.07,0.8870939675662869,Data Warehousing Specialists
+1341,Data Engineer,15-1199.07,0.8711396830026138,Data Warehousing Specialists
+1342,Data Engineer,15-1199.07,0.8529943264307761,Data Warehousing Specialists
+1343,Data Engineer,15-1111.00,0.8656597940239422,Computer and Information Research Scientists
+1344,Data Engineer,15-1199.07,0.8477694344705531,Data Warehousing Specialists
+1345,Data Engineer,15-1199.07,0.8702222232745711,Data Warehousing Specialists
+1346,Principal Engineer - Personalization,15-1133.00,0.8145376116678373,"Software Developers, Systems Software"
+1347,Data Engineer,15-1111.00,0.8860967491602324,Computer and Information Research Scientists
+1348,Data Engineer,15-1199.07,0.8805998261670294,Data Warehousing Specialists
+1349,Data Engineer,15-1111.00,0.873697134990824,Computer and Information Research Scientists
+1350,Data Engineer,15-1141.00,0.8550992714052342,Database Administrators
+1351,Data Engineer,15-1199.07,0.8830968231885368,Data Warehousing Specialists
+1352,Data Engineer,15-1141.00,0.8266867456487379,Database Administrators
+1353,Data Engineer Trainee,15-1111.00,0.9080218153410001,Computer and Information Research Scientists
+1354,Sr. Data Engineer,15-1111.00,0.7865399027733013,Computer and Information Research Scientists
+1355,Data Engineering Analyst,15-1111.00,0.8743833689633028,Computer and Information Research Scientists
+1356,Data Engineer,15-1111.00,0.8877418887655083,Computer and Information Research Scientists
+1357,Data Engineer (New Grad),15-1111.00,0.8852538372583073,Computer and Information Research Scientists
+1358,Data Engineer,15-1199.07,0.878237492727837,Data Warehousing Specialists
+1359,Data Scientist / Engineer,15-1199.07,0.8586209301284337,Data Warehousing Specialists
+1360,Data Engineer,15-1199.07,0.8805998261670294,Data Warehousing Specialists
+1361,Data Engineer,15-1133.00,0.9055441648266982,"Software Developers, Systems Software"
+1362,Data Engineer,15-1199.07,0.8418759654850955,Data Warehousing Specialists
+1363,Data Engineer,15-1121.00,0.8653028433596325,Computer Systems Analysts
+1364,Data Engineer,15-1199.07,0.8349078912822245,Data Warehousing Specialists
+1365,Data Engineer,15-1199.07,0.857371608480347,Data Warehousing Specialists
+1366,Data Engineer-Data Integration,15-1121.00,0.8405228492166534,Computer Systems Analysts
+1367,Big Data Engineer,15-1141.00,0.8767073301552133,Database Administrators
+1368,Data Engineer,15-1199.07,0.8713415405287049,Data Warehousing Specialists
+1369,Software Engineer,15-1121.00,0.8104220858376088,Computer Systems Analysts
+1370,Data Scientist I,15-1111.00,0.875986217304671,Computer and Information Research Scientists
+1371,Data Engineer,15-1111.00,0.848002178369201,Computer and Information Research Scientists
+1372,Data Engineer,15-1199.07,0.8805998261670294,Data Warehousing Specialists
+1373,Data Analyst Internship,15-1121.00,0.8422968745004628,Computer Systems Analysts
+1374,Data Engineer (Contract),15-1199.07,0.8827469639455762,Data Warehousing Specialists
+1375,Data Engineer,15-1141.00,0.8266867456487379,Database Administrators
+1376,Data Engineer – Spend Intelligence,15-1121.00,0.8785917109295664,Computer Systems Analysts
+1377,Data Engineer (New Grad),15-1111.00,0.8863515359285468,Computer and Information Research Scientists
+1378,Senior Data Engineer - ClienTech,15-1111.00,0.8796973754741919,Computer and Information Research Scientists
+1379,Data Engineer - Toronto,15-1199.07,0.8423500089111723,Data Warehousing Specialists
+1380,Data Engineer,15-1141.00,0.8266867456487379,Database Administrators
+1381,Software Development Engineer - Big Data - Big Challenges,15-1121.00,0.8123764430645755,Computer Systems Analysts
+1382,Data Engineer,15-1199.07,0.8666168900249213,Data Warehousing Specialists
+1383,Data Engineer,15-1111.00,0.9093852772724251,Computer and Information Research Scientists
+1384,Senior Data Engineer,15-1121.00,0.8342059338153294,Computer Systems Analysts
+1385,Data Engineer,15-1199.07,0.8567899226595033,Data Warehousing Specialists
+1386,Software Engineer- Entry Level,15-1141.00,0.854541124715545,Database Administrators
+1387,Data Engineer,15-1199.07,0.8713415405287049,Data Warehousing Specialists
+1388,Data Engineer - BI & Data Science,15-1199.07,0.8755876100276659,Data Warehousing Specialists
+1389,Data Engineer,15-1199.07,0.8354635891676777,Data Warehousing Specialists
+1390,Data Analyst,15-1199.08,0.8585039639041074,Business Intelligence Analysts
+1391,Senior Data Engineer,15-1111.00,0.8427157279986776,Computer and Information Research Scientists
+1392,Data Engineer,15-1199.07,0.8877634004241869,Data Warehousing Specialists
+1393,Data Engineer,15-1199.07,0.8649847332795043,Data Warehousing Specialists
+1394,Data Engineer,15-1199.07,0.8634385637588181,Data Warehousing Specialists
+1395,Data Centre Engineer,15-1199.07,0.8534556595072557,Data Warehousing Specialists
+1396,Data Analyst,15-1111.00,0.8558187260487297,Computer and Information Research Scientists
+1397,Big Data Engineer,15-1199.06,0.8907684165423758,Database Architects
+1398,Data Engineer,15-1199.07,0.8310136530386659,Data Warehousing Specialists
+1399,Data Engineer,15-1199.07,0.8349078912822245,Data Warehousing Specialists
+1400,Business Systems Data Analyst,15-1121.00,0.9024585428036401,Computer Systems Analysts
+1401,Senior Data Analyst,15-1111.00,0.8871099741081038,Computer and Information Research Scientists
+1402,Data Analyst,15-1111.00,0.8558187260487297,Computer and Information Research Scientists
+1403,Data Analyst,15-1199.08,0.8073518864580621,Business Intelligence Analysts
+1404,"Data & Insights Analyst, Pension Administration",13-2099.01,0.8663098292565005,Financial Quantitative Analysts
+1405,Data Analyst,15-1199.07,0.8226937856492919,Data Warehousing Specialists
+1406,Data Analyst (Env. social Governance),15-1121.00,0.8296634905166198,Computer Systems Analysts
+1407,Data Analyst,15-1199.07,0.806593008120335,Data Warehousing Specialists
+1408,Marketing Data Analyst,15-1199.08,0.8487568253949956,Business Intelligence Analysts
+1409,Data Analyst,15-1121.00,0.8522514075629891,Computer Systems Analysts
+1410,Data Analyst (Part,15-1199.08,0.8528204179036319,Business Intelligence Analysts
+1411,Data Analyst,15-1199.07,0.8067490634124286,Data Warehousing Specialists
+1412,Product Data Analyst,13-2099.01,0.8524388094951085,Financial Quantitative Analysts
+1413,Data Analyst,15-1199.07,0.826705472189012,Data Warehousing Specialists
+1414,Data Analyst,15-1199.08,0.8032983330235401,Business Intelligence Analysts
+1415,"Business Analyst- Data Orchestrator, Capital Markets Trading Pla",15-1199.08,0.765068585427043,Business Intelligence Analysts
+1416,"Senior Actuarial Analyst, Data Science Team",15-1111.00,0.9111599499042262,Computer and Information Research Scientists
+1417,Data Analyst,15-1121.00,0.8776781713541332,Computer Systems Analysts
+1418,Data Analyst,13-2099.01,0.8678581492867845,Financial Quantitative Analysts
+1419,Data Analyst,15-1121.00,0.8371497177238283,Computer Systems Analysts
+1420,Data Analyst,15-1199.08,0.8585039639041074,Business Intelligence Analysts
+1421,Data Analyst,15-1199.07,0.8048399537271836,Data Warehousing Specialists
+1422,Data Analyst,15-1199.07,0.8217313195902112,Data Warehousing Specialists
+1423,Data Scientist - Intermediate & Senior,15-1111.00,0.8947070085637424,Computer and Information Research Scientists
+1424,Cloud Engineer - DevOps,15-1133.00,0.8062949206440067,"Software Developers, Systems Software"
+1425,Site Performance Engineer,15-1121.00,0.841748507489683,Computer Systems Analysts
+1426,Cloud Engineer - Tooling,15-1133.00,0.881660074240072,"Software Developers, Systems Software"
+1427,Data Engineer,15-1199.06,0.8608891957207347,Database Architects
+1428,Data Engineering Analyst,13-2099.01,0.8847993675510292,Financial Quantitative Analysts
+1429,Senior Data Engineer,15-1111.00,0.8566071748633048,Computer and Information Research Scientists
+1430,Data Engineer,15-1111.00,0.8535366638088211,Computer and Information Research Scientists
+1431,Data Engineer,15-1199.07,0.8961501760596374,Data Warehousing Specialists
+1432,Data Engineer,15-1111.00,0.8416888807842743,Computer and Information Research Scientists
+1433,Data Engineer,15-1199.07,0.8441226132474186,Data Warehousing Specialists
+1434,[Junior] Data Engineer,15-1111.00,0.8927312171596895,Computer and Information Research Scientists
+1435,Data Engineer,15-1111.00,0.8603771919781,Computer and Information Research Scientists
+1436,Data Engineer,15-1199.07,0.8349078912822245,Data Warehousing Specialists
+1437,Data Scientist,15-1111.00,0.8747170972266625,Computer and Information Research Scientists
+1438,Data Engineer - QuantumBlack,15-1199.07,0.8248655711514545,Data Warehousing Specialists
+1439,Data Engineer,15-1111.00,0.8517250336388414,Computer and Information Research Scientists
+1440,Data Engineer,15-1141.00,0.8710557391336605,Database Administrators
+1441,Data Engineer,15-1121.00,0.823019620617898,Computer Systems Analysts
+1442,Business Applications Engineer,15-1133.00,0.8498871771502072,"Software Developers, Systems Software"
+1443,Data Engineer,15-1199.07,0.8778371039516493,Data Warehousing Specialists
+1444,Data Engineer (Contract),15-1199.07,0.8763741394191658,Data Warehousing Specialists
+1445,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+1446,Human Resources Data Scientist,15-1111.00,0.8209393663983694,Computer and Information Research Scientists
+1447,Machine Learning Engineer,15-1111.00,0.8477077787185887,Computer and Information Research Scientists
+1448,Data Scientist,15-1111.00,0.8466228726243358,Computer and Information Research Scientists
+1449,Associate Data Scientist,15-1111.00,0.872069080966737,Computer and Information Research Scientists
+1450,Principal Data Engineer,15-1199.07,0.8674600435362141,Data Warehousing Specialists
+1451,Data Engineer,15-1199.07,0.8768681044203527,Data Warehousing Specialists
+1452,Data Engineer,15-1199.07,0.8464511659049956,Data Warehousing Specialists
+1453,Senior Data Engineer - Analytics,15-1111.00,0.8974131402391551,Computer and Information Research Scientists
+1454,Senior Data Engineer,15-1111.00,0.8879595722228436,Computer and Information Research Scientists
+1455,Data Scientist - Price Point – Start-up company,15-1111.00,0.8486041993463883,Computer and Information Research Scientists
+1456,Human Resources Data Scientist,15-1111.00,0.8209393663983694,Computer and Information Research Scientists
+1457,Lead - Human Resource Data Scientist,15-1111.00,0.8346529897164766,Computer and Information Research Scientists
+1458,Principal Data Engineer,15-1199.07,0.8674600435362141,Data Warehousing Specialists
+1459,Data Engineer,15-1199.07,0.8464511659049956,Data Warehousing Specialists
+1460,Data Engineer,15-1199.07,0.8464511659049956,Data Warehousing Specialists
