@@ -62,5 +62,7 @@ def analyze(name, field='description', n_top=20, search_kw='', is_saved=False):
 @manager.command()
 @click.argument('ngram_type')
 @click.option("--k", "k", default=20, help="Number top ngrams")
-def occupation_score(ngram_type, k=20):
-    occupation_scorer.score(ngram_type=ngram_type, k=k)
+@click.option("--data_table", "data_table", default="job_occupation", help="data table to store results")
+def occupation_score(ngram_type, k=20, data_table='job_occupation'):
+    table = '{0}_{1}_{2}'.format(data_table,ngram_type,k)
+    occupation_scorer.score(ngram_type=ngram_type, k=k, data_table=table)

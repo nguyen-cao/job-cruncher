@@ -5,7 +5,7 @@ from ml import nlp, process_text
 from analysis.job import engine, top_words, top_bigrams, top_trigrams
 from models.onet import ONet_Manager
 
-def score(ngram_type='bigram', k=20):
+def score(ngram_type='bigram', k=20, data_table='job_occupation'):
     query = 'select id, title, description from job_post'
     job_df = pd.read_sql_query(query, engine)
     job_titles = job_df['title'].to_list()
@@ -60,4 +60,4 @@ def score(ngram_type='bigram', k=20):
         'name':'occupation'
     }, inplace=True)
 
-    job_occupation_scorer.to_sql('job_occupation', con=engine, if_exists='replace', index=False)
+    job_occupation_scorer.to_sql(data_table, con=engine, if_exists='replace', index=False)
