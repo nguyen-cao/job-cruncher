@@ -64,5 +64,21 @@ crawl_interviews_production:
 	cd collectors; scrapy crawl glassdoor-job-interview -a query='machine-learning-engineer-interview-questions-SRCH_KO0,25.htm' -a max_items=500 -a search_kw='machine learning engineer'
 	cd collectors; scrapy crawl glassdoor-job-interview -a query='big-data-interview-questions-SRCH_KO0,8.htm' -a max_items=500 -a search_kw='big data'
 
-run_jupyter:
+run_analysis:
 	jupyter notebook
+
+start_database:
+	docker-compose -f docker-compose.yml up -d postgres
+
+stop_database:
+	docker-compose -f docker-compose.yml stop postgres
+
+init_ui:
+	docker-compose -f ui/docker-compose.yml pull
+	docker-compose -f ui/docker-compose.yml run --rm server create_db
+
+start_ui:
+	docker-compose -f ui/docker-compose.yml up -d
+
+stop_ui:
+	docker-compose -f ui/docker-compose.yml down

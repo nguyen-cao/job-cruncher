@@ -13,3 +13,8 @@ spacy
 cufflinks
 textblob
 sklearn
+flask
+click
+simplejson
+funcy
+joblib

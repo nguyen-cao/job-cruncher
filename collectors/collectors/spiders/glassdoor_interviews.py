@@ -12,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC # available sin
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 
-from ..models.job import create_session
+from models.job import create_session
 from ..items import GlassdoorInterviewItem
 
 class GlassdoorInterviewSpider(scrapy.Spider):
@@ -54,7 +54,7 @@ class GlassdoorInterviewSpider(scrapy.Spider):
                 interview_title = author_info[0]
                 interview_date = interview_element.find_element_by_css_selector('.cell.alignRt.noWrap.minor.hideHH').text
                 interview_question = interview_element.find_element_by_css_selector('.questionText').text             
-                time.sleep(0.5)
+                time.sleep(1)
     
                 interview_item = GlassdoorInterviewItem()
                 interview_item['company'] = interview_company

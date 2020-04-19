@@ -12,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC # available sin
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 
-from ..models.job import create_session
+from models.job import create_session
 from ..items import IndeedJobItem
 
 class IndeedJobListSpider(scrapy.Spider):
@@ -54,7 +54,7 @@ class IndeedJobListSpider(scrapy.Spider):
 
                 job_link = job_element.find_element_by_css_selector('.jobtitle')
                 job_link.click()
-                time.sleep(0.5)
+                time.sleep(2)
                 job_description = driver.find_element_by_css_selector('#vjs-desc').text
 
                 job_item = IndeedJobItem()
