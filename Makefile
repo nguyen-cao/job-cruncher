@@ -94,4 +94,4 @@ build_systems:
 	docker-compose -f docker-compose.yml up -d db_postgres
 
 build_app:
-	cd collectors; python -c 'from collectors.models import job; job.create_schema(False)'
+	cd collectors; python -c 'from models import job; job.create_schema(False)'
