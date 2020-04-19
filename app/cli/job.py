@@ -50,13 +50,14 @@ def crawl(name='indeed', search_kw='data scientist', location='Vancouver, BC', m
 @click.option("--field", "field", default="description", help="Field to do analysis")
 @click.option("--n_top", "n_top", default=20, help="Number top items to return")
 @click.option("--search_kw", "search_kw", default="", help="search keyword for filtering")
-def analyze(name, field='description', n_top=20, search_kw=''):
+@click.option("--is_saved", "is_saved", default=False, help="is saved or not")
+def analyze(name, field='description', n_top=20, search_kw='', is_saved=False):
     if name == 'word':
-        job.top_words(field, n_top=n_top, search_kw=search_kw)
+        job.top_words(field, n_top=n_top, search_kw=search_kw, is_saved=is_saved)
     elif name == 'bigram':
-        job.top_bigrams(field, n_top=n_top, search_kw=search_kw)
+        job.top_bigrams(field, n_top=n_top, search_kw=search_kw, is_saved=is_saved)
     elif name == 'trigram':
-        job.top_trigrams(field, n_top=n_top, search_kw=search_kw)
+        job.top_trigrams(field, n_top=n_top, search_kw=search_kw, is_saved=is_saved)
 
 @manager.command()
 def occupation_score():
