@@ -73,10 +73,6 @@ start_database:
 stop_database:
 	docker-compose -f docker-compose.yml stop postgres
 
-init_ui:
-	docker-compose -f ui/docker-compose.yml pull
-	docker-compose -f ui/docker-compose.yml run --rm server create_db
-
 start_ui:
 	docker-compose -f ui/docker-compose.yml up -d
 
@@ -94,4 +90,5 @@ build_systems:
 	docker-compose -f docker-compose.yml up -d db_postgres
 
 build_app:
+	python -m spacy download en_core_web_md
 	python -c 'from models import job; job.create_schema(False)'
