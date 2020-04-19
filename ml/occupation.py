@@ -5,7 +5,7 @@ from ml import nlp, process_text
 from analysis.job import engine, top_words, top_bigrams, top_trigrams
 from models.onet import ONet_Manager
 
-def score(ngram_type='bigram', k=20, data_table='job_occupation'):
+def score(ngram_type='bigram', k=20, search_terms=[''], data_table='job_occupation'):
     query = 'select id, title, description from job_post'
     job_df = pd.read_sql_query(query, engine)
     job_titles = job_df['title'].to_list()
@@ -14,12 +14,18 @@ def score(ngram_type='bigram', k=20, data_table='job_occupation'):
     for i in range(len(job_titles)):
         job_titles[i] = process_text(job_titles[i])
 
-    if ngram_type == 'word':
-        vocab_df = top_words(field='description',n_top=k)
-    elif ngram_type == 'bigram':
-        vocab_df = top_bigrams(field='description',n_top=k)
-    elif ngram_type == 'trigram':
-        vocab_df = top_trigrams(field='description',n_top=k)
+    vocab_df = None
+    for search_term in search_terms:
+        if ngram_type == 'word':
+            ngram_df = top_words(field='description',n_top=k, search_kw=search_term)
+        elif ngram_type == 'bigram':
+            ngram_df = top_bigrams(field='description',n_top=k, search_kw=search_term)
+        elif ngram_type == 'trigram':
+            ngram_df = top_trigrams(field='description',n_top=k, search_kw=search_term)
+        if vocab_df is None:
+            vocab_df = ngram_df
+        else:
+            vocab_df = pd.concat([vocab_df,ngram_df])
 
     top_ngrams = vocab_df['ngram'].unique()
 

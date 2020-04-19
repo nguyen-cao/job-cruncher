@@ -62,7 +62,9 @@ def analyze(name, field='description', n_top=20, search_kw='', is_saved=False):
 @manager.command()
 @click.argument('ngram_type')
 @click.option("--k", "k", default=20, help="Number top ngrams")
-@click.option("--data_table", "data_table", default="job_occupation", help="data table to store results")
-def occupation_score(ngram_type, k=20, data_table='job_occupation'):
+@click.option("--search_kws", "search_kws", default='', help="List of search terms separated by -")
+@click.option("--data_table", "data_table", default="job_occupation", help="Data table to store results")
+def occupation_score(ngram_type, k=20, search_kws='', data_table='job_occupation'):
     table = '{0}_{1}_{2}'.format(data_table,ngram_type,k)
-    occupation_scorer.score(ngram_type=ngram_type, k=k, data_table=table)
+    search_terms = list(search_kws.split("-"))
+    occupation_scorer.score(ngram_type=ngram_type, k=k, search_terms=search_terms, data_table=table)
