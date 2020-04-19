@@ -12,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC # available sin
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 
-from models.job import create_session
+from models import job
 from ..items import IndeedReviewItem
 
 class IndeedCompReviewSpider(scrapy.Spider):
@@ -26,7 +26,7 @@ class IndeedCompReviewSpider(scrapy.Spider):
         self.company = company if company != None else ''
         self.max_items = int(max_items)
         self.reviews_scraped = 0
-        self.session = create_session()
+        self.session = job.create_session()
 
     def start_requests(self):
         urls = self.start_urls

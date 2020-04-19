@@ -12,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC # available sin
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 
-from models.job import create_session
+from models import job
 from ..items import GlassdoorInterviewItem
 
 class GlassdoorInterviewSpider(scrapy.Spider):
@@ -26,7 +26,7 @@ class GlassdoorInterviewSpider(scrapy.Spider):
         self.search_kw = search_kw if search_kw != None else ''
         self.max_items = int(max_items)
         self.interviews_scraped = 0
-        self.session = create_session()
+        self.session = job.create_session()
         self.num_pages = 1
 
     def start_requests(self):
