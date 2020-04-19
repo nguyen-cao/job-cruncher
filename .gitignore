@@ -133,3 +133,9 @@ dmypy.json
 
 # DS_Store contents
 .DS_Store
+
+# Local development
+local-dev
+data/pgdata
+ui/pgdata
+workflow

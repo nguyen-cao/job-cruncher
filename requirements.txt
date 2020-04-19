@@ -11,3 +11,8 @@ seaborn
 matplotlib
 spacy
 cufflinks
+textblob
+sklearn
+matplotlib_venn_wordcloud
+wordcloud
+pillow
