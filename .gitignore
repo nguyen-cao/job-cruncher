@@ -136,6 +136,6 @@ dmypy.json
 
 # Local development
 local-dev
+workflow
 data/pgdata
 ui/pgdata
-workflow

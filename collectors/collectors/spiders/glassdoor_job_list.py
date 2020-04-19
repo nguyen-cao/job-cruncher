@@ -12,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC # available sin
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium.webdriver.chrome.options import Options
 
-from ..models.job import create_session
+from models import job
 from ..items import GlassdoorJobItem, IndeedJobItem
 
 class GlassdoorJobListSpider(scrapy.Spider):
@@ -27,7 +27,7 @@ class GlassdoorJobListSpider(scrapy.Spider):
         self.search_kw = search_kw if search_kw != None else ''
         self.max_items = int(max_items)
         self.jobs_scraped = 0
-        self.session = create_session()
+        self.session = job.create_session()
 
     def start_requests(self):
         urls = self.start_urls
@@ -68,7 +68,7 @@ class GlassdoorJobListSpider(scrapy.Spider):
 
                 job_link = job_element.find_element_by_css_selector('.jobLink.jobInfoItem.jobTitle')
                 job_link.click()
-                time.sleep(0.5)
+                time.sleep(1)
                 
                 job_description = driver.find_element_by_css_selector('.jobDescriptionContent.desc').text
 

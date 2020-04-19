@@ -1,0 +1,24 @@
+version: '3.7'
+services:
+  db_postgres:
+    image: postgres:9.6
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+    environment:
+      POSTGRES_HOST_AUTH_METHOD: "trust"
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+      # Uncomment these lines to persist data on the local filesystem.
+      PGDATA: /var/lib/postgresql/data/pgdata
+    volumes:
+      - ./data/pgdata:/var/lib/postgresql/data/pgdata
+    networks: 
+      - default
+      - ui_network
+      
+networks:
+  ui_network:
+    external:
+      name: ui_default  

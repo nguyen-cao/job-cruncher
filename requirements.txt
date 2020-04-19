@@ -16,3 +16,9 @@ sklearn
 matplotlib_venn_wordcloud
 wordcloud
 pillow
+flask
+click
+simplejson
+funcy
+joblib
+wrapt

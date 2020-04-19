@@ -6,7 +6,7 @@
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-from .models.job import JobPost, create_session, close_session, CompanyReview, JobInterview
+from models.job import JobPost, create_session, close_session, CompanyReview, JobInterview
 from datetime import datetime
 
 PIPELINE_SPIDERS = {

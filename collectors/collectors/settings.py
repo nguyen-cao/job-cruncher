@@ -9,10 +9,12 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+import os
+
 BOT_NAME = 'collectors'
 
-SPIDER_MODULES = ['collectors.spiders']
-NEWSPIDER_MODULE = 'collectors.spiders'
+SPIDER_MODULES = ['collectors.collectors.spiders']
+NEWSPIDER_MODULE = 'collectors.collectors.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -65,10 +67,10 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'collectors.pipelines.IndeedJobListCollectorPipeline': 300,
-   'collectors.pipelines.IndeedCompReviewCollectorPipeline': 300,
-   'collectors.pipelines.GlassdoorJobListCollectorPipeline': 300,
-   'collectors.pipelines.GlassdoorInterviewCollectorPipeline': 300,
+   'collectors.collectors.pipelines.IndeedJobListCollectorPipeline': 300,
+   'collectors.collectors.pipelines.IndeedCompReviewCollectorPipeline': 300,
+   'collectors.collectors.pipelines.GlassdoorJobListCollectorPipeline': 300,
+   'collectors.collectors.pipelines.GlassdoorInterviewCollectorPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

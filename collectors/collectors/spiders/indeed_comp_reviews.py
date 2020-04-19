@@ -12,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC # available sin
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 
-from ..models.job import create_session
+from models import job
 from ..items import IndeedReviewItem
 
 class IndeedCompReviewSpider(scrapy.Spider):
@@ -20,13 +20,13 @@ class IndeedCompReviewSpider(scrapy.Spider):
     allowed_domains = ['indeed.com']
     start_urls = ['https://ca.indeed.com/cmp']
 
-    def __init__(self, query=None, max_items=1, search_kw=None, *args, **kwargs):
+    def __init__(self, query=None, max_items=1, company=None, *args, **kwargs):
         super(IndeedCompReviewSpider, self).__init__(*args, **kwargs)
         self.query = query
-        self.search_kw = search_kw if search_kw != None else ''
+        self.company = company if company != None else ''
         self.max_items = int(max_items)
         self.reviews_scraped = 0
-        self.session = create_session()
+        self.session = job.create_session()
 
     def start_requests(self):
         urls = self.start_urls
@@ -48,21 +48,25 @@ class IndeedCompReviewSpider(scrapy.Spider):
                 if (self.reviews_scraped > self.max_items):
                     return
 
-                review_company = self.search_kw # To be generalized
+                review_company = self.company # To be generalized
                 review_title = review_element.find_element_by_css_selector('.cmp-Review-title').text
                 review_rating = review_element.find_element_by_css_selector('.cmp-ReviewRating-text').text
                 details = review_element.find_element_by_css_selector('.cmp-ReviewAuthor').text
                 # Manipulating the data to get relevant information
                 review_author, review_location, review_date = details.rsplit('-', 2)
                 review_description = review_element.find_element_by_css_selector('.cmp-Review-text').text
-                time.sleep(0.5)
+                time.sleep(1)
+                idx1 = review_author.index('(')
+                idx2 = review_author.index(')')
+                author = review_author[0:idx1]
+                status = review_author[idx1+1:idx2]
 
                 review_item = IndeedReviewItem()
                 review_item['company'] = review_company
                 review_item['title'] = review_title
                 review_item['rating'] = review_rating
-                review_item['author'] = review_author
-                review_item['author_status'] = 'N/A'
+                review_item['author'] = author
+                review_item['author_status'] = status
                 review_item['location'] = review_location
                 review_item['date'] = review_date
                 review_item['description'] = review_description

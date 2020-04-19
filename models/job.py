@@ -52,7 +52,7 @@ class JobInterview(Base):
     id = Column(Integer, primary_key=True)
     company = Column(String(500), nullable=False)
     title = Column(String(500), nullable=False)
-    question = Column(String(500), nullable=False)
+    question = Column(Text, nullable=False)
     date = Column(String(50), nullable=False)
     source = Column(String(50), nullable=False)
     search_kw = Column(String(250), nullable=False)

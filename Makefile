@@ -64,5 +64,39 @@ crawl_interviews_production:
 	cd collectors; scrapy crawl glassdoor-job-interview -a query='machine-learning-engineer-interview-questions-SRCH_KO0,25.htm' -a max_items=500 -a search_kw='machine learning engineer'
 	cd collectors; scrapy crawl glassdoor-job-interview -a query='big-data-interview-questions-SRCH_KO0,8.htm' -a max_items=500 -a search_kw='big data'
 
-run_jupyter:
+run_analysis:
 	jupyter notebook
+
+start_database:
+	docker-compose -f docker-compose.yml up -d postgres
+
+stop_database:
+	docker-compose -f docker-compose.yml stop postgres
+
+start_ui:
+	docker-compose -f ui/docker-compose.yml up -d
+
+stop_ui:
+	docker-compose -f ui/docker-compose.yml down
+
+init_systems:
+	docker-compose -f ui/docker-compose.yml pull
+	docker-compose -f docker-compose.yml pull
+
+build_systems:
+	docker-compose -f ui/docker-compose.yml build
+	docker-compose -f ui/docker-compose.yml run --rm server create_db
+	docker-compose -f docker-compose.yml build
+	docker-compose -f docker-compose.yml up -d db_postgres
+
+build_app:
+	python -m spacy download en_core_web_md
+	python -c 'from models import job; job.create_schema(False)'
+
+start_app:
+	docker-compose -f ui/docker-compose.yml up -d
+	docker-compose -f docker-compose.yml up -d
+
+stop_app:
+	docker-compose -f ui/docker-compose.yml down
+	docker-compose -f docker-compose.yml down	
