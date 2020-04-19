@@ -86,3 +86,8 @@ stop_ui:
 init_systems:
 	docker-compose -f ui/docker-compose.yml pull
 	docker-compose -f docker-compose.yml pull
+
+build_systems:
+	docker-compose -f ui/docker-compose.yml build
+	docker-compose -f ui/docker-compose.yml run --rm server create_db
+	docker-compose -f docker-compose.yml build
