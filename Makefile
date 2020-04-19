@@ -82,3 +82,7 @@ start_ui:
 
 stop_ui:
 	docker-compose -f ui/docker-compose.yml down
+
+init_systems:
+	docker-compose -f ui/docker-compose.yml pull
+	docker-compose -f docker-compose.yml pull
