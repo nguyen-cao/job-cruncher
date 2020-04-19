@@ -40,3 +40,4 @@ Install code base
 4. source .venv/bin/activate
 5. pip install -r requirements.txt
 6. make init_systems
+7. make build_systems
