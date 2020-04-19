@@ -92,3 +92,11 @@ build_systems:
 build_app:
 	python -m spacy download en_core_web_md
 	python -c 'from models import job; job.create_schema(False)'
+
+start_app:
+	docker-compose -f ui/docker-compose.yml up -d
+	docker-compose -f docker-compose.yml up -d
+
+stop_app:
+	docker-compose -f ui/docker-compose.yml down
+	docker-compose -f docker-compose.yml down	

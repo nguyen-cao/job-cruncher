@@ -60,5 +60,7 @@ def analyze(name, field='description', n_top=20, search_kw='', is_saved=False):
         job.top_trigrams(field, n_top=n_top, search_kw=search_kw, is_saved=is_saved)
 
 @manager.command()
-def occupation_score():
-    occupation_scorer.score()
+@click.argument('ngram_type')
+@click.option("--k", "k", default=20, help="Number top ngrams")
+def occupation_score(ngram_type, k=20):
+    occupation_scorer.score(ngram_type=ngram_type, k=k)
