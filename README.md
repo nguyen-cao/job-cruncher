@@ -86,6 +86,14 @@ Examples
 
     python manage.py job occupation-score bigram --k 50 --data_table 'job_occupation'
 
+**Web Frontend:**
+- URL: http://ec2-107-23-250-99.compute-1.amazonaws.com/
+- Credential to login: Email : cmpt733@sfu.ca | Password: cmpt733
+
+**Public Dashboards:**
+- [Job Post Analysis](http://ec2-107-23-250-99.compute-1.amazonaws.com/public/dashboards/095dLWQZM89cZScGVkrwR2cacnYCAS2kRaPh63sU?org_slug=default)
+- [Job Occupation Scoring](http://ec2-107-23-250-99.compute-1.amazonaws.com/public/dashboards/AkliuppeebHAzXaC8A7pFlN9NCD15vUK2HAbuYe2?org_slug=default)
+
 
 Contributors
 ----------
