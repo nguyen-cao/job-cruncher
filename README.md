@@ -2,14 +2,27 @@
 
 Big data science project to automatically find out what skills would be in a job post.
 
+Features
+----------
+- Collect job posts from job portals like Indeed.com, Glassdoor.ca
+- Analyze job posts by open-source NLP and ML libraries like spaCy, Scikit-learn.
+- Visualize results with Redash, an open-source business intelligence system.
+
+This project is built based on the Docker containers, so it is easy to deploy to a distributed production environment for handling large-scale processing.
+
 Structure
 ----------
-- [collectors/](collectors/) - Data collector module. This module is structured based on a typical Scrapy project. In the submodules you will find out web spiders to scrape job posts, company reviews and job interviews from Indeed and Glassdoor.
-- [datasets/](skills_ml/datasets/) - Wrappers for interfacing with different datasets, such as ONET, Urbanized Area.
-- [evaluation/](skills_ml/evaluation/) - Code for testing different components against each other.
+- [collectors/](collectors/) - Data collection module is structured based on a typical Scrapy project. In its submodules you will find out several web spiders to scrape job posts, company reviews and job interviews from Indeed and Glassdoor.
+- [models/](models/) - Data model module defines job and occupation models. This module serves as basis for other modules and in charge of storing data into Postgres database.
+- [analysis/](analysis/) - Data analysis module is responsible for EDA tasks. There is a submodule [notebooks](analysis/notebooks/) contains various Jupyter Notebooks for job and occupation analysis. 
+- [ml/](ml/) - Data mining module performs occupation scoring and competency scoring.
+- [datasets/](datasets/) - Sample datasets of job posts, company reviews, job interviews and ONET database.
+- [results/](results/) - This folder contains some intermediate results in CSV format used by other modules.
+- [ui/](ui/) - Data visualization module is responsible for setting up Redash dashboards.
+- [app/](app/) - Main app module is responsible for monitoring other modules to work with each other. This module is also in charge of setting up command lines to run tasks.
 
 ## Installation
-The following installation is on Ubuntu 18.04
+The the following section, you will install different libraries and systems to run on Ubuntu 18.04
 
 ### Install Python 3.7
 1. sudo apt update
@@ -53,6 +66,25 @@ The following installation is on Ubuntu 18.04
 ### Run
 1. source .venv/bin/activate
 2. make start_app
+
+Examples
+----------
+
+**Example 1:** Crawl job posts from Indeed with data scientist as a search keyword. Also crawl maximum 50 posts from Vancouver, BC.
+
+    python manage.py job crawl indeed --search_kw 'data scientist' --location 'Vancouver, BC' --max_items 50
+
+**Example 2:** Crawl job posts from Glassdoor with data engineer as a search keyword. Also crawl maximum 100 posts from Toronto, ON.
+
+    python manage.py job crawl glassdoor --search_kw 'data engineer’ --location Toronto, ON' --max_items 100 --query toronto-data-engineer-jobs-SRCH_IL.0,7_IC2281069_KO8,21.htm
+
+**Example 3:** Analyze job posts to get the top 50 frequent bigrams.
+
+    python manage.py job analyze bigram --n_top 50
+
+**Example 4:** Compute the matching occupations of job posts using top 50 frequent bigrams.
+
+    python manage.py job occupation-score bigram --k 50 --data_table 'job_occupation'
 
 
 Contributors
