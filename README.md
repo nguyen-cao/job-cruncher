@@ -3,7 +3,6 @@
 Big data science project to automatically find out what skills would be in a job post.
 
 ## Installation
------------
 The following installation is on Ubuntu 18.04
 
 ### Install Python 3.7
