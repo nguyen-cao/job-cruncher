@@ -2,6 +2,12 @@
 
 Big data science project to automatically find out what skills would be in a job post.
 
+Structure
+----------
+- [collectors/](collectors/) - Data collector module. This module is structured based on a typical Scrapy project. In the submodules you will find out web spiders to scrape job posts, company reviews and job interviews from Indeed and Glassdoor.
+- [datasets/](skills_ml/datasets/) - Wrappers for interfacing with different datasets, such as ONET, Urbanized Area.
+- [evaluation/](skills_ml/evaluation/) - Code for testing different components against each other.
+
 ## Installation
 The following installation is on Ubuntu 18.04
 
@@ -48,16 +54,10 @@ The following installation is on Ubuntu 18.04
 1. source .venv/bin/activate
 2. make start_app
 
-Structure
-----------
-- [algorithms/](skills_ml/algorithms/) - Core algorithmic module. Each submodule is meant to contain a different type of component, such as a job title normalizer or a skill tagger, with a common interface so different pipelines can try out different versions of the components.
-- [datasets/](skills_ml/datasets/) - Wrappers for interfacing with different datasets, such as ONET, Urbanized Area.
-- [evaluation/](skills_ml/evaluation/) - Code for testing different components against each other.
-
 
 Contributors
 ----------
-- Kwame Porter Robinson - [Github](https://github.com/robinsonkwame)
-- Eddie Lin - [Github](https://github.com/tweddielin)
-- Tristan Crockett - [Github](https://github.com/thcrock)
-- Zoo Chai - [Github](https://github.com/zoochai)
+- Nguyen Cao - [Github](https://github.com/data-catalysis)
+- Madana Krishnan K. V. - [Github](https://github.com/MadanKrishnan97)
+- Sanjana R. Chauhan - [Github](https://github.com/Sanjana12111994)
+- Sumukha B. Balasubramanya - [Github](https://github.com/sumukhab)
